@@ -652,7 +652,9 @@ int adventurerEffect(struct gameState *state)
   int z = 0;// this is the counter for the temp hand
 
   while(drawnTreasure<2){
-    if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+/** bug: changed <1 to >=1 so that shuffle occurs even when deck is not empty **/
+//    if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+    if (state->deckCount[currentPlayer] >=1){//if the deck is empty we need to shuffle discard and add to deck
       shuffle(currentPlayer, state);
     }
     drawCard(currentPlayer, state);
@@ -716,7 +718,9 @@ int feastEffect(struct gameState *state, int handPos, int choice)
 
   //Update Coins for Buy
   updateCoins(currentPlayer, state, 5);
-  x = 1;//Condition to loop on
+/** bug: changed 1 to 0 so that while loop will never engage **/
+//  x = 1;//Condition to loop on  
+  x = 0;//Condition to loop on
   while( x == 1) {//Buy one card
     if (supplyCount(choice, state) <= 0){
       if (DEBUG) {
@@ -779,6 +783,7 @@ int mineEffect(struct gameState *state, int handPos, int choice1, int choice2)
 
   //discard trashed card
   int i;
+
   for (i = 0; i < state->handCount[currentPlayer]; i++) {
     if (state->hand[currentPlayer][i] == j) {
       discardCard(i, currentPlayer, state, 0);			
@@ -797,7 +802,8 @@ int remodelEffect(struct gameState *state, int handPos, int choice1, int choice2
     return -1;
   }
 
-  gainCard(choice2, state, 0, currentPlayer);
+/** bug: commented out gainCard  **/
+//  gainCard(choice2, state, 0, currentPlayer);
 
   //discard card from hand
   discardCard(handPos, currentPlayer, state, 0);
@@ -826,7 +832,8 @@ int smithyEffect(struct gameState *state, int handPos)
     }
 			
   //discard card from hand
-  discardCard(handPos, currentPlayer, state, 0);
+/** bug: commented out discardCard  **/
+//  discardCard(handPos, currentPlayer, state, 0);
   return 0;
 }
 		
