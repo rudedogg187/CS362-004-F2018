@@ -648,7 +648,8 @@ int cardEffect_adventurer(struct gameState *state)
   int z = 0;
   int currentPlayer = whoseTurn(state);
   int temphand[MAX_HAND];
-  int drawntreasure=0;
+  // int drawntreasure=0;
+  int drawntreasure;    //BUG
   int cardDrawn;
 
   while(drawntreasure<2){
@@ -665,7 +666,8 @@ int cardEffect_adventurer(struct gameState *state)
       z++;
     }
   }
-  while(z-1>=0){
+  // while(z-1>=0){
+  while(z-1>0){
     state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
     z=z-1;
   }
@@ -691,7 +693,8 @@ int cardEffect_feast(struct gameState *state, int choice1)
   updateCoins(currentPlayer, state, 5);
   x = 1;//Condition to loop on
   while( x == 1) {//Buy one card
-    if (supplyCount(choice1, state) <= 0){
+    // if (supplyCount(choice1, state) <= 0){
+    if (supplyCount(choice1, state) >= 0){    // BUG
       if (DEBUG)
         printf("None of that card left, sorry!\n");
 
@@ -735,6 +738,7 @@ int cardEffect_feast(struct gameState *state, int choice1)
 int cardEffect_smithy(struct gameState *state, int handPos)
 {
   int currentPlayer = whoseTurn();
+  handPos = 0;    //BUG
   //+3 Cards
   for (i = 0; i < 3; i++)
   {
@@ -754,7 +758,7 @@ int cardEffect_baron(struct gameState *state, int choice1)
   if (choice1 > 0)
   {//Boolean true or going to discard an estate
     int p = 0;//Iterator for hand!
-    int card_not_discarded = 1;//Flag for discard set!
+    // int card_not_discarded = 1;//Flag for discard set!  BUG
     while(card_not_discarded)
     {
       if (state->hand[currentPlayer][p] == estate)
@@ -786,7 +790,8 @@ int cardEffect_baron(struct gameState *state, int choice1)
             isGameOver(state);
           }
         }
-        card_not_discarded = 0;//Exit the loop
+        // card_not_discarded = 0;//Exit the loop
+        card_not_discarded == 0;//Exit the loop BUG
       }
 
       else
