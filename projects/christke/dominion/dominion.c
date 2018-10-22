@@ -738,7 +738,7 @@ int cardEffect_feast(struct gameState *state, int choice1)
 int cardEffect_smithy(struct gameState *state, int handPos)
 {
   int currentPlayer = whoseTurn(state);
-  handPos = 0;    //BUG
+  // handPos = 0;    //BUG
   //+3 Cards
   for (int i = 0; i < 3; i++)
   {
