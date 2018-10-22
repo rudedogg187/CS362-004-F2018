@@ -648,8 +648,8 @@ int cardEffect_adventurer(struct gameState *state)
   int z = 0;
   int currentPlayer = whoseTurn(state);
   int temphand[MAX_HAND];
-  // int drawntreasure=0;
-  int drawntreasure;    //BUG
+  int drawntreasure=0;
+  // int drawntreasure;    //BUG
   int cardDrawn;
 
   while(drawntreasure<2){
@@ -737,10 +737,10 @@ int cardEffect_feast(struct gameState *state, int choice1)
 
 int cardEffect_smithy(struct gameState *state, int handPos)
 {
-  int currentPlayer = whoseTurn();
+  int currentPlayer = whoseTurn(state);
   handPos = 0;    //BUG
   //+3 Cards
-  for (i = 0; i < 3; i++)
+  for (int i = 0; i < 3; i++)
   {
     drawCard(currentPlayer, state);
   }
@@ -752,13 +752,13 @@ int cardEffect_smithy(struct gameState *state, int handPos)
 
 int cardEffect_baron(struct gameState *state, int choice1)
 {
-  int currentPlayer = whoseTurn();
+  int currentPlayer = whoseTurn(state);
 
   state->numBuys++;//Increase buys by 1!
   if (choice1 > 0)
   {//Boolean true or going to discard an estate
     int p = 0;//Iterator for hand!
-    // int card_not_discarded = 1;//Flag for discard set!  BUG
+    int card_not_discarded = 1;//Flag for discard set!
     while(card_not_discarded)
     {
       if (state->hand[currentPlayer][p] == estate)

@@ -12,6 +12,21 @@ playdom: dominion.o playdom.c
 testDrawCard: testDrawCard.c dominion.o rngs.o
 	gcc  -o testDrawCard -g  testDrawCard.c dominion.o rngs.o $(CFLAGS)
 
+testWhoseTurn: unittest1.c dominion.o	rngs.o
+	gcc -o testWhoseTurn -g unittest1.c dominion.o rngs.o $(CFLAGS)
+
+testFullDeckCount: unittest2.c dominion.o	rngs.o
+	gcc -o testFullDeckCount -g unittest2.c dominion.o rngs.o $(CFLAGS)
+
+testGetCost: unittest3.c dominion.o	rngs.o
+	gcc -o testGetCost -g unittest3.c dominion.o rngs.o $(CFLAGS)
+
+testIsGameOver: unittest4.c dominion.o	rngs.o
+	gcc -o testIsGameOver -g unittest4.c dominion.o rngs.o $(CFLAGS)
+
+testCardAdventurer: cardtest1.c dominion.o	rngs.o
+	gcc -o testCardAdventurer -g cardtest1.c dominion.o rngs.o $(CFLAGS)
+
 badTestDrawCard: badTestDrawCard.c dominion.o rngs.o
 	gcc -o badTestDrawCard -g  badTestDrawCard.c dominion.o rngs.o $(CFLAGS)
 
