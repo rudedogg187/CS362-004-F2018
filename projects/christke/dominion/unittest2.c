@@ -14,7 +14,7 @@ int main(void)
   int numPlayer = 2;
   int count;
   int k[10] = {adventurer, council_room, feast, gardens, mine
-           , remodel, smithy, village, baron, treasure_maps};
+           , remodel, smithy, village, baron, treasure_map};
 
   memset(&G, 23, sizeof(struct gameState));   // clear the game state
   initializeGame(numPlayer, k, seed, &G); // initialize a new game

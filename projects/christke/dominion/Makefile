@@ -28,10 +28,10 @@ testCardAdventurer: cardtest1.c dominion.o	rngs.o
 	gcc -o testCardAdventurer -g cardtest1.c dominion.o rngs.o $(CFLAGS)
 
 testCardSmithy: cardtest2.c dominion.o	rngs.o
-	gcc -o testCardSmithy -g cardtest2.c dominion.o rngs.o $(CFLAGS)
+	gcc -o testCardSmithy -g -coverage cardtest2.c dominion.o rngs.o $(CFLAGS)
 
 badTestDrawCard: badTestDrawCard.c dominion.o rngs.o
-	gcc -o badTestDrawCard -g  badTestDrawCard.c dominion.o rngs.o $(CFLAGS)
+	gcc -o badTestDrawCard -g badTestDrawCard.c dominion.o rngs.o $(CFLAGS)
 
 testBuyCard: testDrawCard.c dominion.o rngs.o
 	gcc -o testDrawCard -g  testDrawCard.c dominion.o rngs.o $(CFLAGS)
@@ -41,6 +41,17 @@ testAll: dominion.o testSuite.c
 
 interface.o: interface.h interface.c
 	gcc -c interface.c -g  $(CFLAGS)
+
+unittestresults: testWhoseTurn testFullDeckCount testGetCost testIsGameOver testCardAdventurer testCardSmithy
+	./testWhoseTurn &> unittestresults.out
+	./testFullDeckCount &> unittestresults.out
+	./testGetCost &> unittestresults.out
+	./testIsGameOver &> unittestresults.out
+	./testCardAdventurer &> unittestresults.out
+	./testCardSmithy &> unittestresults.out
+	gcov dominion.c >> unittestresults.out
+	cat dominion.c.gcov >> unittestresults.out
+
 
 runtests: testDrawCard
 	./testDrawCard &> unittestresult.out
