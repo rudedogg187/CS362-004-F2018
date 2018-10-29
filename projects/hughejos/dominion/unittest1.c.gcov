@@ -1,0 +1,119 @@
+        -:    0:Source:unittest1.c
+        -:    0:Graph:unittest1.gcno
+        -:    0:Data:unittest1.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include "dominion.h"
+        -:    2:#include "dominion_helpers.h"
+        -:    3:#include "rngs.h"
+        -:    4:
+        -:    5:#include <assert.h>
+        -:    6:#include <stdio.h>
+        -:    7:#include <string.h>
+        -:    8:
+        -:    9:// updateCoins input player, gameState, bonus:
+        -:   10:// updateCoins return 0;
+        -:   11:// updateCoins modifies gameState->coins;
+        1:   12:int main() {
+        -:   13:
+        1:   14:	printf("updateCoins() Test\n");
+        1:   15:	int fail = 0;
+        1:   16:	int player = 0;
+        1:   17:	int players = 3;
+        1:   18:	int seed = 3;
+        -:   19:
+        -:   20:	struct gameState G;
+        -:   21:
+        -:   22:
+        1:   23:	int testBonusLst[4] = {-1, 0, 1, 9999};
+        -:   24:
+        1:   25:	int k[10] = { adventurer, gardens, embargo, village, minion, mine, cutpurse, sea_hag, tribute, smithy };
+        -:   26:
+        1:   27:	initializeGame(players, k, seed, &G);
+        -:   28:
+        1:   29:	int handCnt = G.handCount[player];
+        -:   30:
+        1:   31:	int valueLst[treasure_map + 1] = {
+        -:   32:		0, //curse
+        -:   33:		0, //estate
+        -:   34:		0, //duchy
+        -:   35:		0, //province
+        -:   36:		
+        -:   37:		1, //copper
+        -:   38:		2, //silver
+        -:   39:		3, //gold
+        -:   40:		
+        -:   41:		0, //adventurer
+        -:   42:		0, //council_room
+        -:   43:		0, //feast
+        -:   44:		0, //gardens
+        -:   45:		0, //mine
+        -:   46:
+        -:   47:		0, //remodel
+        -:   48:		0, //smithy
+        -:   49:		0, //village
+        -:   50:
+        -:   51:		0, //baron
+        -:   52:		0, //great_hall
+        -:   53:		0, //minion
+        -:   54:		0, //steward
+        -:   55:		0, //tribute
+        -:   56:
+        -:   57:		0, //ambassador
+        -:   58:		0, //cutpurse
+        -:   59:		0, //embargo
+        -:   60:		0, //outpost
+        -:   61:		0, //salvager
+        -:   62:		0, //sea_hag
+        -:   63:		0  //treasure_map
+        -:   64:	};
+        -:   65:
+        5:   66:	for(int bonusIdx = 0; bonusIdx < 4; bonusIdx++) {
+        4:   67:		int bonus = testBonusLst[bonusIdx];
+        -:   68:
+      112:   69:		for(int card = curse; card <= treasure_map; card++) {
+      108:   70:			int expected = 0;
+        -:   71:
+      108:   72:			if(bonus > 0) {
+       54:   73:				expected += bonus;
+        -:   74:			}
+        -:   75:
+      108:   76:			printf("card: %d, bonus: %d, value:%d\n", card, bonus, valueLst[card]);
+      648:   77:			for(int cardNum = 0; cardNum < handCnt; cardNum++) {
+      540:   78:				G.hand[player][cardNum] = card;
+        -:   79:				
+      540:   80:				if(card >= copper && card <= gold) {
+       60:   81:					expected++;
+        -:   82:				}
+        -:   83:				
+      540:   84:				if(card >= silver && card <= gold) {
+       40:   85:					expected++;
+        -:   86:				}
+        -:   87:
+      540:   88:				if(card == gold) {
+       20:   89:					expected++;
+        -:   90:				}
+        -:   91:			}
+        -:   92:
+      108:   93:			updateCoins(player, &G, bonus);
+      108:   94:			printf("coins: %d\n", G.coins);
+      108:   95:			printf("expected: %d\n", expected);
+      108:   96:			if(expected == G.coins) {
+       81:   97:				printf("PASS\n\n");
+        -:   98:			} else {
+       27:   99:				fail++;
+       27:  100:				printf("FAIL\n\n");
+        -:  101:
+        -:  102:			}
+        -:  103:		}
+        -:  104:	}
+        -:  105:
+        1:  106:	if(fail > 0) {
+        1:  107:		printf("FAILED TEST\n");
+        -:  108:	} else {
+    #####:  109:		printf("PASSED TEST\n");
+        -:  110:	
+        -:  111:	}
+        1:  112:	return 0;
+        -:  113:
+        -:  114:}

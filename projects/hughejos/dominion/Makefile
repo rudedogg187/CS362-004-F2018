@@ -2,14 +2,13 @@ CFLAGS= -Wall -fpic -coverage -lm -std=c99
 TEST_OUT=unittestresults.out
 
 
-unittestresults: cardtest1.c cardtest2.c cardtest3.c cardtest4.c unittest1.c unittest2.c unittest3.c unittest4.c dominion.o rngs.o
+unittestresults: cardtest1 cardtest2 cardtest3 cardtest4 unittest1 unittest2 unittest3 unittest4
 	#create output file to display test results
-	echo "Results for HUGHEJOS Assignment 3 Unit Tests"> $(TEST_OUT)
+	echo "Results for HUGHEJOS Assignment 3 Unit Tests" > $(TEST_OUT)
 
 	#card test 1 start
 	echo "************" >> $(TEST_OUT)
 	echo "Card 1 (cardtest1.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o cardtest1 cardtest1.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 	./cardtest1 >> $(TEST_OUT)				#run and write output of unit test to output file
 	echo "\n" >> $(TEST_OUT)
 	gcov cardtest1.c >> $(TEST_OUT)				#write gcov results to output file
@@ -17,7 +16,6 @@ unittestresults: cardtest1.c cardtest2.c cardtest3.c cardtest4.c unittest1.c uni
 	#card test 2 start
 	echo "************" >> $(TEST_OUT)
 	echo "Card 2 (cardtest2.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o cardtest2 cardtest2.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 	./cardtest2 >> $(TEST_OUT)				#run and write output of unit test to output file
 	echo "\n" >> $(TEST_OUT)
 	gcov cardtest2.c >> $(TEST_OUT)				#write gcov results to output file
@@ -25,7 +23,6 @@ unittestresults: cardtest1.c cardtest2.c cardtest3.c cardtest4.c unittest1.c uni
 	#card test 3 start
 	echo "************" >> $(TEST_OUT)
 	echo "Card 3 (cardtest3.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o cardtest3 cardtest3.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 	./cardtest3 >> $(TEST_OUT)				#run and write output of unit test to output file
 	echo "\n" >> $(TEST_OUT)
 	gcov cardtest3.c >> $(TEST_OUT)				#write gcov results to output file
@@ -33,7 +30,6 @@ unittestresults: cardtest1.c cardtest2.c cardtest3.c cardtest4.c unittest1.c uni
 	#card test 4 start
 	echo "************" >> $(TEST_OUT)
 	echo "Card 4 (cardtest4.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o cardtest4 cardtest4.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 	./cardtest4 >> $(TEST_OUT)				#run and write output of unit test to output file
 	echo "\n" >> $(TEST_OUT)
 	gcov cardtest4.c >> $(TEST_OUT)				#write gcov results to output file
@@ -41,7 +37,6 @@ unittestresults: cardtest1.c cardtest2.c cardtest3.c cardtest4.c unittest1.c uni
 	#function test 1 start
 	echo "************" >> $(TEST_OUT)
 	echo "Function 1 (unittest1.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o unittest1 unittest1.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 	./unittest1 >> $(TEST_OUT)				#run and write output of unit test to output file
 	echo "\n" >> $(TEST_OUT)
 	gcov unittest1.c >> $(TEST_OUT)				#write gcov results to output file
@@ -49,7 +44,6 @@ unittestresults: cardtest1.c cardtest2.c cardtest3.c cardtest4.c unittest1.c uni
 	#function test 2 start
 	echo "************" >> $(TEST_OUT)
 	echo "Function 2 (unittest2.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o unittest2 unittest2.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 	./unittest2 >> $(TEST_OUT)				#run and write output of unit test to output file
 	echo "\n" >> $(TEST_OUT)
 	gcov unittest2.c >> $(TEST_OUT)				#write gcov results to output file
@@ -57,7 +51,6 @@ unittestresults: cardtest1.c cardtest2.c cardtest3.c cardtest4.c unittest1.c uni
 	#function test 3 start
 	echo "************" >> $(TEST_OUT)
 	echo "Function 3 (unittest3.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o unittest3 unittest3.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 	./unittest3 >> $(TEST_OUT)				#run and write output of unit test to output file
 	echo "\n" >> $(TEST_OUT)
 	gcov unittest3.c >> $(TEST_OUT)				#write gcov results to output file
@@ -65,138 +58,48 @@ unittestresults: cardtest1.c cardtest2.c cardtest3.c cardtest4.c unittest1.c uni
 	#function test 4 start
 	echo "************" >> $(TEST_OUT)
 	echo "Function 4 (unittest4.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o unittest4 unittest4.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 	./unittest4 >> $(TEST_OUT)				#run and write output of unit test to output file
 	echo "\n" >> $(TEST_OUT)
 	gcov unittest4.c >> $(TEST_OUT)				#write gcov results to output file
+
+	#dominion.c coverage
+	echo "************" >> $(TEST_OUT)
+	echo "dominion.c Coverage:" >> $(TEST_OUT)	#add unit test to output file
+	gcov  dominion.c >> unittestresults.out
+	cat dominion.c.gcov >> unittestresults.out
+	
 
 cardtest0: cardtest1.c dominion.o rngs.o
 	gcc -o cardtest1 cardtest1.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 	./cardtest1 >> $(TEST_OUT)				#run and write output of unit test to output file
 
 cardtest1: cardtest1.c dominion.o rngs.o
-	#create output file to display test results
-	echo "Results for HUGHEJOS Assignment 3 Unit Tests"> $(TEST_OUT)
-
-	#card test 1 start
-	echo "************" >> $(TEST_OUT)
-	echo "Card 1 (cardtest1.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o cardtest1 cardtest1.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
-	./cardtest1 >> $(TEST_OUT)				#run and write output of unit test to output file
-	echo "\n" >> $(TEST_OUT)
-	gcov cardtest1.c >> $(TEST_OUT)				#write gcov results to output file
-
-	gcov dominion.c >> unittestresult.out
-	cat dominion.c.gcov >> unittestresult.out
-
-	echo "************\n\n" >> $(TEST_OUT)
-
+	gcc -o cardtest1 -g cardtest1.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 
 cardtest2: cardtest2.c dominion.o rngs.o
-	#create output file to display test results
-	echo "Results for HUGHEJOS Assignment 3 Unit Tests"> $(TEST_OUT)
-
-	#card test 2 start
-	echo "************" >> $(TEST_OUT)
-	echo "Card 2 (cardtest2.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o cardtest2 cardtest2.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
-	./cardtest2 >> $(TEST_OUT)				#run and write output of unit test to output file
-	echo "\n" >> $(TEST_OUT)
-	gcov cardtest2.c >> $(TEST_OUT)				#write gcov results to output file
-	echo "************\n\n" >> $(TEST_OUT)
+	gcc -o cardtest2 -g cardtest2.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 
 cardtest3: cardtest3.c dominion.o rngs.o
-	#create output file to display test results
-	echo "Results for HUGHEJOS Assignment 3 Unit Tests"> $(TEST_OUT)
-
-	#card test 3 start
-	echo "************" >> $(TEST_OUT)
-	echo "Card 3 (cardtest3.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o cardtest3 cardtest3.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
-	./cardtest3 >> $(TEST_OUT)				#run and write output of unit test to output file
-	echo "\n" >> $(TEST_OUT)
-	gcov cardtest3.c >> $(TEST_OUT)				#write gcov results to output file
-	echo "************\n\n" >> $(TEST_OUT)
+	gcc -o cardtest3 -g cardtest3.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 
 cardtest4: cardtest4.c dominion.o rngs.o
-	#create output file to display test results
-	echo "Results for HUGHEJOS Assignment 3 Unit Tests"> $(TEST_OUT)
-
-	#card test 4 start
-	echo "************" >> $(TEST_OUT)
-	echo "Card 4 (cardtest4.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o cardtest4 cardtest4.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
-	./cardtest4 >> $(TEST_OUT)				#run and write output of unit test to output file
-	echo "\n" >> $(TEST_OUT)
-	gcov cardtest4.c >> $(TEST_OUT)				#write gcov results to output file
-	echo "************\n\n" >> $(TEST_OUT)
+	gcc -o cardtest4 -g cardtest4.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 
 #drawCardExample
 unittest0: unittest0.c dominion.o rngs.o
-	#create output file to display test results
-	echo "Results for HUGHEJOS Assignment 3 Unit Tests"> $(TEST_OUT)
-
-	#function test 0 start
-	echo "************" >> $(TEST_OUT)
-	echo "Function 0 (unittest0.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o unittest0 unittest0.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
-	./unittest0 >> $(TEST_OUT)				#run and write output of unit test to output file
-	echo "\n" >> $(TEST_OUT)
-	gcov unittest0.c >> $(TEST_OUT)				#write gcov results to output file
-	echo "************\n\n" >> $(TEST_OUT)
+	gcc -o unittest0 -g unittest0.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 
 unittest1: unittest1.c dominion.o rngs.o
-	#create output file to display test results
-	echo "Results for HUGHEJOS Assignment 3 Unit Tests"> $(TEST_OUT)
-
-	#function test 1 start
-	echo "************" >> $(TEST_OUT)
-	echo "Function 1 (unittest1.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o unittest1 unittest1.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
-	./unittest1 >> $(TEST_OUT)				#run and write output of unit test to output file
-	echo "\n" >> $(TEST_OUT)
-	gcov unittest1.c >> $(TEST_OUT)				#write gcov results to output file
-	echo "************\n\n" >> $(TEST_OUT)
+	gcc -o unittest1 -g unittest1.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 
 unittest2: unittest2.c dominion.o rngs.o
-	#create output file to display test results
-	echo "Results for HUGHEJOS Assignment 3 Unit Tests"> $(TEST_OUT)
-
-	#function test 2 start
-	echo "************" >> $(TEST_OUT)
-	echo "Function 2 (unittest2.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o unittest2 unittest2.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
-	./unittest2 >> $(TEST_OUT)				#run and write output of unit test to output file
-	echo "\n" >> $(TEST_OUT)
-	gcov unittest2.c >> $(TEST_OUT)				#write gcov results to output file
-	echo "************\n\n" >> $(TEST_OUT)
+	gcc -o unittest2 -g unittest2.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 
 unittest3: unittest3.c dominion.o rngs.o
-	#create output file to display test results
-	echo "Results for HUGHEJOS Assignment 3 Unit Tests"> $(TEST_OUT)
-
-	#function test 3 start
-	echo "************" >> $(TEST_OUT)
-	echo "Function 3 (unittest3.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o unittest3 unittest3.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
-	./unittest3 >> $(TEST_OUT)				#run and write output of unit test to output file
-	echo "\n" >> $(TEST_OUT)
-	gcov unittest3.c >> $(TEST_OUT)				#write gcov results to output file
-	echo "************\n\n" >> $(TEST_OUT)
+	gcc -o unittest3 -g unittest3.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 
 unittest4: unittest4.c dominion.o rngs.o
-	#create output file to display test results
-	echo "Results for HUGHEJOS Assignment 3 Unit Tests"> $(TEST_OUT)
-
-	#function test 4 start
-	echo "************" >> $(TEST_OUT)
-	echo "Function 4 (unittest4.c):" >> $(TEST_OUT)	#add unit test to output file
-	gcc -o unittest4 unittest4.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
-	./unittest4 >> $(TEST_OUT)				#run and write output of unit test to output file
-	echo "\n" >> $(TEST_OUT)
-	gcov unittest4.c >> $(TEST_OUT)				#write gcov results to output file
-	echo "************\n\n" >> $(TEST_OUT)
-
+	gcc -o unittest4 -g unittest4.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
 
 rngs.o: rngs.h rngs.c
 	gcc -c rngs.c -g  $(CFLAGS)

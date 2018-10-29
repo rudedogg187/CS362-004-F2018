@@ -1,0 +1,79 @@
+        -:    0:Source:unittest2.c
+        -:    0:Graph:unittest2.gcno
+        -:    0:Data:unittest2.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include "dominion.h"
+        -:    2:#include "dominion_helpers.h"
+        -:    3:#include "rngs.h"
+        -:    4:
+        -:    5:#include <assert.h>
+        -:    6:#include <stdio.h>
+        -:    7:#include <string.h>
+        -:    8:
+        -:    9:// getCost input cardNumber:
+        -:   10:// getCost return cost of card;
+        1:   11:int main() {
+        1:   12:	printf("getCost() Test\n");
+        1:   13:	int fail = 0;
+        1:   14:	int costLst[treasure_map + 1] = {
+        -:   15:		0, //curse
+        -:   16:		2, //estate
+        -:   17:		5, //duchy
+        -:   18:		8, //province
+        -:   19:		
+        -:   20:		0, //copper
+        -:   21:		3, //silver
+        -:   22:		6, //gold
+        -:   23:		
+        -:   24:		6, //adventurer
+        -:   25:		5, //council_room
+        -:   26:		4, //feast
+        -:   27:		4, //gardens
+        -:   28:		5, //mine
+        -:   29:
+        -:   30:		4, //remodel
+        -:   31:		4, //smithy
+        -:   32:		3, //village
+        -:   33:
+        -:   34:		4, //baron
+        -:   35:		3, //great_hall
+        -:   36:		5, //minion
+        -:   37:		3, //steward
+        -:   38:		5, //tribute
+        -:   39:
+        -:   40:		3, //ambassador
+        -:   41:		4, //cutpurse
+        -:   42:		2, //embargo
+        -:   43:		5, //outpost
+        -:   44:		4, //salvager
+        -:   45:		4, //sea_hag
+        -:   46:		4  //treasure_map
+        -:   47:	};
+        -:   48:
+       28:   49:	for(int card = curse; card <= treasure_map; card++) {
+       27:   50:		printf("card: %d cost:%d\n", card, costLst[card]);
+       27:   51:		printf("getCost():%d\n", getCost(card));
+        -:   52:
+       27:   53:		if(getCost(card) != costLst[card]) {
+    #####:   54:			printf("FAIL\n\n");
+    #####:   55:			fail++;
+        -:   56:		} else {
+       27:   57:			printf("PASS\n\n");
+        -:   58:		}
+        -:   59:
+        -:   60:		//assert(getCost(card) == costLst[card]);
+        -:   61:	}
+        -:   62:
+        1:   63:	if(fail > 0) {
+    #####:   64:		printf("FAILED TEST\n");
+        -:   65:	} else {
+        1:   66:		printf("PASSED TEST\n");
+        -:   67:	}
+        -:   68:		
+        -:   69:	
+        -:   70:
+        -:   71:
+        1:   72:	return 0;
+        -:   73:
+        -:   74:}

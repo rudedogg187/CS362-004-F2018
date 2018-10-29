@@ -1,0 +1,80 @@
+        -:    0:Source:cardtest1.c
+        -:    0:Graph:cardtest1.gcno
+        -:    0:Data:cardtest1.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include "dominion.h"
+        -:    2:#include "dominion_helpers.h"
+        -:    3:#include "rngs.h"
+        -:    4:
+        -:    5:#include <assert.h>
+        -:    6:#include <stdio.h>
+        -:    7:#include <string.h>
+        -:    8:
+        -:    9:
+        -:   10:// smithy
+        1:   11:int main() {
+        1:   12:	int useCardEffect = 1;
+        1:   13:	int card = smithy;
+        1:   14:	int choice1 = 0;
+        1:   15:	int choice2 = 0;
+        1:   16:	int choice3 = 0;
+        1:   17:	int handPos = 0;
+        1:   18:	int bonus = 0;
+        1:   19:	int isTrash = 0;
+        -:   20:
+        1:   21:	printf("Smithy Card Test\n");
+        -:   22:
+        1:   23:	int seed = 3;
+        1:   24:	int players = 3;
+        -:   25:	struct gameState G;
+        -:   26:	struct gameState G2;
+        -:   27:	
+        1:   28:	int k[10] = { adventurer, gardens, embargo, village, minion, mine, cutpurse, sea_hag, tribute, smithy };
+        -:   29:
+        1:   30:	initializeGame(players, k, seed, &G);
+        1:   31:	memcpy(&G2, &G, sizeof(struct gameState));
+        -:   32:
+        1:   33:	if(useCardEffect == 0) {
+    #####:   34:		smithyEffect(&G, handPos);
+        -:   35:	} else {
+        1:   36:		cardEffect(card, choice1, choice2, choice3, &G, handPos, &bonus);
+        -:   37:	}
+        -:   38:
+        1:   39:	int currPlayer = G.whoseTurn;
+        -:   40:
+        1:   41:	int currPlayer2 = G2.whoseTurn;
+        -:   42:
+        4:   43:	for(int draw = 0; draw < 3; draw++) {
+        3:   44:		drawCard(currPlayer2, &G2);
+        -:   45:	}
+        -:   46:
+        1:   47:	discardCard(handPos, currPlayer2, &G2, isTrash);
+        -:   48:
+        1:   49:	int cardCnt = G.handCount[currPlayer];
+        1:   50:	int cardCnt2 = G2.handCount[currPlayer];
+        -:   51:
+        1:   52:	int cmp = memcmp(&G, &G2, sizeof(struct gameState));
+        -:   53:
+        1:   54:	if(cardCnt != cardCnt2) {
+        1:   55:		printf("FAIL - CARD COUNTS DIFFER BY %d\n", cardCnt - cardCnt2);
+        -:   56:	}
+        -:   57:
+        1:   58:	if(cmp != 0) {
+        1:   59:		printf("FAIL - GAME-STATE and TEST GAME-STATE DIFFER (%d)\n", cmp);
+        -:   60:	}
+        -:   61:
+        1:   62:	if(cmp == 0 && cardCnt == cardCnt2) {
+    #####:   63:		printf("PASS - TEST COMPLETE\n");
+        -:   64:	}
+        -:   65:	
+        -:   66:	//assert(cardCnt == cardCnt2);
+        -:   67:	//assert(cmp == 0);
+        -:   68:
+        -:   69:	//printf("cp: %d, hc: %d\n", currPlayer, cardCnt);
+        -:   70:	//printf("cp: %d, hc: %d\n", currPlayer2, cardCnt2);
+        -:   71:	//printf("cmp: %d\n", cmp);
+        -:   72:
+        1:   73:	return 0;
+        -:   74:
+        -:   75:}
