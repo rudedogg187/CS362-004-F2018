@@ -772,6 +772,9 @@ int mineEffect(struct gameState *state, int handPos, int choice1, int choice2)
   if (state->hand[currentPlayer][choice1] < copper || state->hand[currentPlayer][choice1] > gold ||
     choice2 > treasure_map || choice2 < curse ||
     (getCost(state->hand[currentPlayer][choice1]) + 3) > getCost(choice2) ) {
+ 
+    /**bug discard add in condition statement**/ 
+    discardCard(handPos, currentPlayer, state, 0);
     
     return -1;
   }

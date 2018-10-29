@@ -12,7 +12,7 @@ int getCost(int cardNumber);
 
 
 
-int adventureEffect(struct gameState *state);
+int adventurerEffect(struct gameState *state);
 int councilRoomEffect(struct gameState *state, int handPos);
 int feastEffect(struct gameState *state, int handPos, int choice);
 int mineEffect(struct gameState *state, int handPos, int choice1, 
