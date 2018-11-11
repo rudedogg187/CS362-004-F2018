@@ -1,6 +1,16 @@
 CFLAGS= -Wall -fpic -coverage -lm -std=c99
 TEST_OUT=unittestresults.out
+RAND_0=randomtestadventurer
+RAND_1=randomtest1
+RAND_2=randomtest2
 
+randomtest0: $(RAND_0).c dominion.o rngs.o
+	gcc -o $(RAND_0) $(RAND_0).c dominion.o rngs.o $(CFLAGS)		#compile random test with gcov flags
+	./$(RAND_0) #>> $(RAND_0).out
+
+randomtest1: randomtestadventurer.c dominion.o rngs.o
+	gcc -o $(RAND_1) $(RAND_1).c dominion.o rngs.o $(CFLAGS)		#compile random test with gcov flags
+	./$(RAND_1) >> $(RAND_1).out
 
 unittestresults: cardtest1 cardtest2 cardtest3 cardtest4 unittest1 unittest2 unittest3 unittest4
 	#create output file to display test results
@@ -67,7 +77,6 @@ unittestresults: cardtest1 cardtest2 cardtest3 cardtest4 unittest1 unittest2 uni
 	echo "dominion.c Coverage:" >> $(TEST_OUT)	#add unit test to output file
 	gcov  dominion.c >> unittestresults.out
 	cat dominion.c.gcov >> unittestresults.out
-	
 
 cardtest0: cardtest1.c dominion.o rngs.o
 	gcc -o cardtest1 cardtest1.c dominion.o rngs.o $(CFLAGS)			#compile unit test with gcov flags
@@ -140,6 +149,17 @@ all: playdom player
 clean:
 	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe
 
+cleanrandomtest0:
+	rm $(RAND_0).out randomtestadventurer *.gcov *.gcno *.gcda
+
+cleanrandomtest1:
+	rm $(RAND_1).out randomtestadventurer *.gcov *.gcno *.gcda
+
+cleanrandomtest2:
+	rm $(RAND_2).out randomtestadventurer *.gcov *.gcno *.gcda
+
+
+
 cleancardtest1:
 	rm $(TEST_OUT) cardtest1 *.gcov *.gcno *.gcda
 
@@ -154,6 +174,7 @@ cleancardtest4:
 
 cleanunittest0:
 	rm $(TEST_OUT) unittest0 *.gcov *.gcno *.gcda
+
 
 cleanunittest1:
 	rm $(TEST_OUT) unittest1 *.gcov *.gcno *.gcda
