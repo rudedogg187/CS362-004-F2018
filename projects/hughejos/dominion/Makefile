@@ -1,27 +1,35 @@
 CFLAGS= -Wall -fpic -coverage -lm -std=c99
 TEST_OUT=unittestresults.out
 RAND_0=randomtestadventurer
-RAND_1=randomtest1
-RAND_2=randomtest2
+RAND_1=randomtestcard1
+RAND_2=randomtestcard2
 
-randomtest0: $(RAND_0).c dominion.o rngs.o
-	gcc -o $(RAND_0) $(RAND_0).c dominion.o rngs.o $(CFLAGS)		#compile random test with gcov flags
-	./$(RAND_0) #>> $(RAND_0).out
 
-randomtest1: randomtestadventurer.c dominion.o rngs.o
-	gcc -o $(RAND_1) $(RAND_1).c dominion.o rngs.o $(CFLAGS)		#compile random test with gcov flags
-	./$(RAND_1) >> $(RAND_1).out
+randomtestresults: $(RAND_0) $(RAND_1) $(RAND_2)
+
+randomtestadventurer: $(RAND_0).c dominion.o rngs.o random_helpers.o
+	gcc -o $(RAND_0) $(RAND_0).c dominion.o rngs.o random_helpers.o $(CFLAGS)		#compile random test with gcov flags
+	./$(RAND_0)  >> $(RAND_0).out
+	echo "\n" >> $(RAND_0).out
+	gcov -f dominion.c >> $(RAND_0).out
+
+randomtestcard1: $(RAND_1).c dominion.o rngs.o random_helpers.o
+	gcc -o $(RAND_1) $(RAND_1).c dominion.o rngs.o random_helpers.o $(CFLAGS)		#compile random test with gcov flags
+	./$(RAND_1)  >> $(RAND_1).out
+	echo "\n" >> $(RAND_1).out
+	gcov -f dominion.c >> $(RAND_1).out
+
+randomtestcard2: $(RAND_2).c dominion.o rngs.o random_helpers.o
+	gcc -o $(RAND_2) $(RAND_2).c dominion.o rngs.o random_helpers.o $(CFLAGS)		#compile random test with gcov flags
+	./$(RAND_2)  >> $(RAND_2).out
+	echo "\n" >> $(RAND_2).out
+	gcov -f dominion.c >> $(RAND_2).out
+
 
 unittestresults: cardtest1 cardtest2 cardtest3 cardtest4 unittest1 unittest2 unittest3 unittest4
 	#create output file to display test results
 	echo "Results for HUGHEJOS Assignment 3 Unit Tests" > $(TEST_OUT)
 
-	#card test 1 start
-	echo "************" >> $(TEST_OUT)
-	echo "Card 1 (cardtest1.c):" >> $(TEST_OUT)	#add unit test to output file
-	./cardtest1 >> $(TEST_OUT)				#run and write output of unit test to output file
-	echo "\n" >> $(TEST_OUT)
-	gcov cardtest1.c >> $(TEST_OUT)				#write gcov results to output file
 
 	#card test 2 start
 	echo "************" >> $(TEST_OUT)
@@ -150,14 +158,16 @@ clean:
 	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe
 
 cleanrandomtest0:
-	rm $(RAND_0).out randomtestadventurer *.gcov *.gcno *.gcda
+	rm $(RAND_0).out randomtestadventurer *.gcov *.gcno *.gcda *.o
 
 cleanrandomtest1:
-	rm $(RAND_1).out randomtestadventurer *.gcov *.gcno *.gcda
+	rm $(RAND_1).out $(RAND_1) *.gcov *.gcno *.gcda *.o
 
 cleanrandomtest2:
-	rm $(RAND_2).out randomtestadventurer *.gcov *.gcno *.gcda
+	rm $(RAND_2).out $(RAND_2) *.gcov *.gcno *.gcda *.o
 
+cleanrandomtestall:
+	rm *.out $(RAND_0) $(RAND_1) $(RAND_2) *.gcov *.gcno *.gcda *.o
 
 
 cleancardtest1:

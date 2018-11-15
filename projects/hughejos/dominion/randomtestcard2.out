@@ -1,0 +1,7594 @@
+This is random card tester: Smithy
+
+
+------------
+Test: 0)  Players: 4
+
+Random Player: 1
+Before Hand Count: 72
+Before Discard Count: 10
+Hand Position: 52
+Discard FAIL
+handcount: 72
+handcount: 75
+
+------------
+
+
+
+------------
+Test: 1)  Players: 3
+
+Random Player: 1
+Before Hand Count: 45
+Before Discard Count: 27
+Hand Position: 7
+Discard FAIL
+handcount: 45
+handcount: 48
+
+------------
+
+
+
+------------
+Test: 2)  Players: 4
+
+Random Player: 0
+Before Hand Count: 63
+Before Discard Count: 1
+Hand Position: 26
+Discard FAIL
+handcount: 63
+handcount: 66
+
+------------
+
+
+
+------------
+Test: 3)  Players: 4
+
+Random Player: 1
+Before Hand Count: 39
+Before Discard Count: 9
+Hand Position: 6
+Discard FAIL
+handcount: 39
+handcount: 42
+
+------------
+
+
+
+------------
+Test: 4)  Players: 2
+
+Random Player: 1
+Before Hand Count: 31
+Before Discard Count: 9
+Hand Position: 24
+Discard FAIL
+handcount: 31
+handcount: 34
+
+------------
+
+
+
+------------
+Test: 5)  Players: 2
+
+Random Player: 0
+Before Hand Count: 3
+Before Discard Count: 8
+Hand Position: 2
+Discard FAIL
+handcount: 3
+handcount: 6
+
+------------
+
+
+
+------------
+Test: 6)  Players: 2
+
+Random Player: 0
+Before Hand Count: 64
+Before Discard Count: 48
+Hand Position: 5
+Discard FAIL
+handcount: 64
+handcount: 67
+
+------------
+
+
+
+------------
+Test: 7)  Players: 2
+
+Random Player: 1
+Before Hand Count: 44
+Before Discard Count: 0
+Hand Position: 23
+Discard FAIL
+handcount: 44
+handcount: 47
+
+------------
+
+
+
+------------
+Test: 8)  Players: 2
+
+Random Player: 0
+Before Hand Count: 105
+Before Discard Count: 1
+Hand Position: 44
+Discard FAIL
+handcount: 105
+handcount: 108
+
+------------
+
+
+
+------------
+Test: 9)  Players: 4
+
+Random Player: 1
+Before Hand Count: 44
+Before Discard Count: 10
+Hand Position: 26
+Discard FAIL
+handcount: 44
+handcount: 47
+
+------------
+
+
+
+------------
+Test: 10)  Players: 4
+
+Random Player: 0
+Before Hand Count: 68
+Before Discard Count: 46
+Hand Position: 47
+Discard FAIL
+handcount: 68
+handcount: 71
+
+------------
+
+
+
+------------
+Test: 11)  Players: 2
+
+Random Player: 1
+Before Hand Count: 192
+Before Discard Count: 7
+Hand Position: 118
+Discard FAIL
+handcount: 192
+handcount: 195
+
+------------
+
+
+
+------------
+Test: 12)  Players: 3
+
+Random Player: 2
+Before Hand Count: 5
+Before Discard Count: 7
+Hand Position: 4
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 13)  Players: 4
+
+Random Player: 1
+Before Hand Count: 104
+Before Discard Count: 23
+Hand Position: 58
+Discard FAIL
+handcount: 104
+handcount: 107
+
+------------
+
+
+
+------------
+Test: 14)  Players: 2
+
+Random Player: 1
+Before Hand Count: 74
+Before Discard Count: 58
+Hand Position: 45
+Discard FAIL
+handcount: 74
+handcount: 77
+
+------------
+
+
+
+------------
+Test: 15)  Players: 4
+
+Random Player: 2
+Before Hand Count: 15
+Before Discard Count: 95
+Hand Position: 4
+Discard FAIL
+handcount: 15
+handcount: 18
+
+------------
+
+
+
+------------
+Test: 16)  Players: 2
+
+Random Player: 0
+Before Hand Count: 85
+Before Discard Count: 2
+Hand Position: 7
+Discard FAIL
+handcount: 85
+handcount: 88
+
+------------
+
+
+
+------------
+Test: 17)  Players: 2
+
+Random Player: 1
+Before Hand Count: 24
+Before Discard Count: 130
+Hand Position: 4
+Discard FAIL
+handcount: 24
+handcount: 27
+
+------------
+
+
+
+------------
+Test: 18)  Players: 2
+
+Random Player: 0
+Before Hand Count: 14
+Before Discard Count: 71
+Hand Position: 4
+Discard FAIL
+handcount: 14
+handcount: 17
+
+------------
+
+
+
+------------
+Test: 19)  Players: 4
+
+Random Player: 1
+Before Hand Count: 80
+Before Discard Count: 4
+Hand Position: 6
+Discard FAIL
+handcount: 80
+handcount: 83
+
+------------
+
+
+
+------------
+Test: 20)  Players: 2
+
+Random Player: 0
+Before Hand Count: 98
+Before Discard Count: 36
+Hand Position: 96
+Discard FAIL
+handcount: 98
+handcount: 101
+
+------------
+
+
+
+------------
+Test: 21)  Players: 3
+
+Random Player: 2
+Before Hand Count: 25
+Before Discard Count: 10
+Hand Position: 21
+Discard FAIL
+handcount: 25
+handcount: 28
+
+------------
+
+
+
+------------
+Test: 22)  Players: 2
+
+Random Player: 0
+Before Hand Count: 118
+Before Discard Count: 0
+Hand Position: 60
+Discard FAIL
+handcount: 118
+handcount: 121
+
+------------
+
+
+
+------------
+Test: 23)  Players: 4
+
+Random Player: 1
+Before Hand Count: 18
+Before Discard Count: 19
+Hand Position: 12
+Discard FAIL
+handcount: 18
+handcount: 21
+
+------------
+
+
+
+------------
+Test: 24)  Players: 3
+
+Random Player: 0
+Before Hand Count: 104
+Before Discard Count: 31
+Hand Position: 22
+Discard FAIL
+handcount: 104
+handcount: 107
+
+------------
+
+
+
+------------
+Test: 25)  Players: 4
+
+Random Player: 3
+Before Hand Count: 52
+Before Discard Count: 6
+Hand Position: 21
+Discard FAIL
+handcount: 52
+handcount: 55
+
+------------
+
+
+
+------------
+Test: 26)  Players: 3
+
+Random Player: 2
+Before Hand Count: 90
+Before Discard Count: 21
+Hand Position: 61
+Discard FAIL
+handcount: 90
+handcount: 93
+
+------------
+
+
+
+------------
+Test: 27)  Players: 4
+
+Random Player: 1
+Before Hand Count: 6
+Before Discard Count: 6
+Hand Position: 4
+Discard FAIL
+handcount: 6
+handcount: 9
+
+------------
+
+
+
+------------
+Test: 28)  Players: 4
+
+Random Player: 1
+Before Hand Count: 6
+Before Discard Count: 6
+Hand Position: 1
+Discard FAIL
+handcount: 6
+handcount: 9
+
+------------
+
+
+
+------------
+Test: 29)  Players: 4
+
+Random Player: 3
+Before Hand Count: 43
+Before Discard Count: 24
+Hand Position: 17
+Discard FAIL
+handcount: 43
+handcount: 46
+
+------------
+
+
+
+------------
+Test: 30)  Players: 3
+
+Random Player: 2
+Before Hand Count: 70
+Before Discard Count: 3
+Hand Position: 31
+Discard FAIL
+handcount: 70
+handcount: 73
+
+------------
+
+
+
+------------
+Test: 31)  Players: 2
+
+Random Player: 1
+Before Hand Count: 92
+Before Discard Count: 6
+Hand Position: 26
+Discard FAIL
+handcount: 92
+handcount: 95
+
+------------
+
+
+
+------------
+Test: 32)  Players: 4
+
+Random Player: 0
+Before Hand Count: 62
+Before Discard Count: 15
+Hand Position: 60
+Discard FAIL
+handcount: 62
+handcount: 65
+
+------------
+
+
+
+------------
+Test: 33)  Players: 4
+
+Random Player: 3
+Before Hand Count: 4
+Before Discard Count: 4
+Hand Position: 2
+Discard FAIL
+handcount: 4
+handcount: 7
+
+------------
+
+
+
+------------
+Test: 34)  Players: 4
+
+Random Player: 0
+Before Hand Count: 54
+Before Discard Count: 0
+Hand Position: 30
+Discard FAIL
+handcount: 54
+handcount: 57
+
+------------
+
+
+
+------------
+Test: 35)  Players: 4
+
+Random Player: 3
+Before Hand Count: 85
+Before Discard Count: 6
+Hand Position: 33
+Discard FAIL
+handcount: 85
+handcount: 88
+
+------------
+
+
+
+------------
+Test: 36)  Players: 3
+
+Random Player: 0
+Before Hand Count: 157
+Before Discard Count: 1
+Hand Position: 122
+Discard FAIL
+handcount: 157
+handcount: 160
+
+------------
+
+
+
+------------
+Test: 37)  Players: 2
+
+Random Player: 0
+Before Hand Count: 25
+Before Discard Count: 35
+Hand Position: 12
+Discard FAIL
+handcount: 25
+handcount: 28
+
+------------
+
+
+
+------------
+Test: 38)  Players: 2
+
+Random Player: 0
+Before Hand Count: 15
+Before Discard Count: 1
+Hand Position: 13
+Discard FAIL
+handcount: 15
+handcount: 18
+
+------------
+
+
+
+------------
+Test: 39)  Players: 3
+
+Random Player: 1
+Before Hand Count: 15
+Before Discard Count: 9
+Hand Position: 12
+Discard FAIL
+handcount: 15
+handcount: 18
+
+------------
+
+
+
+------------
+Test: 40)  Players: 2
+
+Random Player: 0
+Before Hand Count: 113
+Before Discard Count: 0
+Hand Position: 28
+Discard FAIL
+handcount: 113
+handcount: 116
+
+------------
+
+
+
+------------
+Test: 41)  Players: 4
+
+Random Player: 1
+Before Hand Count: 9
+Before Discard Count: 1
+Hand Position: 1
+Discard FAIL
+handcount: 9
+handcount: 12
+
+------------
+
+
+
+------------
+Test: 42)  Players: 2
+
+Random Player: 0
+Before Hand Count: 63
+Before Discard Count: 15
+Hand Position: 40
+Discard FAIL
+handcount: 63
+handcount: 66
+
+------------
+
+
+
+------------
+Test: 43)  Players: 3
+
+Random Player: 0
+Before Hand Count: 9
+Before Discard Count: 8
+Hand Position: 4
+Discard FAIL
+handcount: 9
+handcount: 12
+
+------------
+
+
+
+------------
+Test: 44)  Players: 2
+
+Random Player: 0
+Before Hand Count: 193
+Before Discard Count: 11
+Hand Position: 96
+Discard FAIL
+handcount: 193
+handcount: 196
+
+------------
+
+
+
+------------
+Test: 45)  Players: 3
+
+Random Player: 2
+Before Hand Count: 14
+Before Discard Count: 66
+Hand Position: 1
+Discard FAIL
+handcount: 14
+handcount: 17
+
+------------
+
+
+
+------------
+Test: 46)  Players: 3
+
+Random Player: 0
+Before Hand Count: 81
+Before Discard Count: 4
+Hand Position: 55
+Discard FAIL
+handcount: 81
+handcount: 84
+
+------------
+
+
+
+------------
+Test: 47)  Players: 4
+
+Random Player: 2
+Before Hand Count: 3
+Before Discard Count: 34
+Hand Position: 0
+Discard FAIL
+handcount: 3
+handcount: 6
+
+------------
+
+
+
+------------
+Test: 48)  Players: 4
+
+Random Player: 3
+Before Hand Count: 23
+Before Discard Count: 28
+Hand Position: 12
+Discard FAIL
+handcount: 23
+handcount: 26
+
+------------
+
+
+
+------------
+Test: 49)  Players: 2
+
+Random Player: 1
+Before Hand Count: 185
+Before Discard Count: 0
+Hand Position: 74
+Discard FAIL
+handcount: 185
+handcount: 188
+
+------------
+
+
+
+------------
+Test: 50)  Players: 3
+
+Random Player: 2
+Before Hand Count: 61
+Before Discard Count: 13
+Hand Position: 50
+Discard FAIL
+handcount: 61
+handcount: 64
+
+------------
+
+
+
+------------
+Test: 51)  Players: 2
+
+Random Player: 0
+Before Hand Count: 113
+Before Discard Count: 8
+Hand Position: 104
+Discard FAIL
+handcount: 113
+handcount: 116
+
+------------
+
+
+
+------------
+Test: 52)  Players: 4
+
+Random Player: 0
+Before Hand Count: 8
+Before Discard Count: 58
+Hand Position: 6
+Discard FAIL
+handcount: 8
+handcount: 11
+
+------------
+
+
+
+------------
+Test: 53)  Players: 2
+
+Random Player: 0
+Before Hand Count: 57
+Before Discard Count: 4
+Hand Position: 19
+Discard FAIL
+handcount: 57
+handcount: 60
+
+------------
+
+
+
+------------
+Test: 54)  Players: 2
+
+Random Player: 1
+Before Hand Count: 96
+Before Discard Count: 13
+Hand Position: 30
+Discard FAIL
+handcount: 96
+handcount: 99
+
+------------
+
+
+
+------------
+Test: 55)  Players: 3
+
+Random Player: 2
+Before Hand Count: 129
+Before Discard Count: 27
+Hand Position: 104
+Discard FAIL
+handcount: 129
+handcount: 132
+
+------------
+
+
+
+------------
+Test: 56)  Players: 4
+
+Random Player: 3
+Before Hand Count: 56
+Before Discard Count: 11
+Hand Position: 21
+Discard FAIL
+handcount: 56
+handcount: 59
+
+------------
+
+
+
+------------
+Test: 57)  Players: 2
+
+Random Player: 0
+Before Hand Count: 65
+Before Discard Count: 44
+Hand Position: 61
+Discard FAIL
+handcount: 65
+handcount: 68
+
+------------
+
+
+
+------------
+Test: 58)  Players: 2
+
+Random Player: 0
+Before Hand Count: 46
+Before Discard Count: 152
+Hand Position: 15
+Discard FAIL
+handcount: 46
+handcount: 49
+
+------------
+
+
+
+------------
+Test: 59)  Players: 3
+
+Random Player: 0
+Before Hand Count: 15
+Before Discard Count: 44
+Hand Position: 4
+Discard FAIL
+handcount: 15
+handcount: 18
+
+------------
+
+
+
+------------
+Test: 60)  Players: 4
+
+Random Player: 1
+Before Hand Count: 7
+Before Discard Count: 30
+Hand Position: 0
+Discard FAIL
+handcount: 7
+handcount: 10
+
+------------
+
+
+
+------------
+Test: 61)  Players: 4
+
+Random Player: 0
+Before Hand Count: 7
+Before Discard Count: 34
+Hand Position: 5
+Discard FAIL
+handcount: 7
+handcount: 10
+
+------------
+
+
+
+------------
+Test: 62)  Players: 2
+
+Random Player: 0
+Before Hand Count: 67
+Before Discard Count: 3
+Hand Position: 9
+Discard FAIL
+handcount: 67
+handcount: 70
+
+------------
+
+
+
+------------
+Test: 63)  Players: 4
+
+Random Player: 0
+Before Hand Count: 32
+Before Discard Count: 2
+Hand Position: 11
+Discard FAIL
+handcount: 32
+handcount: 35
+
+------------
+
+
+
+------------
+Test: 64)  Players: 2
+
+Random Player: 0
+Before Hand Count: 132
+Before Discard Count: 24
+Hand Position: 71
+Discard FAIL
+handcount: 132
+handcount: 135
+
+------------
+
+
+
+------------
+Test: 65)  Players: 3
+
+Random Player: 1
+Before Hand Count: 58
+Before Discard Count: 6
+Hand Position: 50
+Discard FAIL
+handcount: 58
+handcount: 61
+
+------------
+
+
+
+------------
+Test: 66)  Players: 4
+
+Random Player: 3
+Before Hand Count: 14
+Before Discard Count: 6
+Hand Position: 0
+Discard FAIL
+handcount: 14
+handcount: 17
+
+------------
+
+
+
+------------
+Test: 67)  Players: 2
+
+Random Player: 1
+Before Hand Count: 54
+Before Discard Count: 6
+Hand Position: 43
+Discard FAIL
+handcount: 54
+handcount: 57
+
+------------
+
+
+
+------------
+Test: 68)  Players: 2
+
+Random Player: 0
+Before Hand Count: 61
+Before Discard Count: 84
+Hand Position: 31
+Discard FAIL
+handcount: 61
+handcount: 64
+
+------------
+
+
+
+------------
+Test: 69)  Players: 2
+
+Random Player: 0
+Before Hand Count: 106
+Before Discard Count: 84
+Hand Position: 90
+Discard FAIL
+handcount: 106
+handcount: 109
+
+------------
+
+
+
+------------
+Test: 70)  Players: 4
+
+Random Player: 1
+Before Hand Count: 60
+Before Discard Count: 13
+Hand Position: 46
+Discard FAIL
+handcount: 60
+handcount: 63
+
+------------
+
+
+
+------------
+Test: 71)  Players: 4
+
+Random Player: 0
+Before Hand Count: 10
+Before Discard Count: 0
+Hand Position: 4
+Discard FAIL
+handcount: 10
+handcount: 13
+
+------------
+
+
+
+------------
+Test: 72)  Players: 2
+
+Random Player: 1
+Before Hand Count: 41
+Before Discard Count: 8
+Hand Position: 22
+Discard FAIL
+handcount: 41
+handcount: 44
+
+------------
+
+
+
+------------
+Test: 73)  Players: 4
+
+Random Player: 3
+Before Hand Count: 5
+Before Discard Count: 59
+Hand Position: 1
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 74)  Players: 4
+
+Random Player: 3
+Before Hand Count: 91
+Before Discard Count: 12
+Hand Position: 20
+Discard FAIL
+handcount: 91
+handcount: 94
+
+------------
+
+
+
+------------
+Test: 75)  Players: 3
+
+Random Player: 2
+Before Hand Count: 46
+Before Discard Count: 24
+Hand Position: 35
+Discard FAIL
+handcount: 46
+handcount: 49
+
+------------
+
+
+
+------------
+Test: 76)  Players: 3
+
+Random Player: 1
+Before Hand Count: 23
+Before Discard Count: 141
+Hand Position: 18
+Discard FAIL
+handcount: 23
+handcount: 26
+
+------------
+
+
+
+------------
+Test: 77)  Players: 3
+
+Random Player: 1
+Before Hand Count: 3
+Before Discard Count: 105
+Hand Position: 2
+Discard FAIL
+handcount: 3
+handcount: 6
+
+------------
+
+
+
+------------
+Test: 78)  Players: 4
+
+Random Player: 1
+Before Hand Count: 35
+Before Discard Count: 22
+Hand Position: 27
+Discard FAIL
+handcount: 35
+handcount: 38
+
+------------
+
+
+
+------------
+Test: 79)  Players: 3
+
+Random Player: 1
+Before Hand Count: 4
+Before Discard Count: 0
+Hand Position: 1
+Discard FAIL
+handcount: 4
+handcount: 7
+
+------------
+
+
+
+------------
+Test: 80)  Players: 2
+
+Random Player: 1
+Before Hand Count: 3
+Before Discard Count: 2
+Hand Position: 0
+Discard FAIL
+handcount: 3
+handcount: 6
+
+------------
+
+
+
+------------
+Test: 81)  Players: 2
+
+Random Player: 0
+Before Hand Count: 122
+Before Discard Count: 69
+Hand Position: 105
+Discard FAIL
+handcount: 122
+handcount: 125
+
+------------
+
+
+
+------------
+Test: 82)  Players: 3
+
+Random Player: 2
+Before Hand Count: 8
+Before Discard Count: 84
+Hand Position: 6
+Discard FAIL
+handcount: 8
+handcount: 11
+
+------------
+
+
+
+------------
+Test: 83)  Players: 2
+
+Random Player: 0
+Before Hand Count: 17
+Before Discard Count: 51
+Hand Position: 12
+Discard FAIL
+handcount: 17
+handcount: 20
+
+------------
+
+
+
+------------
+Test: 84)  Players: 3
+
+Random Player: 2
+Before Hand Count: 35
+Before Discard Count: 1
+Hand Position: 34
+Discard FAIL
+handcount: 35
+handcount: 38
+
+------------
+
+
+
+------------
+Test: 85)  Players: 2
+
+Random Player: 0
+Before Hand Count: 4
+Before Discard Count: 6
+Hand Position: 0
+Discard FAIL
+handcount: 4
+handcount: 7
+
+------------
+
+
+
+------------
+Test: 86)  Players: 2
+
+Random Player: 0
+Before Hand Count: 64
+Before Discard Count: 54
+Hand Position: 52
+Discard FAIL
+handcount: 64
+handcount: 67
+
+------------
+
+
+
+------------
+Test: 87)  Players: 3
+
+Random Player: 1
+Before Hand Count: 18
+Before Discard Count: 51
+Hand Position: 13
+Discard FAIL
+handcount: 18
+handcount: 21
+
+------------
+
+
+
+------------
+Test: 88)  Players: 3
+
+Random Player: 0
+Before Hand Count: 112
+Before Discard Count: 12
+Hand Position: 74
+Discard FAIL
+handcount: 112
+handcount: 115
+
+------------
+
+
+
+------------
+Test: 89)  Players: 2
+
+Random Player: 0
+Before Hand Count: 18
+Before Discard Count: 94
+Hand Position: 4
+Discard FAIL
+handcount: 18
+handcount: 21
+
+------------
+
+
+
+------------
+Test: 90)  Players: 2
+
+Random Player: 0
+Before Hand Count: 103
+Before Discard Count: 17
+Hand Position: 2
+Discard FAIL
+handcount: 103
+handcount: 106
+
+------------
+
+
+
+------------
+Test: 91)  Players: 2
+
+Random Player: 1
+Before Hand Count: 45
+Before Discard Count: 1
+Hand Position: 22
+Discard FAIL
+handcount: 45
+handcount: 48
+
+------------
+
+
+
+------------
+Test: 92)  Players: 4
+
+Random Player: 2
+Before Hand Count: 35
+Before Discard Count: 4
+Hand Position: 3
+Discard FAIL
+handcount: 35
+handcount: 38
+
+------------
+
+
+
+------------
+Test: 93)  Players: 2
+
+Random Player: 1
+Before Hand Count: 99
+Before Discard Count: 74
+Hand Position: 94
+Discard FAIL
+handcount: 99
+handcount: 102
+
+------------
+
+
+
+------------
+Test: 94)  Players: 2
+
+Random Player: 0
+Before Hand Count: 14
+Before Discard Count: 5
+Hand Position: 6
+Discard FAIL
+handcount: 14
+handcount: 17
+
+------------
+
+
+
+------------
+Test: 95)  Players: 3
+
+Random Player: 2
+Before Hand Count: 128
+Before Discard Count: 14
+Hand Position: 51
+Discard FAIL
+handcount: 128
+handcount: 131
+
+------------
+
+
+
+------------
+Test: 96)  Players: 4
+
+Random Player: 0
+Before Hand Count: 61
+Before Discard Count: 23
+Hand Position: 24
+Discard FAIL
+handcount: 61
+handcount: 64
+
+------------
+
+
+
+------------
+Test: 97)  Players: 3
+
+Random Player: 0
+Before Hand Count: 19
+Before Discard Count: 1
+Hand Position: 2
+Discard FAIL
+handcount: 19
+handcount: 22
+
+------------
+
+
+
+------------
+Test: 98)  Players: 4
+
+Random Player: 0
+Before Hand Count: 9
+Before Discard Count: 6
+Hand Position: 6
+Discard FAIL
+handcount: 9
+handcount: 12
+
+------------
+
+
+
+------------
+Test: 99)  Players: 2
+
+Random Player: 0
+Before Hand Count: 38
+Before Discard Count: 17
+Hand Position: 32
+Discard FAIL
+handcount: 38
+handcount: 41
+
+------------
+
+
+
+------------
+Test: 100)  Players: 4
+
+Random Player: 1
+Before Hand Count: 80
+Before Discard Count: 4
+Hand Position: 26
+Discard FAIL
+handcount: 80
+handcount: 83
+
+------------
+
+
+
+------------
+Test: 101)  Players: 4
+
+Random Player: 3
+Before Hand Count: 17
+Before Discard Count: 17
+Hand Position: 12
+Discard FAIL
+handcount: 17
+handcount: 20
+
+------------
+
+
+
+------------
+Test: 102)  Players: 3
+
+Random Player: 0
+Before Hand Count: 12
+Before Discard Count: 24
+Hand Position: 8
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 103)  Players: 3
+
+Random Player: 2
+Before Hand Count: 9
+Before Discard Count: 8
+Hand Position: 8
+Discard FAIL
+handcount: 9
+handcount: 12
+
+------------
+
+
+
+------------
+Test: 104)  Players: 4
+
+Random Player: 2
+Before Hand Count: 30
+Before Discard Count: 4
+Hand Position: 5
+Discard FAIL
+handcount: 30
+handcount: 33
+
+------------
+
+
+
+------------
+Test: 105)  Players: 3
+
+Random Player: 0
+Before Hand Count: 12
+Before Discard Count: 53
+Hand Position: 8
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 106)  Players: 3
+
+Random Player: 0
+Before Hand Count: 173
+Before Discard Count: 0
+Hand Position: 73
+Discard FAIL
+handcount: 173
+handcount: 176
+
+------------
+
+
+
+------------
+Test: 107)  Players: 4
+
+Random Player: 1
+Before Hand Count: 56
+Before Discard Count: 24
+Hand Position: 21
+Discard FAIL
+handcount: 56
+handcount: 59
+
+------------
+
+
+
+------------
+Test: 108)  Players: 2
+
+Random Player: 0
+Before Hand Count: 91
+Before Discard Count: 42
+Hand Position: 20
+Discard FAIL
+handcount: 91
+handcount: 94
+
+------------
+
+
+
+------------
+Test: 109)  Players: 4
+
+Random Player: 0
+Before Hand Count: 56
+Before Discard Count: 2
+Hand Position: 34
+Discard FAIL
+handcount: 56
+handcount: 59
+
+------------
+
+
+
+------------
+Test: 110)  Players: 3
+
+Random Player: 0
+Before Hand Count: 31
+Before Discard Count: 12
+Hand Position: 22
+Discard FAIL
+handcount: 31
+handcount: 34
+
+------------
+
+
+
+------------
+Test: 111)  Players: 3
+
+Random Player: 1
+Before Hand Count: 26
+Before Discard Count: 23
+Hand Position: 8
+Discard FAIL
+handcount: 26
+handcount: 29
+
+------------
+
+
+
+------------
+Test: 112)  Players: 3
+
+Random Player: 2
+Before Hand Count: 12
+Before Discard Count: 18
+Hand Position: 5
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 113)  Players: 4
+
+Random Player: 3
+Before Hand Count: 93
+Before Discard Count: 23
+Hand Position: 4
+Discard FAIL
+handcount: 93
+handcount: 96
+
+------------
+
+
+
+------------
+Test: 114)  Players: 2
+
+Random Player: 1
+Before Hand Count: 73
+Before Discard Count: 31
+Hand Position: 4
+Discard FAIL
+handcount: 73
+handcount: 76
+
+------------
+
+
+
+------------
+Test: 115)  Players: 2
+
+Random Player: 0
+Before Hand Count: 95
+Before Discard Count: 3
+Hand Position: 30
+Discard FAIL
+handcount: 95
+handcount: 98
+
+------------
+
+
+
+------------
+Test: 116)  Players: 2
+
+Random Player: 1
+Before Hand Count: 56
+Before Discard Count: 30
+Hand Position: 10
+Discard FAIL
+handcount: 56
+handcount: 59
+
+------------
+
+
+
+------------
+Test: 117)  Players: 2
+
+Random Player: 1
+Before Hand Count: 131
+Before Discard Count: 15
+Hand Position: 119
+Discard FAIL
+handcount: 131
+handcount: 134
+
+------------
+
+
+
+------------
+Test: 118)  Players: 3
+
+Random Player: 1
+Before Hand Count: 11
+Before Discard Count: 11
+Hand Position: 0
+Discard FAIL
+handcount: 11
+handcount: 14
+
+------------
+
+
+
+------------
+Test: 119)  Players: 3
+
+Random Player: 2
+Before Hand Count: 141
+Before Discard Count: 15
+Hand Position: 110
+Discard FAIL
+handcount: 141
+handcount: 144
+
+------------
+
+
+
+------------
+Test: 120)  Players: 3
+
+Random Player: 0
+Before Hand Count: 72
+Before Discard Count: 16
+Hand Position: 26
+Discard FAIL
+handcount: 72
+handcount: 75
+
+------------
+
+
+
+------------
+Test: 121)  Players: 3
+
+Random Player: 1
+Before Hand Count: 99
+Before Discard Count: 3
+Hand Position: 73
+Discard FAIL
+handcount: 99
+handcount: 102
+
+------------
+
+
+
+------------
+Test: 122)  Players: 4
+
+Random Player: 2
+Before Hand Count: 90
+Before Discard Count: 12
+Hand Position: 53
+Discard FAIL
+handcount: 90
+handcount: 93
+
+------------
+
+
+
+------------
+Test: 123)  Players: 2
+
+Random Player: 0
+Before Hand Count: 39
+Before Discard Count: 1
+Hand Position: 19
+Discard FAIL
+handcount: 39
+handcount: 42
+
+------------
+
+
+
+------------
+Test: 124)  Players: 3
+
+Random Player: 0
+Before Hand Count: 91
+Before Discard Count: 15
+Hand Position: 18
+Discard FAIL
+handcount: 91
+handcount: 94
+
+------------
+
+
+
+------------
+Test: 125)  Players: 2
+
+Random Player: 0
+Before Hand Count: 151
+Before Discard Count: 16
+Hand Position: 77
+Discard FAIL
+handcount: 151
+handcount: 154
+
+------------
+
+
+
+------------
+Test: 126)  Players: 4
+
+Random Player: 0
+Before Hand Count: 16
+Before Discard Count: 9
+Hand Position: 9
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 127)  Players: 3
+
+Random Player: 0
+Before Hand Count: 79
+Before Discard Count: 3
+Hand Position: 62
+Discard FAIL
+handcount: 79
+handcount: 82
+
+------------
+
+
+
+------------
+Test: 128)  Players: 2
+
+Random Player: 1
+Before Hand Count: 76
+Before Discard Count: 8
+Hand Position: 3
+Discard FAIL
+handcount: 76
+handcount: 79
+
+------------
+
+
+
+------------
+Test: 129)  Players: 2
+
+Random Player: 0
+Before Hand Count: 188
+Before Discard Count: 11
+Hand Position: 177
+Discard FAIL
+handcount: 188
+handcount: 191
+
+------------
+
+
+
+------------
+Test: 130)  Players: 3
+
+Random Player: 1
+Before Hand Count: 39
+Before Discard Count: 18
+Hand Position: 28
+Discard FAIL
+handcount: 39
+handcount: 42
+
+------------
+
+
+
+------------
+Test: 131)  Players: 2
+
+Random Player: 1
+Before Hand Count: 60
+Before Discard Count: 87
+Hand Position: 22
+Discard FAIL
+handcount: 60
+handcount: 63
+
+------------
+
+
+
+------------
+Test: 132)  Players: 2
+
+Random Player: 1
+Before Hand Count: 50
+Before Discard Count: 72
+Hand Position: 47
+Discard FAIL
+handcount: 50
+handcount: 53
+
+------------
+
+
+
+------------
+Test: 133)  Players: 3
+
+Random Player: 0
+Before Hand Count: 25
+Before Discard Count: 7
+Hand Position: 21
+Discard FAIL
+handcount: 25
+handcount: 28
+
+------------
+
+
+
+------------
+Test: 134)  Players: 2
+
+Random Player: 0
+Before Hand Count: 97
+Before Discard Count: 71
+Hand Position: 41
+Discard FAIL
+handcount: 97
+handcount: 100
+
+------------
+
+
+
+------------
+Test: 135)  Players: 2
+
+Random Player: 1
+Before Hand Count: 154
+Before Discard Count: 84
+Hand Position: 69
+Discard FAIL
+handcount: 154
+handcount: 157
+
+------------
+
+
+
+------------
+Test: 136)  Players: 4
+
+Random Player: 3
+Before Hand Count: 63
+Before Discard Count: 15
+Hand Position: 15
+Discard FAIL
+handcount: 63
+handcount: 66
+
+------------
+
+
+
+------------
+Test: 137)  Players: 3
+
+Random Player: 1
+Before Hand Count: 46
+Before Discard Count: 28
+Hand Position: 5
+Discard FAIL
+handcount: 46
+handcount: 49
+
+------------
+
+
+
+------------
+Test: 138)  Players: 2
+
+Random Player: 1
+Before Hand Count: 67
+Before Discard Count: 38
+Hand Position: 14
+Discard FAIL
+handcount: 67
+handcount: 70
+
+------------
+
+
+
+------------
+Test: 139)  Players: 4
+
+Random Player: 3
+Before Hand Count: 56
+Before Discard Count: 1
+Hand Position: 7
+Discard FAIL
+handcount: 56
+handcount: 59
+
+------------
+
+
+
+------------
+Test: 140)  Players: 2
+
+Random Player: 1
+Before Hand Count: 92
+Before Discard Count: 57
+Hand Position: 64
+Discard FAIL
+handcount: 92
+handcount: 95
+
+------------
+
+
+
+------------
+Test: 141)  Players: 2
+
+Random Player: 0
+Before Hand Count: 87
+Before Discard Count: 128
+Hand Position: 13
+Discard FAIL
+handcount: 87
+handcount: 90
+
+------------
+
+
+
+------------
+Test: 142)  Players: 4
+
+Random Player: 2
+Before Hand Count: 13
+Before Discard Count: 21
+Hand Position: 8
+Discard FAIL
+handcount: 13
+handcount: 16
+
+------------
+
+
+
+------------
+Test: 143)  Players: 3
+
+Random Player: 0
+Before Hand Count: 67
+Before Discard Count: 25
+Hand Position: 22
+Discard FAIL
+handcount: 67
+handcount: 70
+
+------------
+
+
+
+------------
+Test: 144)  Players: 3
+
+Random Player: 1
+Before Hand Count: 33
+Before Discard Count: 5
+Hand Position: 29
+Discard FAIL
+handcount: 33
+handcount: 36
+
+------------
+
+
+
+------------
+Test: 145)  Players: 2
+
+Random Player: 0
+Before Hand Count: 157
+Before Discard Count: 30
+Hand Position: 124
+Discard FAIL
+handcount: 157
+handcount: 160
+
+------------
+
+
+
+------------
+Test: 146)  Players: 2
+
+Random Player: 1
+Before Hand Count: 109
+Before Discard Count: 36
+Hand Position: 81
+Discard FAIL
+handcount: 109
+handcount: 112
+
+------------
+
+
+
+------------
+Test: 147)  Players: 4
+
+Random Player: 0
+Before Hand Count: 55
+Before Discard Count: 18
+Hand Position: 36
+Discard FAIL
+handcount: 55
+handcount: 58
+
+------------
+
+
+
+------------
+Test: 148)  Players: 2
+
+Random Player: 0
+Before Hand Count: 94
+Before Discard Count: 53
+Hand Position: 62
+Discard FAIL
+handcount: 94
+handcount: 97
+
+------------
+
+
+
+------------
+Test: 149)  Players: 3
+
+Random Player: 2
+Before Hand Count: 46
+Before Discard Count: 19
+Hand Position: 18
+Discard FAIL
+handcount: 46
+handcount: 49
+
+------------
+
+
+
+------------
+Test: 150)  Players: 3
+
+Random Player: 1
+Before Hand Count: 55
+Before Discard Count: 27
+Hand Position: 2
+Discard FAIL
+handcount: 55
+handcount: 58
+
+------------
+
+
+
+------------
+Test: 151)  Players: 2
+
+Random Player: 0
+Before Hand Count: 56
+Before Discard Count: 22
+Hand Position: 41
+Discard FAIL
+handcount: 56
+handcount: 59
+
+------------
+
+
+
+------------
+Test: 152)  Players: 4
+
+Random Player: 3
+Before Hand Count: 12
+Before Discard Count: 0
+Hand Position: 6
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 153)  Players: 3
+
+Random Player: 1
+Before Hand Count: 6
+Before Discard Count: 2
+Hand Position: 2
+Discard FAIL
+handcount: 6
+handcount: 9
+
+------------
+
+
+
+------------
+Test: 154)  Players: 3
+
+Random Player: 0
+Before Hand Count: 154
+Before Discard Count: 1
+Hand Position: 65
+Discard FAIL
+handcount: 154
+handcount: 157
+
+------------
+
+
+
+------------
+Test: 155)  Players: 2
+
+Random Player: 1
+Before Hand Count: 28
+Before Discard Count: 25
+Hand Position: 15
+Discard FAIL
+handcount: 28
+handcount: 31
+
+------------
+
+
+
+------------
+Test: 156)  Players: 2
+
+Random Player: 0
+Before Hand Count: 97
+Before Discard Count: 50
+Hand Position: 9
+Discard FAIL
+handcount: 97
+handcount: 100
+
+------------
+
+
+
+------------
+Test: 157)  Players: 2
+
+Random Player: 1
+Before Hand Count: 86
+Before Discard Count: 113
+Hand Position: 40
+Discard FAIL
+handcount: 86
+handcount: 89
+
+------------
+
+
+
+------------
+Test: 158)  Players: 3
+
+Random Player: 0
+Before Hand Count: 144
+Before Discard Count: 19
+Hand Position: 16
+Discard FAIL
+handcount: 144
+handcount: 147
+
+------------
+
+
+
+------------
+Test: 159)  Players: 3
+
+Random Player: 1
+Before Hand Count: 91
+Before Discard Count: 0
+Hand Position: 65
+Discard FAIL
+handcount: 91
+handcount: 94
+
+------------
+
+
+
+------------
+Test: 160)  Players: 3
+
+Random Player: 1
+Before Hand Count: 19
+Before Discard Count: 10
+Hand Position: 10
+Discard FAIL
+handcount: 19
+handcount: 22
+
+------------
+
+
+
+------------
+Test: 161)  Players: 4
+
+Random Player: 3
+Before Hand Count: 81
+Before Discard Count: 8
+Hand Position: 80
+Discard FAIL
+handcount: 81
+handcount: 84
+
+------------
+
+
+
+------------
+Test: 162)  Players: 4
+
+Random Player: 1
+Before Hand Count: 22
+Before Discard Count: 0
+Hand Position: 14
+Discard FAIL
+handcount: 22
+handcount: 25
+
+------------
+
+
+
+------------
+Test: 163)  Players: 3
+
+Random Player: 1
+Before Hand Count: 86
+Before Discard Count: 54
+Hand Position: 52
+Discard FAIL
+handcount: 86
+handcount: 89
+
+------------
+
+
+
+------------
+Test: 164)  Players: 3
+
+Random Player: 0
+Before Hand Count: 12
+Before Discard Count: 0
+Hand Position: 2
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 165)  Players: 3
+
+Random Player: 1
+Before Hand Count: 12
+Before Discard Count: 37
+Hand Position: 8
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 166)  Players: 3
+
+Random Player: 1
+Before Hand Count: 32
+Before Discard Count: 2
+Hand Position: 21
+Discard FAIL
+handcount: 32
+handcount: 35
+
+------------
+
+
+
+------------
+Test: 167)  Players: 4
+
+Random Player: 0
+Before Hand Count: 41
+Before Discard Count: 6
+Hand Position: 21
+Discard FAIL
+handcount: 41
+handcount: 44
+
+------------
+
+
+
+------------
+Test: 168)  Players: 2
+
+Random Player: 1
+Before Hand Count: 22
+Before Discard Count: 2
+Hand Position: 21
+Discard FAIL
+handcount: 22
+handcount: 25
+
+------------
+
+
+
+------------
+Test: 169)  Players: 3
+
+Random Player: 2
+Before Hand Count: 83
+Before Discard Count: 64
+Hand Position: 31
+Discard FAIL
+handcount: 83
+handcount: 86
+
+------------
+
+
+
+------------
+Test: 170)  Players: 3
+
+Random Player: 0
+Before Hand Count: 7
+Before Discard Count: 38
+Hand Position: 3
+Discard FAIL
+handcount: 7
+handcount: 10
+
+------------
+
+
+
+------------
+Test: 171)  Players: 4
+
+Random Player: 2
+Before Hand Count: 61
+Before Discard Count: 5
+Hand Position: 49
+Discard FAIL
+handcount: 61
+handcount: 64
+
+------------
+
+
+
+------------
+Test: 172)  Players: 4
+
+Random Player: 2
+Before Hand Count: 66
+Before Discard Count: 4
+Hand Position: 55
+Discard FAIL
+handcount: 66
+handcount: 69
+
+------------
+
+
+
+------------
+Test: 173)  Players: 2
+
+Random Player: 1
+Before Hand Count: 74
+Before Discard Count: 9
+Hand Position: 45
+Discard FAIL
+handcount: 74
+handcount: 77
+
+------------
+
+
+
+------------
+Test: 174)  Players: 2
+
+Random Player: 1
+Before Hand Count: 91
+Before Discard Count: 6
+Hand Position: 47
+Discard FAIL
+handcount: 91
+handcount: 94
+
+------------
+
+
+
+------------
+Test: 175)  Players: 2
+
+Random Player: 1
+Before Hand Count: 107
+Before Discard Count: 2
+Hand Position: 79
+Discard FAIL
+handcount: 107
+handcount: 110
+
+------------
+
+
+
+------------
+Test: 176)  Players: 2
+
+Random Player: 0
+Before Hand Count: 83
+Before Discard Count: 4
+Hand Position: 63
+Discard FAIL
+handcount: 83
+handcount: 86
+
+------------
+
+
+
+------------
+Test: 177)  Players: 2
+
+Random Player: 0
+Before Hand Count: 21
+Before Discard Count: 2
+Hand Position: 3
+Discard FAIL
+handcount: 21
+handcount: 24
+
+------------
+
+
+
+------------
+Test: 178)  Players: 3
+
+Random Player: 0
+Before Hand Count: 21
+Before Discard Count: 6
+Hand Position: 19
+Discard FAIL
+handcount: 21
+handcount: 24
+
+------------
+
+
+
+------------
+Test: 179)  Players: 4
+
+Random Player: 1
+Before Hand Count: 108
+Before Discard Count: 2
+Hand Position: 53
+Discard FAIL
+handcount: 108
+handcount: 111
+
+------------
+
+
+
+------------
+Test: 180)  Players: 3
+
+Random Player: 2
+Before Hand Count: 84
+Before Discard Count: 6
+Hand Position: 3
+Discard FAIL
+handcount: 84
+handcount: 87
+
+------------
+
+
+
+------------
+Test: 181)  Players: 4
+
+Random Player: 3
+Before Hand Count: 28
+Before Discard Count: 12
+Hand Position: 26
+Discard FAIL
+handcount: 28
+handcount: 31
+
+------------
+
+
+
+------------
+Test: 182)  Players: 2
+
+Random Player: 0
+Before Hand Count: 225
+Before Discard Count: 12
+Hand Position: 224
+Discard FAIL
+handcount: 225
+handcount: 228
+
+------------
+
+
+
+------------
+Test: 183)  Players: 2
+
+Random Player: 1
+Before Hand Count: 79
+Before Discard Count: 75
+Hand Position: 14
+Discard FAIL
+handcount: 79
+handcount: 82
+
+------------
+
+
+
+------------
+Test: 184)  Players: 2
+
+Random Player: 1
+Before Hand Count: 96
+Before Discard Count: 16
+Hand Position: 71
+Discard FAIL
+handcount: 96
+handcount: 99
+
+------------
+
+
+
+------------
+Test: 185)  Players: 4
+
+Random Player: 1
+Before Hand Count: 3
+Before Discard Count: 85
+Hand Position: 0
+Discard FAIL
+handcount: 3
+handcount: 6
+
+------------
+
+
+
+------------
+Test: 186)  Players: 3
+
+Random Player: 1
+Before Hand Count: 17
+Before Discard Count: 1
+Hand Position: 12
+Discard FAIL
+handcount: 17
+handcount: 20
+
+------------
+
+
+
+------------
+Test: 187)  Players: 2
+
+Random Player: 1
+Before Hand Count: 68
+Before Discard Count: 10
+Hand Position: 42
+Discard FAIL
+handcount: 68
+handcount: 71
+
+------------
+
+
+
+------------
+Test: 188)  Players: 4
+
+Random Player: 3
+Before Hand Count: 23
+Before Discard Count: 0
+Hand Position: 9
+Discard FAIL
+handcount: 23
+handcount: 26
+
+------------
+
+
+
+------------
+Test: 189)  Players: 3
+
+Random Player: 2
+Before Hand Count: 52
+Before Discard Count: 0
+Hand Position: 36
+Discard FAIL
+handcount: 52
+handcount: 55
+
+------------
+
+
+
+------------
+Test: 190)  Players: 2
+
+Random Player: 0
+Before Hand Count: 57
+Before Discard Count: 45
+Hand Position: 38
+Discard FAIL
+handcount: 57
+handcount: 60
+
+------------
+
+
+
+------------
+Test: 191)  Players: 3
+
+Random Player: 0
+Before Hand Count: 45
+Before Discard Count: 2
+Hand Position: 2
+Discard FAIL
+handcount: 45
+handcount: 48
+
+------------
+
+
+
+------------
+Test: 192)  Players: 4
+
+Random Player: 2
+Before Hand Count: 41
+Before Discard Count: 23
+Hand Position: 4
+Discard FAIL
+handcount: 41
+handcount: 44
+
+------------
+
+
+
+------------
+Test: 193)  Players: 3
+
+Random Player: 2
+Before Hand Count: 42
+Before Discard Count: 0
+Hand Position: 31
+Discard FAIL
+handcount: 42
+handcount: 45
+
+------------
+
+
+
+------------
+Test: 194)  Players: 2
+
+Random Player: 1
+Before Hand Count: 39
+Before Discard Count: 24
+Hand Position: 14
+Discard FAIL
+handcount: 39
+handcount: 42
+
+------------
+
+
+
+------------
+Test: 195)  Players: 3
+
+Random Player: 2
+Before Hand Count: 50
+Before Discard Count: 40
+Hand Position: 6
+Discard FAIL
+handcount: 50
+handcount: 53
+
+------------
+
+
+
+------------
+Test: 196)  Players: 2
+
+Random Player: 0
+Before Hand Count: 60
+Before Discard Count: 21
+Hand Position: 12
+Discard FAIL
+handcount: 60
+handcount: 63
+
+------------
+
+
+
+------------
+Test: 197)  Players: 4
+
+Random Player: 2
+Before Hand Count: 9
+Before Discard Count: 30
+Hand Position: 0
+Discard FAIL
+handcount: 9
+handcount: 12
+
+------------
+
+
+
+------------
+Test: 198)  Players: 3
+
+Random Player: 2
+Before Hand Count: 64
+Before Discard Count: 71
+Hand Position: 33
+Discard FAIL
+handcount: 64
+handcount: 67
+
+------------
+
+
+
+------------
+Test: 199)  Players: 2
+
+Random Player: 1
+Before Hand Count: 33
+Before Discard Count: 12
+Hand Position: 5
+Discard FAIL
+handcount: 33
+handcount: 36
+
+------------
+
+
+
+------------
+Test: 200)  Players: 4
+
+Random Player: 3
+Before Hand Count: 27
+Before Discard Count: 6
+Hand Position: 3
+Discard FAIL
+handcount: 27
+handcount: 30
+
+------------
+
+
+
+------------
+Test: 201)  Players: 3
+
+Random Player: 0
+Before Hand Count: 50
+Before Discard Count: 31
+Hand Position: 27
+Discard FAIL
+handcount: 50
+handcount: 53
+
+------------
+
+
+
+------------
+Test: 202)  Players: 3
+
+Random Player: 1
+Before Hand Count: 12
+Before Discard Count: 104
+Hand Position: 5
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 203)  Players: 4
+
+Random Player: 0
+Before Hand Count: 15
+Before Discard Count: 0
+Hand Position: 2
+Discard FAIL
+handcount: 15
+handcount: 18
+
+------------
+
+
+
+------------
+Test: 204)  Players: 3
+
+Random Player: 2
+Before Hand Count: 75
+Before Discard Count: 27
+Hand Position: 44
+Discard FAIL
+handcount: 75
+handcount: 78
+
+------------
+
+
+
+------------
+Test: 205)  Players: 3
+
+Random Player: 2
+Before Hand Count: 4
+Before Discard Count: 22
+Hand Position: 1
+Discard FAIL
+handcount: 4
+handcount: 7
+
+------------
+
+
+
+------------
+Test: 206)  Players: 3
+
+Random Player: 0
+Before Hand Count: 94
+Before Discard Count: 1
+Hand Position: 0
+Discard FAIL
+handcount: 94
+handcount: 97
+
+------------
+
+
+
+------------
+Test: 207)  Players: 2
+
+Random Player: 1
+Before Hand Count: 90
+Before Discard Count: 13
+Hand Position: 89
+Discard FAIL
+handcount: 90
+handcount: 93
+
+------------
+
+
+
+------------
+Test: 208)  Players: 2
+
+Random Player: 1
+Before Hand Count: 114
+Before Discard Count: 37
+Hand Position: 28
+Discard FAIL
+handcount: 114
+handcount: 117
+
+------------
+
+
+
+------------
+Test: 209)  Players: 2
+
+Random Player: 0
+Before Hand Count: 105
+Before Discard Count: 99
+Hand Position: 7
+Discard FAIL
+handcount: 105
+handcount: 108
+
+------------
+
+
+
+------------
+Test: 210)  Players: 4
+
+Random Player: 0
+Before Hand Count: 59
+Before Discard Count: 9
+Hand Position: 19
+Discard FAIL
+handcount: 59
+handcount: 62
+
+------------
+
+
+
+------------
+Test: 211)  Players: 3
+
+Random Player: 2
+Before Hand Count: 18
+Before Discard Count: 0
+Hand Position: 15
+Discard FAIL
+handcount: 18
+handcount: 21
+
+------------
+
+
+
+------------
+Test: 212)  Players: 2
+
+Random Player: 1
+Before Hand Count: 73
+Before Discard Count: 56
+Hand Position: 17
+Discard FAIL
+handcount: 73
+handcount: 76
+
+------------
+
+
+
+------------
+Test: 213)  Players: 3
+
+Random Player: 2
+Before Hand Count: 9
+Before Discard Count: 4
+Hand Position: 4
+Discard FAIL
+handcount: 9
+handcount: 12
+
+------------
+
+
+
+------------
+Test: 214)  Players: 4
+
+Random Player: 1
+Before Hand Count: 13
+Before Discard Count: 22
+Hand Position: 6
+Discard FAIL
+handcount: 13
+handcount: 16
+
+------------
+
+
+
+------------
+Test: 215)  Players: 4
+
+Random Player: 0
+Before Hand Count: 41
+Before Discard Count: 18
+Hand Position: 21
+Discard FAIL
+handcount: 41
+handcount: 44
+
+------------
+
+
+
+------------
+Test: 216)  Players: 3
+
+Random Player: 1
+Before Hand Count: 77
+Before Discard Count: 7
+Hand Position: 20
+Discard FAIL
+handcount: 77
+handcount: 80
+
+------------
+
+
+
+------------
+Test: 217)  Players: 2
+
+Random Player: 1
+Before Hand Count: 141
+Before Discard Count: 0
+Hand Position: 54
+Discard FAIL
+handcount: 141
+handcount: 144
+
+------------
+
+
+
+------------
+Test: 218)  Players: 4
+
+Random Player: 3
+Before Hand Count: 48
+Before Discard Count: 33
+Hand Position: 47
+Discard FAIL
+handcount: 48
+handcount: 51
+
+------------
+
+
+
+------------
+Test: 219)  Players: 4
+
+Random Player: 0
+Before Hand Count: 52
+Before Discard Count: 3
+Hand Position: 47
+Discard FAIL
+handcount: 52
+handcount: 55
+
+------------
+
+
+
+------------
+Test: 220)  Players: 3
+
+Random Player: 1
+Before Hand Count: 70
+Before Discard Count: 20
+Hand Position: 32
+Discard FAIL
+handcount: 70
+handcount: 73
+
+------------
+
+
+
+------------
+Test: 221)  Players: 2
+
+Random Player: 0
+Before Hand Count: 84
+Before Discard Count: 4
+Hand Position: 24
+Discard FAIL
+handcount: 84
+handcount: 87
+
+------------
+
+
+
+------------
+Test: 222)  Players: 4
+
+Random Player: 3
+Before Hand Count: 48
+Before Discard Count: 21
+Hand Position: 1
+Discard FAIL
+handcount: 48
+handcount: 51
+
+------------
+
+
+
+------------
+Test: 223)  Players: 2
+
+Random Player: 0
+Before Hand Count: 111
+Before Discard Count: 19
+Hand Position: 9
+Discard FAIL
+handcount: 111
+handcount: 114
+
+------------
+
+
+
+------------
+Test: 224)  Players: 4
+
+Random Player: 3
+Before Hand Count: 38
+Before Discard Count: 8
+Hand Position: 27
+Discard FAIL
+handcount: 38
+handcount: 41
+
+------------
+
+
+
+------------
+Test: 225)  Players: 3
+
+Random Player: 0
+Before Hand Count: 14
+Before Discard Count: 0
+Hand Position: 2
+Discard FAIL
+handcount: 14
+handcount: 17
+
+------------
+
+
+
+------------
+Test: 226)  Players: 3
+
+Random Player: 0
+Before Hand Count: 57
+Before Discard Count: 9
+Hand Position: 26
+Discard FAIL
+handcount: 57
+handcount: 60
+
+------------
+
+
+
+------------
+Test: 227)  Players: 3
+
+Random Player: 1
+Before Hand Count: 4
+Before Discard Count: 101
+Hand Position: 1
+Discard FAIL
+handcount: 4
+handcount: 7
+
+------------
+
+
+
+------------
+Test: 228)  Players: 2
+
+Random Player: 0
+Before Hand Count: 45
+Before Discard Count: 53
+Hand Position: 26
+Discard FAIL
+handcount: 45
+handcount: 48
+
+------------
+
+
+
+------------
+Test: 229)  Players: 4
+
+Random Player: 0
+Before Hand Count: 27
+Before Discard Count: 11
+Hand Position: 21
+Discard FAIL
+handcount: 27
+handcount: 30
+
+------------
+
+
+
+------------
+Test: 230)  Players: 2
+
+Random Player: 0
+Before Hand Count: 57
+Before Discard Count: 46
+Hand Position: 47
+Discard FAIL
+handcount: 57
+handcount: 60
+
+------------
+
+
+
+------------
+Test: 231)  Players: 3
+
+Random Player: 2
+Before Hand Count: 16
+Before Discard Count: 0
+Hand Position: 14
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 232)  Players: 2
+
+Random Player: 0
+Before Hand Count: 191
+Before Discard Count: 2
+Hand Position: 63
+Discard FAIL
+handcount: 191
+handcount: 194
+
+------------
+
+
+
+------------
+Test: 233)  Players: 2
+
+Random Player: 1
+Before Hand Count: 108
+Before Discard Count: 3
+Hand Position: 46
+Discard FAIL
+handcount: 108
+handcount: 111
+
+------------
+
+
+
+------------
+Test: 234)  Players: 4
+
+Random Player: 3
+Before Hand Count: 36
+Before Discard Count: 3
+Hand Position: 23
+Discard FAIL
+handcount: 36
+handcount: 39
+
+------------
+
+
+
+------------
+Test: 235)  Players: 3
+
+Random Player: 0
+Before Hand Count: 61
+Before Discard Count: 36
+Hand Position: 36
+Discard FAIL
+handcount: 61
+handcount: 64
+
+------------
+
+
+
+------------
+Test: 236)  Players: 2
+
+Random Player: 1
+Before Hand Count: 6
+Before Discard Count: 14
+Hand Position: 3
+Discard FAIL
+handcount: 6
+handcount: 9
+
+------------
+
+
+
+------------
+Test: 237)  Players: 3
+
+Random Player: 0
+Before Hand Count: 57
+Before Discard Count: 5
+Hand Position: 36
+Discard FAIL
+handcount: 57
+handcount: 60
+
+------------
+
+
+
+------------
+Test: 238)  Players: 4
+
+Random Player: 2
+Before Hand Count: 59
+Before Discard Count: 25
+Hand Position: 1
+Discard FAIL
+handcount: 59
+handcount: 62
+
+------------
+
+
+
+------------
+Test: 239)  Players: 4
+
+Random Player: 1
+Before Hand Count: 20
+Before Discard Count: 7
+Hand Position: 7
+Discard FAIL
+handcount: 20
+handcount: 23
+
+------------
+
+
+
+------------
+Test: 240)  Players: 2
+
+Random Player: 0
+Before Hand Count: 60
+Before Discard Count: 1
+Hand Position: 39
+Discard FAIL
+handcount: 60
+handcount: 63
+
+------------
+
+
+
+------------
+Test: 241)  Players: 2
+
+Random Player: 0
+Before Hand Count: 152
+Before Discard Count: 2
+Hand Position: 99
+Discard FAIL
+handcount: 152
+handcount: 155
+
+------------
+
+
+
+------------
+Test: 242)  Players: 2
+
+Random Player: 1
+Before Hand Count: 10
+Before Discard Count: 152
+Hand Position: 2
+Discard FAIL
+handcount: 10
+handcount: 13
+
+------------
+
+
+
+------------
+Test: 243)  Players: 3
+
+Random Player: 1
+Before Hand Count: 87
+Before Discard Count: 2
+Hand Position: 35
+Discard FAIL
+handcount: 87
+handcount: 90
+
+------------
+
+
+
+------------
+Test: 244)  Players: 4
+
+Random Player: 3
+Before Hand Count: 37
+Before Discard Count: 4
+Hand Position: 33
+Discard FAIL
+handcount: 37
+handcount: 40
+
+------------
+
+
+
+------------
+Test: 245)  Players: 3
+
+Random Player: 0
+Before Hand Count: 88
+Before Discard Count: 1
+Hand Position: 3
+Discard FAIL
+handcount: 88
+handcount: 91
+
+------------
+
+
+
+------------
+Test: 246)  Players: 4
+
+Random Player: 3
+Before Hand Count: 19
+Before Discard Count: 23
+Hand Position: 0
+Discard FAIL
+handcount: 19
+handcount: 22
+
+------------
+
+
+
+------------
+Test: 247)  Players: 2
+
+Random Player: 1
+Before Hand Count: 186
+Before Discard Count: 34
+Hand Position: 133
+Discard FAIL
+handcount: 186
+handcount: 189
+
+------------
+
+
+
+------------
+Test: 248)  Players: 4
+
+Random Player: 0
+Before Hand Count: 19
+Before Discard Count: 10
+Hand Position: 6
+Discard FAIL
+handcount: 19
+handcount: 22
+
+------------
+
+
+
+------------
+Test: 249)  Players: 3
+
+Random Player: 1
+Before Hand Count: 3
+Before Discard Count: 7
+Hand Position: 1
+Discard FAIL
+handcount: 3
+handcount: 6
+
+------------
+
+
+
+------------
+Test: 250)  Players: 3
+
+Random Player: 2
+Before Hand Count: 7
+Before Discard Count: 75
+Hand Position: 4
+Discard FAIL
+handcount: 7
+handcount: 10
+
+------------
+
+
+
+------------
+Test: 251)  Players: 4
+
+Random Player: 0
+Before Hand Count: 5
+Before Discard Count: 12
+Hand Position: 3
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 252)  Players: 3
+
+Random Player: 0
+Before Hand Count: 48
+Before Discard Count: 44
+Hand Position: 41
+Discard FAIL
+handcount: 48
+handcount: 51
+
+------------
+
+
+
+------------
+Test: 253)  Players: 4
+
+Random Player: 1
+Before Hand Count: 37
+Before Discard Count: 23
+Hand Position: 9
+Discard FAIL
+handcount: 37
+handcount: 40
+
+------------
+
+
+
+------------
+Test: 254)  Players: 3
+
+Random Player: 0
+Before Hand Count: 4
+Before Discard Count: 12
+Hand Position: 2
+Discard FAIL
+handcount: 4
+handcount: 7
+
+------------
+
+
+
+------------
+Test: 255)  Players: 3
+
+Random Player: 0
+Before Hand Count: 16
+Before Discard Count: 28
+Hand Position: 10
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 256)  Players: 3
+
+Random Player: 2
+Before Hand Count: 79
+Before Discard Count: 18
+Hand Position: 35
+Discard FAIL
+handcount: 79
+handcount: 82
+
+------------
+
+
+
+------------
+Test: 257)  Players: 3
+
+Random Player: 1
+Before Hand Count: 15
+Before Discard Count: 10
+Hand Position: 9
+Discard FAIL
+handcount: 15
+handcount: 18
+
+------------
+
+
+
+------------
+Test: 258)  Players: 4
+
+Random Player: 0
+Before Hand Count: 16
+Before Discard Count: 13
+Hand Position: 11
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 259)  Players: 4
+
+Random Player: 1
+Before Hand Count: 13
+Before Discard Count: 21
+Hand Position: 3
+Discard FAIL
+handcount: 13
+handcount: 16
+
+------------
+
+
+
+------------
+Test: 260)  Players: 4
+
+Random Player: 1
+Before Hand Count: 36
+Before Discard Count: 28
+Hand Position: 7
+Discard FAIL
+handcount: 36
+handcount: 39
+
+------------
+
+
+
+------------
+Test: 261)  Players: 3
+
+Random Player: 2
+Before Hand Count: 37
+Before Discard Count: 42
+Hand Position: 25
+Discard FAIL
+handcount: 37
+handcount: 40
+
+------------
+
+
+
+------------
+Test: 262)  Players: 4
+
+Random Player: 3
+Before Hand Count: 6
+Before Discard Count: 38
+Hand Position: 0
+Discard FAIL
+handcount: 6
+handcount: 9
+
+------------
+
+
+
+------------
+Test: 263)  Players: 3
+
+Random Player: 2
+Before Hand Count: 131
+Before Discard Count: 5
+Hand Position: 100
+Discard FAIL
+handcount: 131
+handcount: 134
+
+------------
+
+
+
+------------
+Test: 264)  Players: 2
+
+Random Player: 1
+Before Hand Count: 78
+Before Discard Count: 57
+Hand Position: 49
+Discard FAIL
+handcount: 78
+handcount: 81
+
+------------
+
+
+
+------------
+Test: 265)  Players: 4
+
+Random Player: 1
+Before Hand Count: 20
+Before Discard Count: 26
+Hand Position: 7
+Discard FAIL
+handcount: 20
+handcount: 23
+
+------------
+
+
+
+------------
+Test: 266)  Players: 4
+
+Random Player: 1
+Before Hand Count: 11
+Before Discard Count: 3
+Hand Position: 2
+Discard FAIL
+handcount: 11
+handcount: 14
+
+------------
+
+
+
+------------
+Test: 267)  Players: 3
+
+Random Player: 0
+Before Hand Count: 5
+Before Discard Count: 0
+Hand Position: 0
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 268)  Players: 4
+
+Random Player: 3
+Before Hand Count: 10
+Before Discard Count: 17
+Hand Position: 4
+Discard FAIL
+handcount: 10
+handcount: 13
+
+------------
+
+
+
+------------
+Test: 269)  Players: 3
+
+Random Player: 2
+Before Hand Count: 93
+Before Discard Count: 8
+Hand Position: 10
+Discard FAIL
+handcount: 93
+handcount: 96
+
+------------
+
+
+
+------------
+Test: 270)  Players: 4
+
+Random Player: 0
+Before Hand Count: 117
+Before Discard Count: 7
+Hand Position: 102
+Discard FAIL
+handcount: 117
+handcount: 120
+
+------------
+
+
+
+------------
+Test: 271)  Players: 2
+
+Random Player: 0
+Before Hand Count: 92
+Before Discard Count: 10
+Hand Position: 47
+Discard FAIL
+handcount: 92
+handcount: 95
+
+------------
+
+
+
+------------
+Test: 272)  Players: 2
+
+Random Player: 1
+Before Hand Count: 29
+Before Discard Count: 113
+Hand Position: 17
+Discard FAIL
+handcount: 29
+handcount: 32
+
+------------
+
+
+
+------------
+Test: 273)  Players: 4
+
+Random Player: 3
+Before Hand Count: 34
+Before Discard Count: 89
+Hand Position: 31
+Discard FAIL
+handcount: 34
+handcount: 37
+
+------------
+
+
+
+------------
+Test: 274)  Players: 2
+
+Random Player: 1
+Before Hand Count: 155
+Before Discard Count: 14
+Hand Position: 5
+Discard FAIL
+handcount: 155
+handcount: 158
+
+------------
+
+
+
+------------
+Test: 275)  Players: 3
+
+Random Player: 2
+Before Hand Count: 23
+Before Discard Count: 31
+Hand Position: 1
+Discard FAIL
+handcount: 23
+handcount: 26
+
+------------
+
+
+
+------------
+Test: 276)  Players: 3
+
+Random Player: 0
+Before Hand Count: 87
+Before Discard Count: 10
+Hand Position: 38
+Discard FAIL
+handcount: 87
+handcount: 90
+
+------------
+
+
+
+------------
+Test: 277)  Players: 2
+
+Random Player: 0
+Before Hand Count: 12
+Before Discard Count: 2
+Hand Position: 8
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 278)  Players: 3
+
+Random Player: 0
+Before Hand Count: 14
+Before Discard Count: 6
+Hand Position: 10
+Discard FAIL
+handcount: 14
+handcount: 17
+
+------------
+
+
+
+------------
+Test: 279)  Players: 3
+
+Random Player: 2
+Before Hand Count: 105
+Before Discard Count: 2
+Hand Position: 42
+Discard FAIL
+handcount: 105
+handcount: 108
+
+------------
+
+
+
+------------
+Test: 280)  Players: 2
+
+Random Player: 1
+Before Hand Count: 31
+Before Discard Count: 45
+Hand Position: 6
+Discard FAIL
+handcount: 31
+handcount: 34
+
+------------
+
+
+
+------------
+Test: 281)  Players: 2
+
+Random Player: 1
+Before Hand Count: 163
+Before Discard Count: 11
+Hand Position: 68
+Discard FAIL
+handcount: 163
+handcount: 166
+
+------------
+
+
+
+------------
+Test: 282)  Players: 2
+
+Random Player: 0
+Before Hand Count: 58
+Before Discard Count: 12
+Hand Position: 2
+Discard FAIL
+handcount: 58
+handcount: 61
+
+------------
+
+
+
+------------
+Test: 283)  Players: 4
+
+Random Player: 0
+Before Hand Count: 12
+Before Discard Count: 1
+Hand Position: 8
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 284)  Players: 4
+
+Random Player: 1
+Before Hand Count: 46
+Before Discard Count: 25
+Hand Position: 35
+Discard FAIL
+handcount: 46
+handcount: 49
+
+------------
+
+
+
+------------
+Test: 285)  Players: 4
+
+Random Player: 2
+Before Hand Count: 104
+Before Discard Count: 12
+Hand Position: 40
+Discard FAIL
+handcount: 104
+handcount: 107
+
+------------
+
+
+
+------------
+Test: 286)  Players: 4
+
+Random Player: 2
+Before Hand Count: 35
+Before Discard Count: 3
+Hand Position: 18
+Discard FAIL
+handcount: 35
+handcount: 38
+
+------------
+
+
+
+------------
+Test: 287)  Players: 3
+
+Random Player: 2
+Before Hand Count: 26
+Before Discard Count: 47
+Hand Position: 3
+Discard FAIL
+handcount: 26
+handcount: 29
+
+------------
+
+
+
+------------
+Test: 288)  Players: 2
+
+Random Player: 1
+Before Hand Count: 141
+Before Discard Count: 30
+Hand Position: 27
+Discard FAIL
+handcount: 141
+handcount: 144
+
+------------
+
+
+
+------------
+Test: 289)  Players: 4
+
+Random Player: 3
+Before Hand Count: 3
+Before Discard Count: 3
+Hand Position: 1
+Discard FAIL
+handcount: 3
+handcount: 6
+
+------------
+
+
+
+------------
+Test: 290)  Players: 2
+
+Random Player: 1
+Before Hand Count: 68
+Before Discard Count: 7
+Hand Position: 20
+Discard FAIL
+handcount: 68
+handcount: 71
+
+------------
+
+
+
+------------
+Test: 291)  Players: 4
+
+Random Player: 3
+Before Hand Count: 19
+Before Discard Count: 17
+Hand Position: 12
+Discard FAIL
+handcount: 19
+handcount: 22
+
+------------
+
+
+
+------------
+Test: 292)  Players: 3
+
+Random Player: 2
+Before Hand Count: 25
+Before Discard Count: 1
+Hand Position: 18
+Discard FAIL
+handcount: 25
+handcount: 28
+
+------------
+
+
+
+------------
+Test: 293)  Players: 3
+
+Random Player: 1
+Before Hand Count: 4
+Before Discard Count: 15
+Hand Position: 0
+Discard FAIL
+handcount: 4
+handcount: 7
+
+------------
+
+
+
+------------
+Test: 294)  Players: 3
+
+Random Player: 1
+Before Hand Count: 20
+Before Discard Count: 2
+Hand Position: 14
+Discard FAIL
+handcount: 20
+handcount: 23
+
+------------
+
+
+
+------------
+Test: 295)  Players: 3
+
+Random Player: 0
+Before Hand Count: 15
+Before Discard Count: 8
+Hand Position: 8
+Discard FAIL
+handcount: 15
+handcount: 18
+
+------------
+
+
+
+------------
+Test: 296)  Players: 4
+
+Random Player: 0
+Before Hand Count: 17
+Before Discard Count: 45
+Hand Position: 9
+Discard FAIL
+handcount: 17
+handcount: 20
+
+------------
+
+
+
+------------
+Test: 297)  Players: 2
+
+Random Player: 1
+Before Hand Count: 16
+Before Discard Count: 0
+Hand Position: 0
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 298)  Players: 2
+
+Random Player: 1
+Before Hand Count: 40
+Before Discard Count: 107
+Hand Position: 15
+Discard FAIL
+handcount: 40
+handcount: 43
+
+------------
+
+
+
+------------
+Test: 299)  Players: 4
+
+Random Player: 0
+Before Hand Count: 24
+Before Discard Count: 4
+Hand Position: 1
+Discard FAIL
+handcount: 24
+handcount: 27
+
+------------
+
+
+
+------------
+Test: 300)  Players: 4
+
+Random Player: 0
+Before Hand Count: 30
+Before Discard Count: 80
+Hand Position: 27
+Discard FAIL
+handcount: 30
+handcount: 33
+
+------------
+
+
+
+------------
+Test: 301)  Players: 3
+
+Random Player: 0
+Before Hand Count: 92
+Before Discard Count: 54
+Hand Position: 82
+Discard FAIL
+handcount: 92
+handcount: 95
+
+------------
+
+
+
+------------
+Test: 302)  Players: 3
+
+Random Player: 1
+Before Hand Count: 24
+Before Discard Count: 0
+Hand Position: 8
+Discard FAIL
+handcount: 24
+handcount: 27
+
+------------
+
+
+
+------------
+Test: 303)  Players: 4
+
+Random Player: 1
+Before Hand Count: 63
+Before Discard Count: 0
+Hand Position: 27
+Discard FAIL
+handcount: 63
+handcount: 66
+
+------------
+
+
+
+------------
+Test: 304)  Players: 4
+
+Random Player: 0
+Before Hand Count: 9
+Before Discard Count: 3
+Hand Position: 6
+Discard FAIL
+handcount: 9
+handcount: 12
+
+------------
+
+
+
+------------
+Test: 305)  Players: 3
+
+Random Player: 2
+Before Hand Count: 13
+Before Discard Count: 8
+Hand Position: 1
+Discard FAIL
+handcount: 13
+handcount: 16
+
+------------
+
+
+
+------------
+Test: 306)  Players: 4
+
+Random Player: 0
+Before Hand Count: 14
+Before Discard Count: 8
+Hand Position: 3
+Discard FAIL
+handcount: 14
+handcount: 17
+
+------------
+
+
+
+------------
+Test: 307)  Players: 2
+
+Random Player: 1
+Before Hand Count: 7
+Before Discard Count: 31
+Hand Position: 3
+Discard FAIL
+handcount: 7
+handcount: 10
+
+------------
+
+
+
+------------
+Test: 308)  Players: 3
+
+Random Player: 1
+Before Hand Count: 11
+Before Discard Count: 39
+Hand Position: 10
+Discard FAIL
+handcount: 11
+handcount: 14
+
+------------
+
+
+
+------------
+Test: 309)  Players: 2
+
+Random Player: 0
+Before Hand Count: 54
+Before Discard Count: 5
+Hand Position: 9
+Discard FAIL
+handcount: 54
+handcount: 57
+
+------------
+
+
+
+------------
+Test: 310)  Players: 3
+
+Random Player: 2
+Before Hand Count: 19
+Before Discard Count: 48
+Hand Position: 8
+Discard FAIL
+handcount: 19
+handcount: 22
+
+------------
+
+
+
+------------
+Test: 311)  Players: 2
+
+Random Player: 0
+Before Hand Count: 12
+Before Discard Count: 11
+Hand Position: 3
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 312)  Players: 3
+
+Random Player: 1
+Before Hand Count: 103
+Before Discard Count: 9
+Hand Position: 10
+Discard FAIL
+handcount: 103
+handcount: 106
+
+------------
+
+
+
+------------
+Test: 313)  Players: 4
+
+Random Player: 2
+Before Hand Count: 19
+Before Discard Count: 16
+Hand Position: 8
+Discard FAIL
+handcount: 19
+handcount: 22
+
+------------
+
+
+
+------------
+Test: 314)  Players: 3
+
+Random Player: 1
+Before Hand Count: 16
+Before Discard Count: 3
+Hand Position: 14
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 315)  Players: 4
+
+Random Player: 2
+Before Hand Count: 30
+Before Discard Count: 14
+Hand Position: 28
+Discard FAIL
+handcount: 30
+handcount: 33
+
+------------
+
+
+
+------------
+Test: 316)  Players: 2
+
+Random Player: 0
+Before Hand Count: 48
+Before Discard Count: 9
+Hand Position: 37
+Discard FAIL
+handcount: 48
+handcount: 51
+
+------------
+
+
+
+------------
+Test: 317)  Players: 3
+
+Random Player: 0
+Before Hand Count: 12
+Before Discard Count: 58
+Hand Position: 0
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 318)  Players: 3
+
+Random Player: 2
+Before Hand Count: 47
+Before Discard Count: 6
+Hand Position: 36
+Discard FAIL
+handcount: 47
+handcount: 50
+
+------------
+
+
+
+------------
+Test: 319)  Players: 4
+
+Random Player: 1
+Before Hand Count: 7
+Before Discard Count: 2
+Hand Position: 3
+Discard FAIL
+handcount: 7
+handcount: 10
+
+------------
+
+
+
+------------
+Test: 320)  Players: 3
+
+Random Player: 1
+Before Hand Count: 15
+Before Discard Count: 14
+Hand Position: 12
+Discard FAIL
+handcount: 15
+handcount: 18
+
+------------
+
+
+
+------------
+Test: 321)  Players: 4
+
+Random Player: 3
+Before Hand Count: 10
+Before Discard Count: 6
+Hand Position: 1
+Discard FAIL
+handcount: 10
+handcount: 13
+
+------------
+
+
+
+------------
+Test: 322)  Players: 2
+
+Random Player: 0
+Before Hand Count: 156
+Before Discard Count: 17
+Hand Position: 42
+Discard FAIL
+handcount: 156
+handcount: 159
+
+------------
+
+
+
+------------
+Test: 323)  Players: 4
+
+Random Player: 1
+Before Hand Count: 58
+Before Discard Count: 47
+Hand Position: 51
+Discard FAIL
+handcount: 58
+handcount: 61
+
+------------
+
+
+
+------------
+Test: 324)  Players: 4
+
+Random Player: 0
+Before Hand Count: 68
+Before Discard Count: 2
+Hand Position: 53
+Discard FAIL
+handcount: 68
+handcount: 71
+
+------------
+
+
+
+------------
+Test: 325)  Players: 4
+
+Random Player: 1
+Before Hand Count: 18
+Before Discard Count: 11
+Hand Position: 12
+Discard FAIL
+handcount: 18
+handcount: 21
+
+------------
+
+
+
+------------
+Test: 326)  Players: 4
+
+Random Player: 1
+Before Hand Count: 4
+Before Discard Count: 0
+Hand Position: 1
+Discard FAIL
+handcount: 4
+handcount: 7
+
+------------
+
+
+
+------------
+Test: 327)  Players: 3
+
+Random Player: 0
+Before Hand Count: 27
+Before Discard Count: 47
+Hand Position: 2
+Discard FAIL
+handcount: 27
+handcount: 30
+
+------------
+
+
+
+------------
+Test: 328)  Players: 2
+
+Random Player: 1
+Before Hand Count: 149
+Before Discard Count: 42
+Hand Position: 142
+Discard FAIL
+handcount: 149
+handcount: 152
+
+------------
+
+
+
+------------
+Test: 329)  Players: 2
+
+Random Player: 0
+Before Hand Count: 42
+Before Discard Count: 51
+Hand Position: 35
+Discard FAIL
+handcount: 42
+handcount: 45
+
+------------
+
+
+
+------------
+Test: 330)  Players: 4
+
+Random Player: 1
+Before Hand Count: 47
+Before Discard Count: 44
+Hand Position: 35
+Discard FAIL
+handcount: 47
+handcount: 50
+
+------------
+
+
+
+------------
+Test: 331)  Players: 4
+
+Random Player: 3
+Before Hand Count: 29
+Before Discard Count: 1
+Hand Position: 21
+Discard FAIL
+handcount: 29
+handcount: 32
+
+------------
+
+
+
+------------
+Test: 332)  Players: 4
+
+Random Player: 0
+Before Hand Count: 75
+Before Discard Count: 6
+Hand Position: 68
+Discard FAIL
+handcount: 75
+handcount: 78
+
+------------
+
+
+
+------------
+Test: 333)  Players: 3
+
+Random Player: 1
+Before Hand Count: 16
+Before Discard Count: 4
+Hand Position: 11
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 334)  Players: 4
+
+Random Player: 2
+Before Hand Count: 43
+Before Discard Count: 5
+Hand Position: 30
+Discard FAIL
+handcount: 43
+handcount: 46
+
+------------
+
+
+
+------------
+Test: 335)  Players: 2
+
+Random Player: 1
+Before Hand Count: 29
+Before Discard Count: 33
+Hand Position: 9
+Discard FAIL
+handcount: 29
+handcount: 32
+
+------------
+
+
+
+------------
+Test: 336)  Players: 3
+
+Random Player: 2
+Before Hand Count: 30
+Before Discard Count: 5
+Hand Position: 22
+Discard FAIL
+handcount: 30
+handcount: 33
+
+------------
+
+
+
+------------
+Test: 337)  Players: 3
+
+Random Player: 0
+Before Hand Count: 84
+Before Discard Count: 15
+Hand Position: 11
+Discard FAIL
+handcount: 84
+handcount: 87
+
+------------
+
+
+
+------------
+Test: 338)  Players: 4
+
+Random Player: 3
+Before Hand Count: 18
+Before Discard Count: 22
+Hand Position: 3
+Discard FAIL
+handcount: 18
+handcount: 21
+
+------------
+
+
+
+------------
+Test: 339)  Players: 3
+
+Random Player: 0
+Before Hand Count: 91
+Before Discard Count: 7
+Hand Position: 53
+Discard FAIL
+handcount: 91
+handcount: 94
+
+------------
+
+
+
+------------
+Test: 340)  Players: 2
+
+Random Player: 0
+Before Hand Count: 16
+Before Discard Count: 102
+Hand Position: 5
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 341)  Players: 3
+
+Random Player: 2
+Before Hand Count: 8
+Before Discard Count: 10
+Hand Position: 4
+Discard FAIL
+handcount: 8
+handcount: 11
+
+------------
+
+
+
+------------
+Test: 342)  Players: 2
+
+Random Player: 0
+Before Hand Count: 68
+Before Discard Count: 46
+Hand Position: 36
+Discard FAIL
+handcount: 68
+handcount: 71
+
+------------
+
+
+
+------------
+Test: 343)  Players: 2
+
+Random Player: 0
+Before Hand Count: 53
+Before Discard Count: 152
+Hand Position: 5
+Discard FAIL
+handcount: 53
+handcount: 56
+
+------------
+
+
+
+------------
+Test: 344)  Players: 3
+
+Random Player: 0
+Before Hand Count: 11
+Before Discard Count: 3
+Hand Position: 4
+Discard FAIL
+handcount: 11
+handcount: 14
+
+------------
+
+
+
+------------
+Test: 345)  Players: 3
+
+Random Player: 2
+Before Hand Count: 20
+Before Discard Count: 1
+Hand Position: 9
+Discard FAIL
+handcount: 20
+handcount: 23
+
+------------
+
+
+
+------------
+Test: 346)  Players: 2
+
+Random Player: 0
+Before Hand Count: 3
+Before Discard Count: 2
+Hand Position: 2
+Discard FAIL
+handcount: 3
+handcount: 6
+
+------------
+
+
+
+------------
+Test: 347)  Players: 3
+
+Random Player: 1
+Before Hand Count: 30
+Before Discard Count: 8
+Hand Position: 24
+Discard FAIL
+handcount: 30
+handcount: 33
+
+------------
+
+
+
+------------
+Test: 348)  Players: 2
+
+Random Player: 1
+Before Hand Count: 16
+Before Discard Count: 2
+Hand Position: 1
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 349)  Players: 3
+
+Random Player: 1
+Before Hand Count: 68
+Before Discard Count: 13
+Hand Position: 37
+Discard FAIL
+handcount: 68
+handcount: 71
+
+------------
+
+
+
+------------
+Test: 350)  Players: 3
+
+Random Player: 1
+Before Hand Count: 62
+Before Discard Count: 5
+Hand Position: 12
+Discard FAIL
+handcount: 62
+handcount: 65
+
+------------
+
+
+
+------------
+Test: 351)  Players: 3
+
+Random Player: 0
+Before Hand Count: 25
+Before Discard Count: 21
+Hand Position: 20
+Discard FAIL
+handcount: 25
+handcount: 28
+
+------------
+
+
+
+------------
+Test: 352)  Players: 2
+
+Random Player: 0
+Before Hand Count: 33
+Before Discard Count: 11
+Hand Position: 16
+Discard FAIL
+handcount: 33
+handcount: 36
+
+------------
+
+
+
+------------
+Test: 353)  Players: 2
+
+Random Player: 0
+Before Hand Count: 31
+Before Discard Count: 4
+Hand Position: 25
+Discard FAIL
+handcount: 31
+handcount: 34
+
+------------
+
+
+
+------------
+Test: 354)  Players: 2
+
+Random Player: 1
+Before Hand Count: 47
+Before Discard Count: 20
+Hand Position: 45
+Discard FAIL
+handcount: 47
+handcount: 50
+
+------------
+
+
+
+------------
+Test: 355)  Players: 2
+
+Random Player: 1
+Before Hand Count: 231
+Before Discard Count: 15
+Hand Position: 216
+Discard FAIL
+handcount: 231
+handcount: 234
+
+------------
+
+
+
+------------
+Test: 356)  Players: 4
+
+Random Player: 1
+Before Hand Count: 40
+Before Discard Count: 0
+Hand Position: 9
+Discard FAIL
+handcount: 40
+handcount: 43
+
+------------
+
+
+
+------------
+Test: 357)  Players: 4
+
+Random Player: 3
+Before Hand Count: 16
+Before Discard Count: 17
+Hand Position: 5
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 358)  Players: 3
+
+Random Player: 0
+Before Hand Count: 114
+Before Discard Count: 4
+Hand Position: 42
+Discard FAIL
+handcount: 114
+handcount: 117
+
+------------
+
+
+
+------------
+Test: 359)  Players: 3
+
+Random Player: 2
+Before Hand Count: 72
+Before Discard Count: 7
+Hand Position: 38
+Discard FAIL
+handcount: 72
+handcount: 75
+
+------------
+
+
+
+------------
+Test: 360)  Players: 2
+
+Random Player: 1
+Before Hand Count: 89
+Before Discard Count: 64
+Hand Position: 51
+Discard FAIL
+handcount: 89
+handcount: 92
+
+------------
+
+
+
+------------
+Test: 361)  Players: 4
+
+Random Player: 2
+Before Hand Count: 4
+Before Discard Count: 60
+Hand Position: 3
+Discard FAIL
+handcount: 4
+handcount: 7
+
+------------
+
+
+
+------------
+Test: 362)  Players: 3
+
+Random Player: 0
+Before Hand Count: 50
+Before Discard Count: 83
+Hand Position: 44
+Discard FAIL
+handcount: 50
+handcount: 53
+
+------------
+
+
+
+------------
+Test: 363)  Players: 4
+
+Random Player: 2
+Before Hand Count: 17
+Before Discard Count: 26
+Hand Position: 11
+Discard FAIL
+handcount: 17
+handcount: 20
+
+------------
+
+
+
+------------
+Test: 364)  Players: 3
+
+Random Player: 0
+Before Hand Count: 122
+Before Discard Count: 23
+Hand Position: 86
+Discard FAIL
+handcount: 122
+handcount: 125
+
+------------
+
+
+
+------------
+Test: 365)  Players: 3
+
+Random Player: 2
+Before Hand Count: 15
+Before Discard Count: 5
+Hand Position: 5
+Discard FAIL
+handcount: 15
+handcount: 18
+
+------------
+
+
+
+------------
+Test: 366)  Players: 4
+
+Random Player: 0
+Before Hand Count: 21
+Before Discard Count: 2
+Hand Position: 14
+Discard FAIL
+handcount: 21
+handcount: 24
+
+------------
+
+
+
+------------
+Test: 367)  Players: 2
+
+Random Player: 1
+Before Hand Count: 56
+Before Discard Count: 13
+Hand Position: 2
+Discard FAIL
+handcount: 56
+handcount: 59
+
+------------
+
+
+
+------------
+Test: 368)  Players: 3
+
+Random Player: 1
+Before Hand Count: 20
+Before Discard Count: 25
+Hand Position: 3
+Discard FAIL
+handcount: 20
+handcount: 23
+
+------------
+
+
+
+------------
+Test: 369)  Players: 3
+
+Random Player: 0
+Before Hand Count: 51
+Before Discard Count: 41
+Hand Position: 3
+Discard FAIL
+handcount: 51
+handcount: 54
+
+------------
+
+
+
+------------
+Test: 370)  Players: 4
+
+Random Player: 0
+Before Hand Count: 16
+Before Discard Count: 8
+Hand Position: 6
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 371)  Players: 4
+
+Random Player: 2
+Before Hand Count: 53
+Before Discard Count: 11
+Hand Position: 34
+Discard FAIL
+handcount: 53
+handcount: 56
+
+------------
+
+
+
+------------
+Test: 372)  Players: 4
+
+Random Player: 0
+Before Hand Count: 58
+Before Discard Count: 6
+Hand Position: 31
+Discard FAIL
+handcount: 58
+handcount: 61
+
+------------
+
+
+
+------------
+Test: 373)  Players: 3
+
+Random Player: 2
+Before Hand Count: 23
+Before Discard Count: 2
+Hand Position: 10
+Discard FAIL
+handcount: 23
+handcount: 26
+
+------------
+
+
+
+------------
+Test: 374)  Players: 2
+
+Random Player: 0
+Before Hand Count: 14
+Before Discard Count: 3
+Hand Position: 11
+Discard FAIL
+handcount: 14
+handcount: 17
+
+------------
+
+
+
+------------
+Test: 375)  Players: 4
+
+Random Player: 0
+Before Hand Count: 47
+Before Discard Count: 1
+Hand Position: 42
+Discard FAIL
+handcount: 47
+handcount: 50
+
+------------
+
+
+
+------------
+Test: 376)  Players: 4
+
+Random Player: 1
+Before Hand Count: 7
+Before Discard Count: 22
+Hand Position: 5
+Discard FAIL
+handcount: 7
+handcount: 10
+
+------------
+
+
+
+------------
+Test: 377)  Players: 4
+
+Random Player: 0
+Before Hand Count: 25
+Before Discard Count: 54
+Hand Position: 9
+Discard FAIL
+handcount: 25
+handcount: 28
+
+------------
+
+
+
+------------
+Test: 378)  Players: 2
+
+Random Player: 1
+Before Hand Count: 97
+Before Discard Count: 9
+Hand Position: 86
+Discard FAIL
+handcount: 97
+handcount: 100
+
+------------
+
+
+
+------------
+Test: 379)  Players: 2
+
+Random Player: 0
+Before Hand Count: 137
+Before Discard Count: 43
+Hand Position: 25
+Discard FAIL
+handcount: 137
+handcount: 140
+
+------------
+
+
+
+------------
+Test: 380)  Players: 4
+
+Random Player: 2
+Before Hand Count: 25
+Before Discard Count: 17
+Hand Position: 8
+Discard FAIL
+handcount: 25
+handcount: 28
+
+------------
+
+
+
+------------
+Test: 381)  Players: 4
+
+Random Player: 0
+Before Hand Count: 14
+Before Discard Count: 3
+Hand Position: 11
+Discard FAIL
+handcount: 14
+handcount: 17
+
+------------
+
+
+
+------------
+Test: 382)  Players: 4
+
+Random Player: 2
+Before Hand Count: 110
+Before Discard Count: 6
+Hand Position: 60
+Discard FAIL
+handcount: 110
+handcount: 113
+
+------------
+
+
+
+------------
+Test: 383)  Players: 2
+
+Random Player: 0
+Before Hand Count: 32
+Before Discard Count: 7
+Hand Position: 15
+Discard FAIL
+handcount: 32
+handcount: 35
+
+------------
+
+
+
+------------
+Test: 384)  Players: 4
+
+Random Player: 0
+Before Hand Count: 18
+Before Discard Count: 23
+Hand Position: 0
+Discard FAIL
+handcount: 18
+handcount: 21
+
+------------
+
+
+
+------------
+Test: 385)  Players: 3
+
+Random Player: 1
+Before Hand Count: 5
+Before Discard Count: 6
+Hand Position: 3
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 386)  Players: 2
+
+Random Player: 1
+Before Hand Count: 36
+Before Discard Count: 114
+Hand Position: 9
+Discard FAIL
+handcount: 36
+handcount: 39
+
+------------
+
+
+
+------------
+Test: 387)  Players: 2
+
+Random Player: 1
+Before Hand Count: 27
+Before Discard Count: 144
+Hand Position: 24
+Discard FAIL
+handcount: 27
+handcount: 30
+
+------------
+
+
+
+------------
+Test: 388)  Players: 2
+
+Random Player: 1
+Before Hand Count: 120
+Before Discard Count: 8
+Hand Position: 95
+Discard FAIL
+handcount: 120
+handcount: 123
+
+------------
+
+
+
+------------
+Test: 389)  Players: 2
+
+Random Player: 1
+Before Hand Count: 8
+Before Discard Count: 37
+Hand Position: 5
+Discard FAIL
+handcount: 8
+handcount: 11
+
+------------
+
+
+
+------------
+Test: 390)  Players: 3
+
+Random Player: 2
+Before Hand Count: 129
+Before Discard Count: 3
+Hand Position: 101
+Discard FAIL
+handcount: 129
+handcount: 132
+
+------------
+
+
+
+------------
+Test: 391)  Players: 4
+
+Random Player: 1
+Before Hand Count: 75
+Before Discard Count: 6
+Hand Position: 9
+Discard FAIL
+handcount: 75
+handcount: 78
+
+------------
+
+
+
+------------
+Test: 392)  Players: 4
+
+Random Player: 2
+Before Hand Count: 41
+Before Discard Count: 24
+Hand Position: 32
+Discard FAIL
+handcount: 41
+handcount: 44
+
+------------
+
+
+
+------------
+Test: 393)  Players: 2
+
+Random Player: 0
+Before Hand Count: 90
+Before Discard Count: 135
+Hand Position: 37
+Discard FAIL
+handcount: 90
+handcount: 93
+
+------------
+
+
+
+------------
+Test: 394)  Players: 4
+
+Random Player: 1
+Before Hand Count: 44
+Before Discard Count: 17
+Hand Position: 39
+Discard FAIL
+handcount: 44
+handcount: 47
+
+------------
+
+
+
+------------
+Test: 395)  Players: 3
+
+Random Player: 0
+Before Hand Count: 70
+Before Discard Count: 11
+Hand Position: 44
+Discard FAIL
+handcount: 70
+handcount: 73
+
+------------
+
+
+
+------------
+Test: 396)  Players: 3
+
+Random Player: 2
+Before Hand Count: 135
+Before Discard Count: 1
+Hand Position: 6
+Discard FAIL
+handcount: 135
+handcount: 138
+
+------------
+
+
+
+------------
+Test: 397)  Players: 4
+
+Random Player: 3
+Before Hand Count: 3
+Before Discard Count: 28
+Hand Position: 1
+Discard FAIL
+handcount: 3
+handcount: 6
+
+------------
+
+
+
+------------
+Test: 398)  Players: 4
+
+Random Player: 1
+Before Hand Count: 5
+Before Discard Count: 4
+Hand Position: 4
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 399)  Players: 2
+
+Random Player: 0
+Before Hand Count: 63
+Before Discard Count: 14
+Hand Position: 17
+Discard FAIL
+handcount: 63
+handcount: 66
+
+------------
+
+
+
+------------
+Test: 400)  Players: 4
+
+Random Player: 2
+Before Hand Count: 29
+Before Discard Count: 17
+Hand Position: 1
+Discard FAIL
+handcount: 29
+handcount: 32
+
+------------
+
+
+
+------------
+Test: 401)  Players: 2
+
+Random Player: 1
+Before Hand Count: 77
+Before Discard Count: 136
+Hand Position: 2
+Discard FAIL
+handcount: 77
+handcount: 80
+
+------------
+
+
+
+------------
+Test: 402)  Players: 2
+
+Random Player: 0
+Before Hand Count: 64
+Before Discard Count: 0
+Hand Position: 53
+Discard FAIL
+handcount: 64
+handcount: 67
+
+------------
+
+
+
+------------
+Test: 403)  Players: 3
+
+Random Player: 0
+Before Hand Count: 113
+Before Discard Count: 6
+Hand Position: 82
+Discard FAIL
+handcount: 113
+handcount: 116
+
+------------
+
+
+
+------------
+Test: 404)  Players: 2
+
+Random Player: 0
+Before Hand Count: 131
+Before Discard Count: 24
+Hand Position: 57
+Discard FAIL
+handcount: 131
+handcount: 134
+
+------------
+
+
+
+------------
+Test: 405)  Players: 3
+
+Random Player: 1
+Before Hand Count: 9
+Before Discard Count: 9
+Hand Position: 1
+Discard FAIL
+handcount: 9
+handcount: 12
+
+------------
+
+
+
+------------
+Test: 406)  Players: 4
+
+Random Player: 3
+Before Hand Count: 7
+Before Discard Count: 55
+Hand Position: 3
+Discard FAIL
+handcount: 7
+handcount: 10
+
+------------
+
+
+
+------------
+Test: 407)  Players: 2
+
+Random Player: 1
+Before Hand Count: 81
+Before Discard Count: 0
+Hand Position: 18
+Discard FAIL
+handcount: 81
+handcount: 84
+
+------------
+
+
+
+------------
+Test: 408)  Players: 3
+
+Random Player: 2
+Before Hand Count: 83
+Before Discard Count: 23
+Hand Position: 19
+Discard FAIL
+handcount: 83
+handcount: 86
+
+------------
+
+
+
+------------
+Test: 409)  Players: 3
+
+Random Player: 1
+Before Hand Count: 34
+Before Discard Count: 2
+Hand Position: 12
+Discard FAIL
+handcount: 34
+handcount: 37
+
+------------
+
+
+
+------------
+Test: 410)  Players: 3
+
+Random Player: 1
+Before Hand Count: 19
+Before Discard Count: 5
+Hand Position: 0
+Discard FAIL
+handcount: 19
+handcount: 22
+
+------------
+
+
+
+------------
+Test: 411)  Players: 3
+
+Random Player: 0
+Before Hand Count: 21
+Before Discard Count: 5
+Hand Position: 1
+Discard FAIL
+handcount: 21
+handcount: 24
+
+------------
+
+
+
+------------
+Test: 412)  Players: 2
+
+Random Player: 1
+Before Hand Count: 38
+Before Discard Count: 146
+Hand Position: 1
+Discard FAIL
+handcount: 38
+handcount: 41
+
+------------
+
+
+
+------------
+Test: 413)  Players: 2
+
+Random Player: 0
+Before Hand Count: 77
+Before Discard Count: 10
+Hand Position: 2
+Discard FAIL
+handcount: 77
+handcount: 80
+
+------------
+
+
+
+------------
+Test: 414)  Players: 2
+
+Random Player: 0
+Before Hand Count: 5
+Before Discard Count: 29
+Hand Position: 0
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 415)  Players: 4
+
+Random Player: 1
+Before Hand Count: 49
+Before Discard Count: 24
+Hand Position: 47
+Discard FAIL
+handcount: 49
+handcount: 52
+
+------------
+
+
+
+------------
+Test: 416)  Players: 2
+
+Random Player: 0
+Before Hand Count: 46
+Before Discard Count: 4
+Hand Position: 26
+Discard FAIL
+handcount: 46
+handcount: 49
+
+------------
+
+
+
+------------
+Test: 417)  Players: 2
+
+Random Player: 1
+Before Hand Count: 11
+Before Discard Count: 26
+Hand Position: 4
+Discard FAIL
+handcount: 11
+handcount: 14
+
+------------
+
+
+
+------------
+Test: 418)  Players: 4
+
+Random Player: 1
+Before Hand Count: 26
+Before Discard Count: 18
+Hand Position: 5
+Discard FAIL
+handcount: 26
+handcount: 29
+
+------------
+
+
+
+------------
+Test: 419)  Players: 2
+
+Random Player: 0
+Before Hand Count: 30
+Before Discard Count: 34
+Hand Position: 22
+Discard FAIL
+handcount: 30
+handcount: 33
+
+------------
+
+
+
+------------
+Test: 420)  Players: 2
+
+Random Player: 0
+Before Hand Count: 36
+Before Discard Count: 2
+Hand Position: 21
+Discard FAIL
+handcount: 36
+handcount: 39
+
+------------
+
+
+
+------------
+Test: 421)  Players: 4
+
+Random Player: 3
+Before Hand Count: 55
+Before Discard Count: 31
+Hand Position: 10
+Discard FAIL
+handcount: 55
+handcount: 58
+
+------------
+
+
+
+------------
+Test: 422)  Players: 3
+
+Random Player: 0
+Before Hand Count: 12
+Before Discard Count: 6
+Hand Position: 9
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 423)  Players: 2
+
+Random Player: 1
+Before Hand Count: 117
+Before Discard Count: 36
+Hand Position: 69
+Discard FAIL
+handcount: 117
+handcount: 120
+
+------------
+
+
+
+------------
+Test: 424)  Players: 3
+
+Random Player: 0
+Before Hand Count: 10
+Before Discard Count: 0
+Hand Position: 7
+Discard FAIL
+handcount: 10
+handcount: 13
+
+------------
+
+
+
+------------
+Test: 425)  Players: 3
+
+Random Player: 2
+Before Hand Count: 81
+Before Discard Count: 4
+Hand Position: 51
+Discard FAIL
+handcount: 81
+handcount: 84
+
+------------
+
+
+
+------------
+Test: 426)  Players: 2
+
+Random Player: 1
+Before Hand Count: 83
+Before Discard Count: 71
+Hand Position: 40
+Discard FAIL
+handcount: 83
+handcount: 86
+
+------------
+
+
+
+------------
+Test: 427)  Players: 2
+
+Random Player: 0
+Before Hand Count: 11
+Before Discard Count: 65
+Hand Position: 2
+Discard FAIL
+handcount: 11
+handcount: 14
+
+------------
+
+
+
+------------
+Test: 428)  Players: 3
+
+Random Player: 0
+Before Hand Count: 5
+Before Discard Count: 21
+Hand Position: 3
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 429)  Players: 3
+
+Random Player: 2
+Before Hand Count: 19
+Before Discard Count: 2
+Hand Position: 14
+Discard FAIL
+handcount: 19
+handcount: 22
+
+------------
+
+
+
+------------
+Test: 430)  Players: 4
+
+Random Player: 0
+Before Hand Count: 17
+Before Discard Count: 2
+Hand Position: 11
+Discard FAIL
+handcount: 17
+handcount: 20
+
+------------
+
+
+
+------------
+Test: 431)  Players: 3
+
+Random Player: 1
+Before Hand Count: 128
+Before Discard Count: 12
+Hand Position: 68
+Discard FAIL
+handcount: 128
+handcount: 131
+
+------------
+
+
+
+------------
+Test: 432)  Players: 2
+
+Random Player: 1
+Before Hand Count: 78
+Before Discard Count: 0
+Hand Position: 28
+Discard FAIL
+handcount: 78
+handcount: 81
+
+------------
+
+
+
+------------
+Test: 433)  Players: 3
+
+Random Player: 0
+Before Hand Count: 3
+Before Discard Count: 15
+Hand Position: 1
+Discard FAIL
+handcount: 3
+handcount: 6
+
+------------
+
+
+
+------------
+Test: 434)  Players: 3
+
+Random Player: 2
+Before Hand Count: 126
+Before Discard Count: 1
+Hand Position: 65
+Discard FAIL
+handcount: 126
+handcount: 129
+
+------------
+
+
+
+------------
+Test: 435)  Players: 4
+
+Random Player: 3
+Before Hand Count: 29
+Before Discard Count: 71
+Hand Position: 0
+Discard FAIL
+handcount: 29
+handcount: 32
+
+------------
+
+
+
+------------
+Test: 436)  Players: 3
+
+Random Player: 2
+Before Hand Count: 56
+Before Discard Count: 2
+Hand Position: 45
+Discard FAIL
+handcount: 56
+handcount: 59
+
+------------
+
+
+
+------------
+Test: 437)  Players: 2
+
+Random Player: 0
+Before Hand Count: 5
+Before Discard Count: 7
+Hand Position: 0
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 438)  Players: 4
+
+Random Player: 2
+Before Hand Count: 4
+Before Discard Count: 37
+Hand Position: 0
+Discard FAIL
+handcount: 4
+handcount: 7
+
+------------
+
+
+
+------------
+Test: 439)  Players: 4
+
+Random Player: 0
+Before Hand Count: 15
+Before Discard Count: 0
+Hand Position: 12
+Discard FAIL
+handcount: 15
+handcount: 18
+
+------------
+
+
+
+------------
+Test: 440)  Players: 4
+
+Random Player: 0
+Before Hand Count: 17
+Before Discard Count: 16
+Hand Position: 8
+Discard FAIL
+handcount: 17
+handcount: 20
+
+------------
+
+
+
+------------
+Test: 441)  Players: 4
+
+Random Player: 3
+Before Hand Count: 31
+Before Discard Count: 27
+Hand Position: 4
+Discard FAIL
+handcount: 31
+handcount: 34
+
+------------
+
+
+
+------------
+Test: 442)  Players: 4
+
+Random Player: 1
+Before Hand Count: 12
+Before Discard Count: 42
+Hand Position: 0
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 443)  Players: 2
+
+Random Player: 1
+Before Hand Count: 48
+Before Discard Count: 23
+Hand Position: 38
+Discard FAIL
+handcount: 48
+handcount: 51
+
+------------
+
+
+
+------------
+Test: 444)  Players: 3
+
+Random Player: 1
+Before Hand Count: 114
+Before Discard Count: 0
+Hand Position: 98
+Discard FAIL
+handcount: 114
+handcount: 117
+
+------------
+
+
+
+------------
+Test: 445)  Players: 3
+
+Random Player: 1
+Before Hand Count: 125
+Before Discard Count: 0
+Hand Position: 114
+Discard FAIL
+handcount: 125
+handcount: 128
+
+------------
+
+
+
+------------
+Test: 446)  Players: 3
+
+Random Player: 2
+Before Hand Count: 90
+Before Discard Count: 17
+Hand Position: 72
+Discard FAIL
+handcount: 90
+handcount: 93
+
+------------
+
+
+
+------------
+Test: 447)  Players: 2
+
+Random Player: 0
+Before Hand Count: 30
+Before Discard Count: 9
+Hand Position: 12
+Discard FAIL
+handcount: 30
+handcount: 33
+
+------------
+
+
+
+------------
+Test: 448)  Players: 4
+
+Random Player: 3
+Before Hand Count: 64
+Before Discard Count: 21
+Hand Position: 62
+Discard FAIL
+handcount: 64
+handcount: 67
+
+------------
+
+
+
+------------
+Test: 449)  Players: 2
+
+Random Player: 1
+Before Hand Count: 117
+Before Discard Count: 18
+Hand Position: 27
+Discard FAIL
+handcount: 117
+handcount: 120
+
+------------
+
+
+
+------------
+Test: 450)  Players: 3
+
+Random Player: 0
+Before Hand Count: 46
+Before Discard Count: 1
+Hand Position: 12
+Discard FAIL
+handcount: 46
+handcount: 49
+
+------------
+
+
+
+------------
+Test: 451)  Players: 4
+
+Random Player: 0
+Before Hand Count: 5
+Before Discard Count: 18
+Hand Position: 2
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 452)  Players: 4
+
+Random Player: 0
+Before Hand Count: 8
+Before Discard Count: 9
+Hand Position: 1
+Discard FAIL
+handcount: 8
+handcount: 11
+
+------------
+
+
+
+------------
+Test: 453)  Players: 2
+
+Random Player: 0
+Before Hand Count: 70
+Before Discard Count: 9
+Hand Position: 12
+Discard FAIL
+handcount: 70
+handcount: 73
+
+------------
+
+
+
+------------
+Test: 454)  Players: 2
+
+Random Player: 1
+Before Hand Count: 36
+Before Discard Count: 42
+Hand Position: 24
+Discard FAIL
+handcount: 36
+handcount: 39
+
+------------
+
+
+
+------------
+Test: 455)  Players: 2
+
+Random Player: 1
+Before Hand Count: 82
+Before Discard Count: 0
+Hand Position: 0
+Discard FAIL
+handcount: 82
+handcount: 85
+
+------------
+
+
+
+------------
+Test: 456)  Players: 2
+
+Random Player: 1
+Before Hand Count: 12
+Before Discard Count: 0
+Hand Position: 0
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 457)  Players: 3
+
+Random Player: 0
+Before Hand Count: 34
+Before Discard Count: 14
+Hand Position: 8
+Discard FAIL
+handcount: 34
+handcount: 37
+
+------------
+
+
+
+------------
+Test: 458)  Players: 4
+
+Random Player: 3
+Before Hand Count: 20
+Before Discard Count: 6
+Hand Position: 7
+Discard FAIL
+handcount: 20
+handcount: 23
+
+------------
+
+
+
+------------
+Test: 459)  Players: 2
+
+Random Player: 0
+Before Hand Count: 134
+Before Discard Count: 53
+Hand Position: 59
+Discard FAIL
+handcount: 134
+handcount: 137
+
+------------
+
+
+
+------------
+Test: 460)  Players: 4
+
+Random Player: 0
+Before Hand Count: 4
+Before Discard Count: 9
+Hand Position: 3
+Discard FAIL
+handcount: 4
+handcount: 7
+
+------------
+
+
+
+------------
+Test: 461)  Players: 3
+
+Random Player: 0
+Before Hand Count: 53
+Before Discard Count: 5
+Hand Position: 18
+Discard FAIL
+handcount: 53
+handcount: 56
+
+------------
+
+
+
+------------
+Test: 462)  Players: 4
+
+Random Player: 0
+Before Hand Count: 12
+Before Discard Count: 29
+Hand Position: 1
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 463)  Players: 3
+
+Random Player: 1
+Before Hand Count: 5
+Before Discard Count: 89
+Hand Position: 1
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 464)  Players: 4
+
+Random Player: 1
+Before Hand Count: 10
+Before Discard Count: 85
+Hand Position: 6
+Discard FAIL
+handcount: 10
+handcount: 13
+
+------------
+
+
+
+------------
+Test: 465)  Players: 2
+
+Random Player: 1
+Before Hand Count: 15
+Before Discard Count: 9
+Hand Position: 8
+Discard FAIL
+handcount: 15
+handcount: 18
+
+------------
+
+
+
+------------
+Test: 466)  Players: 2
+
+Random Player: 0
+Before Hand Count: 25
+Before Discard Count: 202
+Hand Position: 18
+Discard FAIL
+handcount: 25
+handcount: 28
+
+------------
+
+
+
+------------
+Test: 467)  Players: 4
+
+Random Player: 2
+Before Hand Count: 13
+Before Discard Count: 64
+Hand Position: 10
+Discard FAIL
+handcount: 13
+handcount: 16
+
+------------
+
+
+
+------------
+Test: 468)  Players: 4
+
+Random Player: 0
+Before Hand Count: 40
+Before Discard Count: 7
+Hand Position: 24
+Discard FAIL
+handcount: 40
+handcount: 43
+
+------------
+
+
+
+------------
+Test: 469)  Players: 2
+
+Random Player: 1
+Before Hand Count: 169
+Before Discard Count: 33
+Hand Position: 101
+Discard FAIL
+handcount: 169
+handcount: 172
+
+------------
+
+
+
+------------
+Test: 470)  Players: 4
+
+Random Player: 2
+Before Hand Count: 21
+Before Discard Count: 8
+Hand Position: 6
+Discard FAIL
+handcount: 21
+handcount: 24
+
+------------
+
+
+
+------------
+Test: 471)  Players: 3
+
+Random Player: 2
+Before Hand Count: 51
+Before Discard Count: 33
+Hand Position: 42
+Discard FAIL
+handcount: 51
+handcount: 54
+
+------------
+
+
+
+------------
+Test: 472)  Players: 4
+
+Random Player: 0
+Before Hand Count: 13
+Before Discard Count: 19
+Hand Position: 0
+Discard FAIL
+handcount: 13
+handcount: 16
+
+------------
+
+
+
+------------
+Test: 473)  Players: 2
+
+Random Player: 1
+Before Hand Count: 57
+Before Discard Count: 90
+Hand Position: 22
+Discard FAIL
+handcount: 57
+handcount: 60
+
+------------
+
+
+
+------------
+Test: 474)  Players: 3
+
+Random Player: 1
+Before Hand Count: 6
+Before Discard Count: 68
+Hand Position: 2
+Discard FAIL
+handcount: 6
+handcount: 9
+
+------------
+
+
+
+------------
+Test: 475)  Players: 4
+
+Random Player: 1
+Before Hand Count: 38
+Before Discard Count: 38
+Hand Position: 3
+Discard FAIL
+handcount: 38
+handcount: 41
+
+------------
+
+
+
+------------
+Test: 476)  Players: 4
+
+Random Player: 3
+Before Hand Count: 23
+Before Discard Count: 11
+Hand Position: 7
+Discard FAIL
+handcount: 23
+handcount: 26
+
+------------
+
+
+
+------------
+Test: 477)  Players: 3
+
+Random Player: 0
+Before Hand Count: 19
+Before Discard Count: 2
+Hand Position: 3
+Discard FAIL
+handcount: 19
+handcount: 22
+
+------------
+
+
+
+------------
+Test: 478)  Players: 4
+
+Random Player: 2
+Before Hand Count: 12
+Before Discard Count: 22
+Hand Position: 8
+Discard FAIL
+handcount: 12
+handcount: 15
+
+------------
+
+
+
+------------
+Test: 479)  Players: 2
+
+Random Player: 1
+Before Hand Count: 17
+Before Discard Count: 26
+Hand Position: 9
+Discard FAIL
+handcount: 17
+handcount: 20
+
+------------
+
+
+
+------------
+Test: 480)  Players: 4
+
+Random Player: 0
+Before Hand Count: 50
+Before Discard Count: 46
+Hand Position: 19
+Discard FAIL
+handcount: 50
+handcount: 53
+
+------------
+
+
+
+------------
+Test: 481)  Players: 2
+
+Random Player: 1
+Before Hand Count: 192
+Before Discard Count: 0
+Hand Position: 155
+Discard FAIL
+handcount: 192
+handcount: 195
+
+------------
+
+
+
+------------
+Test: 482)  Players: 4
+
+Random Player: 2
+Before Hand Count: 83
+Before Discard Count: 1
+Hand Position: 74
+Discard FAIL
+handcount: 83
+handcount: 86
+
+------------
+
+
+
+------------
+Test: 483)  Players: 3
+
+Random Player: 1
+Before Hand Count: 29
+Before Discard Count: 13
+Hand Position: 4
+Discard FAIL
+handcount: 29
+handcount: 32
+
+------------
+
+
+
+------------
+Test: 484)  Players: 3
+
+Random Player: 1
+Before Hand Count: 25
+Before Discard Count: 2
+Hand Position: 11
+Discard FAIL
+handcount: 25
+handcount: 28
+
+------------
+
+
+
+------------
+Test: 485)  Players: 2
+
+Random Player: 1
+Before Hand Count: 9
+Before Discard Count: 5
+Hand Position: 6
+Discard FAIL
+handcount: 9
+handcount: 12
+
+------------
+
+
+
+------------
+Test: 486)  Players: 4
+
+Random Player: 1
+Before Hand Count: 5
+Before Discard Count: 9
+Hand Position: 4
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 487)  Players: 2
+
+Random Player: 0
+Before Hand Count: 5
+Before Discard Count: 35
+Hand Position: 4
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+
+
+------------
+Test: 488)  Players: 4
+
+Random Player: 1
+Before Hand Count: 22
+Before Discard Count: 6
+Hand Position: 7
+Discard FAIL
+handcount: 22
+handcount: 25
+
+------------
+
+
+
+------------
+Test: 489)  Players: 4
+
+Random Player: 2
+Before Hand Count: 60
+Before Discard Count: 28
+Hand Position: 3
+Discard FAIL
+handcount: 60
+handcount: 63
+
+------------
+
+
+
+------------
+Test: 490)  Players: 4
+
+Random Player: 3
+Before Hand Count: 55
+Before Discard Count: 6
+Hand Position: 31
+Discard FAIL
+handcount: 55
+handcount: 58
+
+------------
+
+
+
+------------
+Test: 491)  Players: 3
+
+Random Player: 2
+Before Hand Count: 16
+Before Discard Count: 4
+Hand Position: 7
+Discard FAIL
+handcount: 16
+handcount: 19
+
+------------
+
+
+
+------------
+Test: 492)  Players: 4
+
+Random Player: 3
+Before Hand Count: 55
+Before Discard Count: 0
+Hand Position: 0
+Discard FAIL
+handcount: 55
+handcount: 58
+
+------------
+
+
+
+------------
+Test: 493)  Players: 2
+
+Random Player: 0
+Before Hand Count: 62
+Before Discard Count: 33
+Hand Position: 23
+Discard FAIL
+handcount: 62
+handcount: 65
+
+------------
+
+
+
+------------
+Test: 494)  Players: 3
+
+Random Player: 0
+Before Hand Count: 19
+Before Discard Count: 1
+Hand Position: 15
+Discard FAIL
+handcount: 19
+handcount: 22
+
+------------
+
+
+
+------------
+Test: 495)  Players: 3
+
+Random Player: 0
+Before Hand Count: 23
+Before Discard Count: 5
+Hand Position: 18
+Discard FAIL
+handcount: 23
+handcount: 26
+
+------------
+
+
+
+------------
+Test: 496)  Players: 3
+
+Random Player: 2
+Before Hand Count: 10
+Before Discard Count: 4
+Hand Position: 5
+Discard FAIL
+handcount: 10
+handcount: 13
+
+------------
+
+
+
+------------
+Test: 497)  Players: 4
+
+Random Player: 0
+Before Hand Count: 38
+Before Discard Count: 4
+Hand Position: 18
+Discard FAIL
+handcount: 38
+handcount: 41
+
+------------
+
+
+
+------------
+Test: 498)  Players: 3
+
+Random Player: 2
+Before Hand Count: 86
+Before Discard Count: 10
+Hand Position: 51
+Discard FAIL
+handcount: 86
+handcount: 89
+
+------------
+
+
+
+------------
+Test: 499)  Players: 4
+
+Random Player: 1
+Before Hand Count: 5
+Before Discard Count: 7
+Hand Position: 3
+Discard FAIL
+handcount: 5
+handcount: 8
+
+------------
+
+0 out of 500 tests passed
+0 hand errors
+500 discard errors
+
+
+Function 'updateCoins'
+Lines executed:81.82% of 11
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+
+Function 'discardCard'
+Lines executed:0.00% of 13
+
+Function 'cardEffect'
+Lines executed:0.00% of 175
+
+Function 'smithyEffect'
+Lines executed:100.00% of 5
+
+Function 'remodelEffect'
+Lines executed:0.00% of 11
+
+Function 'mineEffect'
+Lines executed:0.00% of 15
+
+Function 'feastEffect'
+Lines executed:0.00% of 17
+
+Function 'councilRoomEffect'
+Lines executed:0.00% of 10
+
+Function 'adventurerEffect'
+Lines executed:0.00% of 17
+
+Function 'getCost'
+Lines executed:0.00% of 30
+
+Function 'drawCard'
+Lines executed:36.36% of 22
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+
+Function 'endTurn'
+Lines executed:95.00% of 20
+
+Function 'whoseTurn'
+Lines executed:100.00% of 2
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+
+Function 'handCard'
+Lines executed:0.00% of 3
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+
+Function 'playCard'
+Lines executed:0.00% of 14
+
+Function 'shuffle'
+Lines executed:93.75% of 16
+
+Function 'initializeGame'
+Lines executed:95.16% of 62
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+
+Function 'newGame'
+Lines executed:0.00% of 3
+
+Function 'compare'
+Lines executed:83.33% of 6
+
+File 'dominion.c'
+Lines executed:21.71% of 562
+Creating 'dominion.c.gcov'
+
