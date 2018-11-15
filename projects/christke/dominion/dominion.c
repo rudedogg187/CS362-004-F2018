@@ -551,7 +551,7 @@ int drawCard(int player, struct gameState *state)
     count = state->handCount[player];//Get current player's hand count
 
     if (DEBUG){//Debug statements
-      printf("Current hand count: %d\n", count);
+      printf("Current hand count0: %d\n", count);
     }
 
     deckCounter = state->deckCount[player];//Create a holder for the deck count
@@ -692,9 +692,9 @@ int cardEffect_feast(struct gameState *state, int choice1)
   //Update Coins for Buy
   updateCoins(currentPlayer, state, 5);
   x = 1;//Condition to loop on
-  while( x == 1) {//Buy one card
-    // if (supplyCount(choice1, state) <= 0){
-    if (supplyCount(choice1, state) >= 0){    // BUG
+  // while( x == 1) {//Buy one card
+    if (supplyCount(choice1, state) <= 0){
+    // if (supplyCount(choice1, state) >= 0){    // BUG
       if (DEBUG)
         printf("None of that card left, sorry!\n");
 
@@ -723,7 +723,7 @@ int cardEffect_feast(struct gameState *state, int choice1)
       }
 
     }
-  }
+  // }
 
   //Reset Hand
   for (i = 0; i <= state->handCount[currentPlayer]; i++){
