@@ -42,21 +42,35 @@ testAll: dominion.o testSuite.c
 interface.o: interface.h interface.c
 	gcc -c interface.c -g  $(CFLAGS)
 
-randomTestAdventurer: randomtestadventurer.c dominion.o rngs.o
+randomTestAdventurer1: randomtestadventurer.c dominion.o rngs.o
 	gcc -o randomTestAdventurer -g randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
 
-randomTestCard1: randomtestcard1.c dominion.o rngs.o
+randomTestAdventurer: randomTestAdventurer1
+	./randomTestAdventurer &> randomtestadventurer.out
+	gcov dominion.c >> randomtestadventurer.out
+	cat dominion.c.gcov >> randomtestadventurer.out
+
+randomTestCard1_1: randomtestcard1.c dominion.o rngs.o
 	gcc -o randomTestCard1 -g randomtestcard1.c dominion.o rngs.o $(CFLAGS)
 
-randomTestCard2: randomtestcard2.c dominion.o rngs.o
+randomTestCard1: randomTestCard1_1
+	./randomTestCard1 &> randomtestcard1.out
+	gcov dominion.c >> randomtestcard1.out
+	cat dominion.c.gcov >> randomtestcard1.out
+
+randomTestCard2_1: randomtestcard2.c dominion.o rngs.o
 	gcc -o randomTestCard2 -g randomtestcard2.c dominion.o rngs.o $(CFLAGS)
 
+randomTestCard2: randomTestCard2_1
+	./randomTestCard2 &> randomtestcard2.out
+	gcov dominion.c >> randomtestcard2.out
+	cat dominion.c.gcov >> randomtestcard2.out
+
 randomTestResults: randomTestAdventurer randomTestCard1 randomTestCard2
-	./randomTestAdventurer &> randomtestresults.out
 	./randomTestCard1 &> randomtestresults.out
 	./randomTestCard2 &> randomtestresults.out
 	gcov dominion.c >> randomtestresults.out
-	cat dominion.c.gcov >> randomtestresults.out	
+	cat dominion.c.gcov >> randomtestresults.out
 
 unittestresults: testWhoseTurn testFullDeckCount testGetCost testIsGameOver testCardAdventurer testCardSmithy
 	./testWhoseTurn &> unittestresults.out

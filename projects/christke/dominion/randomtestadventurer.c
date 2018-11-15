@@ -16,7 +16,7 @@ void randomInitialization(struct gameState *G, int *handPos)
   int kCards[10];
   int possibleCards[17];
   players = (int)((rand()%(MAX_PLAYERS-1))+2);
-  printf("Players: %i\n", players);
+  // printf("Players: %i\n", players);
   kCards[0] = adventurer;
   /* Randomly select remaining kingdom cards */
   for(i = 1; i < 10; i++)
@@ -50,15 +50,15 @@ void randomInitialization(struct gameState *G, int *handPos)
     ((char*)G)[i] = (char)(rand()%256);
   }
   p = (int)(rand()%players);
-  printf("Current player: %i\n", p);
+  // printf("Current player: %i\n", p);
   handSize = (int)((rand()%(MAX_HAND-1))+2);
-  printf("Hand Size: %i\n", handSize);
+  // printf("Hand Size: %i\n", handSize);
   *handPos = (int)((rand()%handSize));
-  printf("Hand Position: %i\n", *handPos);
+  // printf("Hand Position: %i\n", *handPos);
   deckSize = (int)((rand()%MAX_DECK)+1);
-  printf("Deck Size: %i\n", deckSize);
+  // printf("Deck Size: %i\n", deckSize);
   discardSize = (int)((rand()%MAX_DECK)+1);
-  printf("Discard Size: %i\n", discardSize);
+  // printf("Discard Size: %i\n", discardSize);
 
   G->numPlayers = players;
   G->numActions = 1;
@@ -111,14 +111,14 @@ int testCardAdventurer(struct gameState *G)
     if(G->hand[G->whoseTurn][i]>3 && G->hand[G->whoseTurn][i]<7)
       precount++;
   }
-  printf("Precount = %i\n",precount);
+  // printf("Precount = %i\n",precount);
   cardEffect(adventurer, -1, -1, -1, G, position, (int *)-1);  // cardEffect_adventurer(G);
   for(i = 0; i < G->handCount[G->whoseTurn]; i++)
   {
     if(G->hand[G->whoseTurn][i]>3 && G->hand[G->whoseTurn][i]<7)
       postcount++;
   }
-  printf("Postcount = %i\n",postcount);
+  // printf("Postcount = %i\n",postcount);
   if(treasureCountDeckDiscard>1)
     assert(postcount == precount+2);
   else
