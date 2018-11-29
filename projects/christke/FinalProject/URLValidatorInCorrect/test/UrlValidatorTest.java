@@ -22,10 +22,7 @@ public class UrlValidatorTest extends TestCase {
    public void testManualTest()
    {
 //You can use this function to implement your manual testing	   
-	   UrlValidator urlVal = new UrlValidator(null, null, UrlValidator.ALLOW_ALL_SCHEMES);
-	   assertTrue(urlVal.isValid("http://www.google.com"));
-	   assertTrue(urlVal.isValid("https://www.google.com/"));
-	   assertTrue(urlVal.isValid("https://stackoverflow.com/questions/1547899/which-characters-make-a-url-invalid"));
+	   
    }
    
    
