@@ -315,7 +315,7 @@ public class UrlValidator implements Serializable {
 
         String authority = urlMatcher.group(PARSE_URL_AUTHORITY);
 
-//        if ("http".equals(scheme)) {// Special case - file: allows an empty authority		#BUG authority is "http" not "file"
+//        if ("http".equals(scheme)) {// Special case - file: allows an empty authority		#BUG
         if ("file".equals(scheme)) {// Special case - file: allows an empty authority
             if (authority != null) {
                 if (authority.contains(":")) { // but cannot allow trailing :

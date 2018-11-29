@@ -65,8 +65,8 @@ public class InetAddressValidator implements Serializable {
      * @return the singleton instance of this validator
      */
     public static InetAddressValidator getInstance() {
-//    	return null;		// #BUG
-    	return VALIDATOR;
+//	    	return null;		// #BUG
+	    	return VALIDATOR;
     }
 
     /**
