@@ -13,7 +13,7 @@ Function 'villageEffect'
 Lines executed:0.00% of 4
 
 Function 'smithyEffect'
-Lines executed:100.00% of 8
+Lines executed:0.00% of 8
 
 Function 'adventurerEffect'
 Lines executed:100.00% of 15
@@ -25,10 +25,10 @@ Function 'gainCard'
 Lines executed:0.00% of 13
 
 Function 'discardCard'
-Lines executed:84.62% of 13
+Lines executed:0.00% of 13
 
 Function 'cardEffect'
-Lines executed:5.74% of 209
+Lines executed:4.78% of 209
 
 Function 'getCost'
 Lines executed:0.00% of 30
@@ -46,7 +46,7 @@ Function 'isGameOver'
 Lines executed:0.00% of 10
 
 Function 'endTurn'
-Lines executed:95.00% of 20
+Lines executed:0.00% of 20
 
 Function 'whoseTurn'
 Lines executed:100.00% of 2
@@ -73,7 +73,7 @@ Function 'shuffle'
 Lines executed:100.00% of 16
 
 Function 'initializeGame'
-Lines executed:95.16% of 62
+Lines executed:85.48% of 62
 
 Function 'kingdomCards'
 Lines executed:0.00% of 13
@@ -85,6 +85,6 @@ Function 'compare'
 Lines executed:83.33% of 6
 
 File 'dominion.c'
-Lines executed:30.84% of 561
+Lines executed:22.64% of 561
 Creating 'dominion.c.gcov'
 

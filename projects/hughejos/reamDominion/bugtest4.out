@@ -4,15 +4,15 @@ This is random card tester: Adventurer
 ------------
 Test: 0)  Players: 4
 
-Random Player: 0
-drawnTreasereBefore: 1
+Random Player: 3
+drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 62
-Before Discard Count: 7
-deck count: 62
-temp hand count: 44
+Before Deck Count: 120
+Before Discard Count: 41
+deck count: 120
+temp hand count: 108
 Fail hand count
-handCountAfter: 2
+handCountAfter: 4
 drawnTreasereAfter: 2
 
 ------------
@@ -20,71 +20,71 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 1)  Players: 4
+Test: 1)  Players: 3
 
-Random Player: 0
+Random Player: 1
 drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 44
-Before Discard Count: 35
-deck count: 44
-temp hand count: 22
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 2)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 169
-Before Discard Count: 93
-deck count: 169
-temp hand count: 129
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 3)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 37
-Before Discard Count: 19
-deck count: 37
-temp hand count: 1
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 4)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 209
-Before Discard Count: 181
-deck count: 209
-temp hand count: 182
+Before Deck Count: 142
+Before Discard Count: 47
+deck count: 142
+temp hand count: 108
 Fail hand count
 handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 2)  Players: 4
+
+Random Player: 2
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 43
+Before Discard Count: 14
+deck count: 43
+temp hand count: 10
+Fail hand count
+handCountAfter: 1
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 3)  Players: 3
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 158
+Before Discard Count: 57
+deck count: 158
+temp hand count: 85
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 4)  Players: 3
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 78
+Before Discard Count: 48
+deck count: 78
+temp hand count: 45
+Fail hand count
+handCountAfter: 2
 drawnTreasereAfter: 2
 
 ------------
@@ -96,47 +96,11 @@ Test: 5)  Players: 3
 
 Random Player: 1
 drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 16
-Before Discard Count: 7
-deck count: 16
-temp hand count: 15
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 6)  Players: 3
-
-Random Player: 2
-drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 110
-Before Discard Count: 61
-deck count: 110
-temp hand count: 59
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 7)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 228
-Before Discard Count: 12
-deck count: 228
-temp hand count: 205
+Before Deck Count: 10
+Before Discard Count: 0
+deck count: 10
+temp hand count: 0
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -146,17 +110,53 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 8)  Players: 4
+Test: 6)  Players: 4
+
+Random Player: 3
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 22
+Before Discard Count: 16
+deck count: 22
+temp hand count: 12
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 7)  Players: 4
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 117
+Before Discard Count: 21
+deck count: 117
+temp hand count: 33
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 8)  Players: 3
 
 Random Player: 2
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 31
-Before Discard Count: 1
-deck count: 31
-temp hand count: 30
-Fail hand count
-handCountAfter: 2
+Before Deck Count: 103
+Before Discard Count: 86
+deck count: 103
+temp hand count: 32
+PASS
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -166,15 +166,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 9)  Players: 4
 
-Random Player: 3
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 74
-Before Discard Count: 70
-deck count: 74
-temp hand count: 34
+Random Player: 2
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 118
+Before Discard Count: 42
+deck count: 118
+temp hand count: 53
 Fail hand count
-handCountAfter: 2
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -182,17 +182,17 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 10)  Players: 2
+Test: 10)  Players: 4
 
-Random Player: 1
+Random Player: 3
 drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 229
-Before Discard Count: 3
-deck count: 229
-temp hand count: 7
+Before Deck Count: 97
+Before Discard Count: 4
+deck count: 97
+temp hand count: 14
 Fail hand count
-handCountAfter: 2
+handCountAfter: 4
 drawnTreasereAfter: 2
 
 ------------
@@ -204,13 +204,13 @@ Test: 11)  Players: 4
 
 Random Player: 0
 drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 14
-Before Discard Count: 8
-deck count: 14
-temp hand count: 8
+Before Hand Count: 3
+Before Deck Count: 37
+Before Discard Count: 0
+deck count: 37
+temp hand count: 29
 Fail hand count
-handCountAfter: 3
+handCountAfter: 1
 drawnTreasereAfter: 2
 
 ------------
@@ -218,15 +218,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 12)  Players: 2
+Test: 12)  Players: 4
 
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 175
-Before Discard Count: 35
-deck count: 175
-temp hand count: 33
+Random Player: 3
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 48
+Before Discard Count: 36
+deck count: 48
+temp hand count: 38
 Fail hand count
 handCountAfter: 2
 drawnTreasereAfter: 2
@@ -238,50 +238,50 @@ drawnTreasereAfter: 2
 ------------
 Test: 13)  Players: 4
 
-Random Player: 3
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 113
-Before Discard Count: 17
-deck count: 113
-temp hand count: 99
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 14)  Players: 4
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 134
-Before Discard Count: 92
-deck count: 134
-temp hand count: 108
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 15)  Players: 3
-
 Random Player: 1
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 141
-Before Discard Count: 15
-deck count: 141
-temp hand count: 72
+Before Deck Count: 12
+Before Discard Count: 1
+deck count: 12
+temp hand count: 1
 PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 14)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 117
+Before Discard Count: 77
+deck count: 117
+temp hand count: 107
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 15)  Players: 4
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 72
+Before Discard Count: 7
+deck count: 72
+temp hand count: 23
+Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
 
@@ -292,15 +292,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 16)  Players: 3
 
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 111
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 48
 Before Discard Count: 4
-deck count: 111
-temp hand count: 87
+deck count: 48
+temp hand count: 38
 Fail hand count
-handCountAfter: 4
+handCountAfter: 3
 drawnTreasereAfter: 2
 
 ------------
@@ -308,17 +308,17 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 17)  Players: 2
+Test: 17)  Players: 4
 
 Random Player: 0
-drawnTreasereBefore: 1
+drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 137
-Before Discard Count: 116
-deck count: 137
-temp hand count: 49
+Before Deck Count: 23
+Before Discard Count: 16
+deck count: 23
+temp hand count: 17
 Fail hand count
-handCountAfter: 5
+handCountAfter: 3
 drawnTreasereAfter: 2
 
 ------------
@@ -330,13 +330,13 @@ Test: 18)  Players: 2
 
 Random Player: 0
 drawnTreasereBefore: 0
-Before Hand Count: 4
+Before Hand Count: 3
 Before Deck Count: 220
-Before Discard Count: 11
+Before Discard Count: 2
 deck count: 220
-temp hand count: 203
-Fail hand count
-handCountAfter: 3
+temp hand count: 116
+PASS
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -344,16 +344,16 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 19)  Players: 3
+Test: 19)  Players: 2
 
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 121
-Before Discard Count: 47
-deck count: 121
-temp hand count: 98
-PASS
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 144
+Before Discard Count: 121
+deck count: 144
+temp hand count: 86
+Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
 
@@ -364,31 +364,13 @@ drawnTreasereAfter: 2
 ------------
 Test: 20)  Players: 3
 
-Random Player: 2
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 159
-Before Discard Count: 133
-deck count: 159
-temp hand count: 58
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 21)  Players: 4
-
-Random Player: 3
+Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 75
-Before Discard Count: 4
-deck count: 75
-temp hand count: 60
+Before Deck Count: 145
+Before Discard Count: 138
+deck count: 145
+temp hand count: 7
 Fail hand count
 handCountAfter: 3
 drawnTreasereAfter: 2
@@ -398,17 +380,35 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 22)  Players: 4
+Test: 21)  Players: 4
 
-Random Player: 3
-drawnTreasereBefore: 1
+Random Player: 1
+drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 88
-Before Discard Count: 59
-deck count: 88
-temp hand count: 53
+Before Deck Count: 111
+Before Discard Count: 6
+deck count: 111
+temp hand count: 14
 Fail hand count
-handCountAfter: 5
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 22)  Players: 3
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 152
+Before Discard Count: 47
+deck count: 152
+temp hand count: 104
+Fail hand count
+handCountAfter: 3
 drawnTreasereAfter: 2
 
 ------------
@@ -418,15 +418,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 23)  Players: 2
 
-Random Player: 1
-drawnTreasereBefore: 0
+Random Player: 0
+drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 213
-Before Discard Count: 23
-deck count: 213
-temp hand count: 99
-PASS
-handCountAfter: 5
+Before Deck Count: 102
+Before Discard Count: 76
+deck count: 102
+temp hand count: 90
+Fail hand count
+handCountAfter: 4
 drawnTreasereAfter: 2
 
 ------------
@@ -434,35 +434,35 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 24)  Players: 4
+Test: 24)  Players: 3
+
+Random Player: 2
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 119
+Before Discard Count: 29
+deck count: 119
+temp hand count: 53
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 25)  Players: 4
 
 Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 46
-Before Discard Count: 31
-deck count: 46
-temp hand count: 9
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 25)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 0
+drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 88
-Before Discard Count: 36
-deck count: 88
-temp hand count: 11
+Before Deck Count: 98
+Before Discard Count: 85
+deck count: 98
+temp hand count: 49
 Fail hand count
-handCountAfter: 1
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -473,48 +473,12 @@ drawnTreasereAfter: 2
 Test: 26)  Players: 2
 
 Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 234
-Before Discard Count: 195
-deck count: 234
-temp hand count: 130
-Fail hand count
-handCountAfter: 1
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 27)  Players: 2
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 20
-Before Discard Count: 14
-deck count: 20
-temp hand count: 16
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 28)  Players: 2
-
-Random Player: 0
 drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 235
-Before Discard Count: 1
-deck count: 235
-temp hand count: 65
+Before Deck Count: 210
+Before Discard Count: 129
+deck count: 210
+temp hand count: 110
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -524,122 +488,14 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 29)  Players: 4
-
-Random Player: 3
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 36
-Before Discard Count: 27
-deck count: 36
-temp hand count: 6
-Fail hand count
-handCountAfter: 1
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 30)  Players: 2
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 200
-Before Discard Count: 42
-deck count: 200
-temp hand count: 98
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 31)  Players: 4
+Test: 27)  Players: 3
 
 Random Player: 2
 drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 37
-Before Discard Count: 22
-deck count: 37
-temp hand count: 24
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 32)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 92
-Before Discard Count: 88
-deck count: 92
-temp hand count: 84
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 33)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 119
-Before Discard Count: 69
-deck count: 119
-temp hand count: 70
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 34)  Players: 2
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 29
-Before Discard Count: 16
-deck count: 29
-temp hand count: 28
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 35)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 106
-Before Discard Count: 74
-deck count: 106
+Before Deck Count: 144
+Before Discard Count: 68
+deck count: 144
 temp hand count: 37
 Fail hand count
 handCountAfter: 5
@@ -650,17 +506,161 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 36)  Players: 4
+Test: 28)  Players: 4
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 113
+Before Discard Count: 82
+deck count: 113
+temp hand count: 65
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 29)  Players: 3
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 162
+Before Discard Count: 7
+deck count: 162
+temp hand count: 67
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 30)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 24
+Before Discard Count: 20
+deck count: 24
+temp hand count: 4
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 31)  Players: 3
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 157
+Before Discard Count: 108
+deck count: 157
+temp hand count: 156
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 32)  Players: 4
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 109
+Before Discard Count: 91
+deck count: 109
+temp hand count: 9
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 33)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 11
+Before Discard Count: 6
+deck count: 11
+temp hand count: 1
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 34)  Players: 3
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 63
+Before Discard Count: 11
+deck count: 63
+temp hand count: 32
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 35)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 237
+Before Discard Count: 180
+deck count: 237
+temp hand count: 131
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 36)  Players: 3
 
 Random Player: 2
 drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 90
-Before Discard Count: 22
-deck count: 90
-temp hand count: 9
-PASS
-handCountAfter: 5
+Before Hand Count: 4
+Before Deck Count: 60
+Before Discard Count: 6
+deck count: 60
+temp hand count: 50
+Fail hand count
+handCountAfter: 3
 drawnTreasereAfter: 2
 
 ------------
@@ -670,67 +670,13 @@ drawnTreasereAfter: 2
 ------------
 Test: 37)  Players: 4
 
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 117
-Before Discard Count: 15
-deck count: 117
-temp hand count: 6
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 38)  Players: 3
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 115
-Before Discard Count: 55
-deck count: 115
-temp hand count: 82
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 39)  Players: 4
-
 Random Player: 2
 drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 95
-Before Discard Count: 61
-deck count: 95
-temp hand count: 71
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 40)  Players: 4
-
-Random Player: 3
-drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 46
-Before Discard Count: 21
-deck count: 46
-temp hand count: 25
+Before Deck Count: 30
+Before Discard Count: 15
+deck count: 30
+temp hand count: 6
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -740,33 +686,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 41)  Players: 3
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 12
-Before Discard Count: 3
-deck count: 12
-temp hand count: 3
-Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 42)  Players: 3
+Test: 38)  Players: 2
 
 Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 108
-Before Discard Count: 99
-deck count: 108
-temp hand count: 57
+Before Deck Count: 184
+Before Discard Count: 20
+deck count: 184
+temp hand count: 90
 PASS
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -776,16 +704,88 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 43)  Players: 2
+Test: 39)  Players: 3
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 156
+Before Discard Count: 50
+deck count: 156
+temp hand count: 28
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 40)  Players: 3
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 43
+Before Discard Count: 18
+deck count: 43
+temp hand count: 32
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 41)  Players: 2
 
 Random Player: 1
 drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 36
-Before Discard Count: 0
-deck count: 36
-temp hand count: 23
+Before Deck Count: 227
+Before Discard Count: 65
+deck count: 227
+temp hand count: 167
 Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 42)  Players: 4
+
+Random Player: 2
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 123
+Before Discard Count: 67
+deck count: 123
+temp hand count: 112
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 43)  Players: 3
+
+Random Player: 2
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 128
+Before Discard Count: 7
+deck count: 128
+temp hand count: 55
+PASS
 handCountAfter: 5
 drawnTreasereAfter: 2
 
@@ -796,13 +796,13 @@ drawnTreasereAfter: 2
 ------------
 Test: 44)  Players: 4
 
-Random Player: 3
+Random Player: 2
 drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 78
-Before Discard Count: 37
-deck count: 78
-temp hand count: 59
+Before Deck Count: 12
+Before Discard Count: 2
+deck count: 12
+temp hand count: 9
 Fail hand count
 handCountAfter: 4
 drawnTreasereAfter: 2
@@ -814,14 +814,14 @@ drawnTreasereAfter: 2
 ------------
 Test: 45)  Players: 2
 
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 52
-Before Discard Count: 36
-deck count: 52
-temp hand count: 20
-Fail hand count
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 211
+Before Discard Count: 79
+deck count: 211
+temp hand count: 205
+PASS
 handCountAfter: 5
 drawnTreasereAfter: 2
 
@@ -834,119 +834,11 @@ Test: 46)  Players: 2
 
 Random Player: 0
 drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 136
-Before Discard Count: 67
-deck count: 136
-temp hand count: 62
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 47)  Players: 3
-
-Random Player: 2
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 125
-Before Discard Count: 50
-deck count: 125
-temp hand count: 113
-Fail hand count
-handCountAfter: 0
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 48)  Players: 2
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 73
-Before Discard Count: 26
-deck count: 73
-temp hand count: 37
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 49)  Players: 3
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 147
-Before Discard Count: 9
-deck count: 147
-temp hand count: 121
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 50)  Players: 4
-
-Random Player: 1
-drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 117
-Before Discard Count: 27
-deck count: 117
-temp hand count: 56
-Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 51)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 129
-Before Discard Count: 81
-deck count: 129
-temp hand count: 49
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 52)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 170
-Before Discard Count: 67
-deck count: 170
-temp hand count: 114
+Before Deck Count: 37
+Before Discard Count: 20
+deck count: 37
+temp hand count: 10
 Fail hand count
 handCountAfter: 2
 drawnTreasereAfter: 2
@@ -956,15 +848,33 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 53)  Players: 4
+Test: 47)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 29
+Before Discard Count: 3
+deck count: 29
+temp hand count: 22
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 48)  Players: 2
 
 Random Player: 1
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 75
-Before Discard Count: 12
-deck count: 75
-temp hand count: 30
+Before Deck Count: 65
+Before Discard Count: 16
+deck count: 65
+temp hand count: 52
 Fail hand count
 handCountAfter: 3
 drawnTreasereAfter: 2
@@ -974,17 +884,107 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 54)  Players: 2
+Test: 49)  Players: 3
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 27
+Before Discard Count: 18
+deck count: 27
+temp hand count: 0
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 50)  Players: 3
 
 Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 208
-Before Discard Count: 163
-deck count: 208
-temp hand count: 125
+Before Deck Count: 39
+Before Discard Count: 24
+deck count: 39
+temp hand count: 37
 PASS
 handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 51)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 132
+Before Discard Count: 62
+deck count: 132
+temp hand count: 97
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 52)  Players: 4
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 111
+Before Discard Count: 74
+deck count: 111
+temp hand count: 49
+Fail hand count
+handCountAfter: 1
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 53)  Players: 4
+
+Random Player: 2
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 53
+Before Discard Count: 42
+deck count: 53
+temp hand count: 6
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 54)  Players: 4
+
+Random Player: 3
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 77
+Before Discard Count: 66
+deck count: 77
+temp hand count: 38
+Fail hand count
+handCountAfter: 4
 drawnTreasereAfter: 2
 
 ------------
@@ -994,13 +994,13 @@ drawnTreasereAfter: 2
 ------------
 Test: 55)  Players: 3
 
-Random Player: 2
+Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 106
-Before Discard Count: 94
-deck count: 106
-temp hand count: 31
+Before Deck Count: 103
+Before Discard Count: 52
+deck count: 103
+temp hand count: 102
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -1010,16 +1010,16 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 56)  Players: 4
+Test: 56)  Players: 3
 
-Random Player: 2
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 37
-Before Discard Count: 12
-deck count: 37
-temp hand count: 6
-PASS
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 106
+Before Discard Count: 70
+deck count: 106
+temp hand count: 34
+Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
 
@@ -1032,13 +1032,13 @@ Test: 57)  Players: 4
 
 Random Player: 3
 drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 60
-Before Discard Count: 19
-deck count: 60
-temp hand count: 22
+Before Hand Count: 3
+Before Deck Count: 50
+Before Discard Count: 3
+deck count: 50
+temp hand count: 45
 Fail hand count
-handCountAfter: 5
+handCountAfter: 2
 drawnTreasereAfter: 2
 
 ------------
@@ -1049,30 +1049,12 @@ drawnTreasereAfter: 2
 Test: 58)  Players: 2
 
 Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 133
-Before Discard Count: 100
-deck count: 133
-temp hand count: 25
-Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 59)  Players: 4
-
-Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 80
-Before Discard Count: 32
-deck count: 80
-temp hand count: 22
+Before Deck Count: 233
+Before Discard Count: 33
+deck count: 233
+temp hand count: 162
 PASS
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -1082,662 +1064,14 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 60)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 31
-Before Discard Count: 13
-deck count: 31
-temp hand count: 22
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 61)  Players: 2
+Test: 59)  Players: 3
 
 Random Player: 1
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 123
-Before Discard Count: 92
-deck count: 123
-temp hand count: 54
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 62)  Players: 4
-
-Random Player: 3
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 19
-Before Discard Count: 9
-deck count: 19
-temp hand count: 14
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 63)  Players: 4
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 40
-Before Discard Count: 26
-deck count: 40
-temp hand count: 16
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 64)  Players: 4
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 22
-Before Discard Count: 2
-deck count: 22
-temp hand count: 20
-Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 65)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 96
-Before Discard Count: 39
-deck count: 96
-temp hand count: 83
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 66)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 73
-Before Discard Count: 56
-deck count: 73
-temp hand count: 15
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 67)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 156
-Before Discard Count: 4
-deck count: 156
-temp hand count: 146
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 68)  Players: 3
-
-Random Player: 2
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 144
-Before Discard Count: 48
-deck count: 144
-temp hand count: 70
-Fail hand count
-handCountAfter: 1
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 69)  Players: 4
-
-Random Player: 3
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 19
-Before Discard Count: 15
-deck count: 19
-temp hand count: 15
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 70)  Players: 4
-
-Random Player: 3
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 45
-Before Discard Count: 17
-deck count: 45
-temp hand count: 9
-Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 71)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 49
-Before Discard Count: 34
-deck count: 49
-temp hand count: 40
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 72)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 128
-Before Discard Count: 35
-deck count: 128
-temp hand count: 66
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 73)  Players: 3
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 36
-Before Discard Count: 14
-deck count: 36
-temp hand count: 16
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 74)  Players: 3
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 94
-Before Discard Count: 8
-deck count: 94
-temp hand count: 82
-Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 75)  Players: 4
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 86
-Before Discard Count: 6
-deck count: 86
-temp hand count: 5
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 76)  Players: 4
-
-Random Player: 3
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 133
-Before Discard Count: 9
-deck count: 133
-temp hand count: 132
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 77)  Players: 3
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 166
-Before Discard Count: 126
-deck count: 166
-temp hand count: 112
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 78)  Players: 4
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 100
-Before Discard Count: 58
-deck count: 100
-temp hand count: 80
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 79)  Players: 2
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 55
-Before Discard Count: 48
-deck count: 55
-temp hand count: 24
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 80)  Players: 4
-
-Random Player: 3
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 37
-Before Discard Count: 17
-deck count: 37
-temp hand count: 19
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 81)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 156
-Before Discard Count: 137
-deck count: 156
-temp hand count: 26
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 82)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 196
-Before Discard Count: 42
-deck count: 196
-temp hand count: 75
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 83)  Players: 4
-
-Random Player: 2
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 119
-Before Discard Count: 7
-deck count: 119
-temp hand count: 102
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 84)  Players: 4
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 131
-Before Discard Count: 93
-deck count: 131
-temp hand count: 96
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 85)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 102
-Before Discard Count: 24
-deck count: 102
-temp hand count: 26
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 86)  Players: 4
-
-Random Player: 2
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 53
-Before Discard Count: 38
-deck count: 53
-temp hand count: 37
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 87)  Players: 3
-
-Random Player: 2
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 21
-Before Discard Count: 8
-deck count: 21
-temp hand count: 4
-Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 88)  Players: 3
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 116
-Before Discard Count: 76
-deck count: 116
-temp hand count: 59
-Fail hand count
-handCountAfter: 1
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 89)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 30
-Before Discard Count: 19
-deck count: 30
-temp hand count: 10
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 90)  Players: 2
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 248
-Before Discard Count: 16
-deck count: 248
-temp hand count: 160
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 91)  Players: 2
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 24
-Before Discard Count: 16
-deck count: 24
-temp hand count: 11
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 92)  Players: 2
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 116
-Before Discard Count: 55
-deck count: 116
-temp hand count: 22
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 93)  Players: 4
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 38
-Before Discard Count: 5
-deck count: 38
-temp hand count: 14
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 94)  Players: 4
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 38
-Before Discard Count: 14
-deck count: 38
-temp hand count: 13
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 95)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 68
-Before Discard Count: 1
-deck count: 68
-temp hand count: 14
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 96)  Players: 4
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 41
-Before Discard Count: 36
-deck count: 41
+Before Deck Count: 108
+Before Discard Count: 68
+deck count: 108
 temp hand count: 32
 Fail hand count
 handCountAfter: 1
@@ -1748,17 +1082,17 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 97)  Players: 3
+Test: 60)  Players: 4
 
-Random Player: 1
-drawnTreasereBefore: 0
+Random Player: 3
+drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 12
-Before Discard Count: 0
-deck count: 12
-temp hand count: 11
+Before Deck Count: 69
+Before Discard Count: 50
+deck count: 69
+temp hand count: 19
 Fail hand count
-handCountAfter: 4
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -1766,35 +1100,35 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 98)  Players: 2
+Test: 61)  Players: 4
+
+Random Player: 3
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 70
+Before Discard Count: 17
+deck count: 70
+temp hand count: 3
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 62)  Players: 2
 
 Random Player: 1
 drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 69
-Before Discard Count: 9
-deck count: 69
-temp hand count: 12
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 99)  Players: 4
-
-Random Player: 3
-drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 79
-Before Discard Count: 60
-deck count: 79
-temp hand count: 48
+Before Deck Count: 108
+Before Discard Count: 6
+deck count: 108
+temp hand count: 59
 Fail hand count
-handCountAfter: 4
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -1802,15 +1136,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 100)  Players: 4
+Test: 63)  Players: 4
 
-Random Player: 3
+Random Player: 2
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 78
-Before Discard Count: 67
-deck count: 78
-temp hand count: 35
+Before Deck Count: 88
+Before Discard Count: 61
+deck count: 88
+temp hand count: 32
 PASS
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -1820,15 +1154,51 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 101)  Players: 3
+Test: 64)  Players: 4
 
 Random Player: 2
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 20
+Before Discard Count: 6
+deck count: 20
+temp hand count: 13
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 65)  Players: 2
+
+Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 107
-Before Discard Count: 56
-deck count: 107
-temp hand count: 68
+Before Deck Count: 187
+Before Discard Count: 179
+deck count: 187
+temp hand count: 49
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 66)  Players: 3
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 45
+Before Discard Count: 25
+deck count: 45
+temp hand count: 22
 Fail hand count
 handCountAfter: 3
 drawnTreasereAfter: 2
@@ -1838,15 +1208,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 102)  Players: 3
+Test: 67)  Players: 4
 
 Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 118
-Before Discard Count: 26
-deck count: 118
-temp hand count: 73
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 132
+Before Discard Count: 75
+deck count: 132
+temp hand count: 64
 Fail hand count
 handCountAfter: 2
 drawnTreasereAfter: 2
@@ -1856,15 +1226,411 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 103)  Players: 4
+Test: 68)  Players: 4
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 42
+Before Discard Count: 13
+deck count: 42
+temp hand count: 39
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 69)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 208
+Before Discard Count: 193
+deck count: 208
+temp hand count: 64
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 70)  Players: 4
+
+Random Player: 3
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 11
+Before Discard Count: 5
+deck count: 11
+temp hand count: 9
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 71)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 252
+Before Discard Count: 40
+deck count: 252
+temp hand count: 122
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 72)  Players: 4
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 66
+Before Discard Count: 25
+deck count: 66
+temp hand count: 7
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 73)  Players: 4
+
+Random Player: 2
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 50
+Before Discard Count: 11
+deck count: 50
+temp hand count: 29
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 74)  Players: 4
+
+Random Player: 3
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 108
+Before Discard Count: 30
+deck count: 108
+temp hand count: 46
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 75)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 202
+Before Discard Count: 97
+deck count: 202
+temp hand count: 133
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 76)  Players: 4
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 73
+Before Discard Count: 63
+deck count: 73
+temp hand count: 0
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 77)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 237
+Before Discard Count: 99
+deck count: 237
+temp hand count: 138
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 78)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 212
+Before Discard Count: 143
+deck count: 212
+temp hand count: 100
+Fail hand count
+handCountAfter: 0
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 79)  Players: 3
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 116
+Before Discard Count: 102
+deck count: 116
+temp hand count: 57
+Fail hand count
+handCountAfter: 1
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 80)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 23
+Before Discard Count: 15
+deck count: 23
+temp hand count: 9
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 81)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 258
+Before Discard Count: 62
+deck count: 258
+temp hand count: 206
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 82)  Players: 3
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 94
+Before Discard Count: 82
+deck count: 94
+temp hand count: 64
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 83)  Players: 3
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 158
+Before Discard Count: 83
+deck count: 158
+temp hand count: 144
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 84)  Players: 4
+
+Random Player: 2
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 41
+Before Discard Count: 14
+deck count: 41
+temp hand count: 16
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 85)  Players: 3
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 54
+Before Discard Count: 4
+deck count: 54
+temp hand count: 4
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 86)  Players: 3
+
+Random Player: 2
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 47
+Before Discard Count: 15
+deck count: 47
+temp hand count: 17
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 87)  Players: 4
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 74
+Before Discard Count: 55
+deck count: 74
+temp hand count: 72
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 88)  Players: 3
 
 Random Player: 2
 drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 33
-Before Discard Count: 20
-deck count: 33
-temp hand count: 10
+Before Deck Count: 39
+Before Discard Count: 6
+deck count: 39
+temp hand count: 21
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 89)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 221
+Before Discard Count: 207
+deck count: 221
+temp hand count: 95
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 90)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 229
+Before Discard Count: 79
+deck count: 229
+temp hand count: 34
 Fail hand count
 handCountAfter: 2
 drawnTreasereAfter: 2
@@ -1874,17 +1640,251 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 104)  Players: 2
+Test: 91)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 126
+Before Discard Count: 88
+deck count: 126
+temp hand count: 19
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 92)  Players: 3
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 50
+Before Discard Count: 28
+deck count: 50
+temp hand count: 32
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 93)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 135
+Before Discard Count: 84
+deck count: 135
+temp hand count: 76
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 94)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 224
+Before Discard Count: 125
+deck count: 224
+temp hand count: 184
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 95)  Players: 3
+
+Random Player: 2
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 46
+Before Discard Count: 9
+deck count: 46
+temp hand count: 34
+Fail hand count
+handCountAfter: 1
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 96)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 180
+Before Discard Count: 98
+deck count: 180
+temp hand count: 40
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 97)  Players: 4
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 88
+Before Discard Count: 0
+deck count: 88
+temp hand count: 80
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 98)  Players: 3
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 55
+Before Discard Count: 25
+deck count: 55
+temp hand count: 6
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 99)  Players: 3
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 95
+Before Discard Count: 77
+deck count: 95
+temp hand count: 57
+Fail hand count
+handCountAfter: 1
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 100)  Players: 3
 
 Random Player: 0
 drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 170
-Before Discard Count: 5
-deck count: 170
-temp hand count: 2
+Before Deck Count: 98
+Before Discard Count: 34
+deck count: 98
+temp hand count: 14
 Fail hand count
 handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 101)  Players: 4
+
+Random Player: 3
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 47
+Before Discard Count: 26
+deck count: 47
+temp hand count: 26
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 102)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 18
+Before Discard Count: 10
+deck count: 18
+temp hand count: 16
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 103)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 39
+Before Discard Count: 11
+deck count: 39
+temp hand count: 33
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 104)  Players: 4
+
+Random Player: 3
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 82
+Before Discard Count: 62
+deck count: 82
+temp hand count: 60
+Fail hand count
+handCountAfter: 2
 drawnTreasereAfter: 2
 
 ------------
@@ -1896,13 +1896,13 @@ Test: 105)  Players: 2
 
 Random Player: 1
 drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 77
-Before Discard Count: 45
-deck count: 77
-temp hand count: 29
+Before Hand Count: 3
+Before Deck Count: 108
+Before Discard Count: 26
+deck count: 108
+temp hand count: 99
 Fail hand count
-handCountAfter: 5
+handCountAfter: 4
 drawnTreasereAfter: 2
 
 ------------
@@ -1910,17 +1910,17 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 106)  Players: 4
+Test: 106)  Players: 3
 
-Random Player: 3
-drawnTreasereBefore: 0
+Random Player: 0
+drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 70
-Before Discard Count: 27
-deck count: 70
-temp hand count: 9
+Before Deck Count: 25
+Before Discard Count: 12
+deck count: 25
+temp hand count: 13
 Fail hand count
-handCountAfter: 3
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -1933,10 +1933,10 @@ Test: 107)  Players: 3
 Random Player: 0
 drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 14
-Before Discard Count: 3
-deck count: 14
-temp hand count: 5
+Before Deck Count: 167
+Before Discard Count: 117
+deck count: 167
+temp hand count: 116
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -1948,15 +1948,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 108)  Players: 4
 
-Random Player: 3
+Random Player: 1
 drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 132
-Before Discard Count: 70
-deck count: 132
-temp hand count: 33
-Fail hand count
-handCountAfter: 3
+Before Hand Count: 3
+Before Deck Count: 134
+Before Discard Count: 74
+deck count: 134
+temp hand count: 75
+PASS
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -1964,15 +1964,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 109)  Players: 2
+Test: 109)  Players: 3
 
-Random Player: 1
+Random Player: 0
 drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 42
-Before Discard Count: 21
-deck count: 42
-temp hand count: 26
+Before Deck Count: 40
+Before Discard Count: 19
+deck count: 40
+temp hand count: 38
 Fail hand count
 handCountAfter: 4
 drawnTreasereAfter: 2
@@ -1984,15 +1984,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 110)  Players: 2
 
-Random Player: 1
-drawnTreasereBefore: 1
+Random Player: 0
+drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 126
-Before Discard Count: 110
-deck count: 126
-temp hand count: 31
+Before Deck Count: 148
+Before Discard Count: 64
+deck count: 148
+temp hand count: 126
 Fail hand count
-handCountAfter: 5
+handCountAfter: 3
 drawnTreasereAfter: 2
 
 ------------
@@ -2002,15 +2002,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 111)  Players: 3
 
-Random Player: 1
-drawnTreasereBefore: 1
+Random Player: 2
+drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 57
-Before Discard Count: 10
-deck count: 57
-temp hand count: 37
+Before Deck Count: 158
+Before Discard Count: 30
+deck count: 158
+temp hand count: 24
 Fail hand count
-handCountAfter: 4
+handCountAfter: 2
 drawnTreasereAfter: 2
 
 ------------
@@ -2022,11 +2022,29 @@ Test: 112)  Players: 3
 
 Random Player: 1
 drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 11
+Before Discard Count: 2
+deck count: 11
+temp hand count: 1
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 113)  Players: 4
+
+Random Player: 1
+drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 175
-Before Discard Count: 75
-deck count: 175
-temp hand count: 98
+Before Deck Count: 53
+Before Discard Count: 43
+deck count: 53
+temp hand count: 30
 Fail hand count
 handCountAfter: 4
 drawnTreasereAfter: 2
@@ -2036,35 +2054,17 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 113)  Players: 3
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 128
-Before Discard Count: 68
-deck count: 128
-temp hand count: 40
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
 Test: 114)  Players: 4
 
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 20
-Before Discard Count: 12
-deck count: 20
-temp hand count: 16
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 73
+Before Discard Count: 60
+deck count: 73
+temp hand count: 26
 Fail hand count
-handCountAfter: 3
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -2074,15 +2074,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 115)  Players: 2
 
-Random Player: 1
-drawnTreasereBefore: 0
+Random Player: 0
+drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 194
-Before Discard Count: 177
-deck count: 194
-temp hand count: 188
+Before Deck Count: 156
+Before Discard Count: 65
+deck count: 156
+temp hand count: 96
 Fail hand count
-handCountAfter: 1
+handCountAfter: 4
 drawnTreasereAfter: 2
 
 ------------
@@ -2090,17 +2090,17 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 116)  Players: 3
+Test: 116)  Players: 2
 
-Random Player: 2
-drawnTreasereBefore: 1
+Random Player: 0
+drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 124
-Before Discard Count: 35
-deck count: 124
-temp hand count: 27
+Before Deck Count: 256
+Before Discard Count: 164
+deck count: 256
+temp hand count: 228
 Fail hand count
-handCountAfter: 5
+handCountAfter: 4
 drawnTreasereAfter: 2
 
 ------------
@@ -2112,11 +2112,47 @@ Test: 117)  Players: 3
 
 Random Player: 0
 drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 82
+Before Discard Count: 33
+deck count: 82
+temp hand count: 2
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 118)  Players: 4
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 55
+Before Discard Count: 22
+deck count: 55
+temp hand count: 6
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 119)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 116
-Before Discard Count: 34
-deck count: 116
-temp hand count: 69
+Before Deck Count: 84
+Before Discard Count: 9
+deck count: 84
+temp hand count: 48
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -2126,51 +2162,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 118)  Players: 3
-
-Random Player: 2
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 120
-Before Discard Count: 41
-deck count: 120
-temp hand count: 18
-Fail hand count
-handCountAfter: 1
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 119)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 111
-Before Discard Count: 41
-deck count: 111
-temp hand count: 95
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
 Test: 120)  Players: 4
 
-Random Player: 0
+Random Player: 1
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 114
-Before Discard Count: 62
-deck count: 114
-temp hand count: 105
+Before Deck Count: 68
+Before Discard Count: 13
+deck count: 68
+temp hand count: 31
 Fail hand count
 handCountAfter: 3
 drawnTreasereAfter: 2
@@ -2182,15 +2182,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 121)  Players: 3
 
-Random Player: 0
+Random Player: 1
 drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 166
-Before Discard Count: 121
-deck count: 166
+Before Hand Count: 4
+Before Deck Count: 24
+Before Discard Count: 19
+deck count: 24
 temp hand count: 19
 Fail hand count
-handCountAfter: 2
+handCountAfter: 3
 drawnTreasereAfter: 2
 
 ------------
@@ -2198,17 +2198,17 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 122)  Players: 3
+Test: 122)  Players: 2
 
 Random Player: 0
-drawnTreasereBefore: 0
+drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 175
-Before Discard Count: 70
-deck count: 175
-temp hand count: 112
+Before Deck Count: 133
+Before Discard Count: 123
+deck count: 133
+temp hand count: 98
 Fail hand count
-handCountAfter: 3
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -2219,86 +2219,32 @@ drawnTreasereAfter: 2
 Test: 123)  Players: 2
 
 Random Player: 1
-drawnTreasereBefore: 1
+drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 49
+Before Deck Count: 159
+Before Discard Count: 148
+deck count: 159
+temp hand count: 47
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 124)  Players: 4
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 105
 Before Discard Count: 20
-deck count: 49
-temp hand count: 35
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 124)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 129
-Before Discard Count: 63
-deck count: 129
-temp hand count: 92
-Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 125)  Players: 4
-
-Random Player: 3
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 70
-Before Discard Count: 7
-deck count: 70
+deck count: 105
 temp hand count: 33
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 126)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 257
-Before Discard Count: 91
-deck count: 257
-temp hand count: 64
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 127)  Players: 4
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 44
-Before Discard Count: 10
-deck count: 44
-temp hand count: 4
 Fail hand count
-handCountAfter: 3
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -2306,15 +2252,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 128)  Players: 2
+Test: 125)  Players: 2
 
 Random Player: 0
 drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 101
-Before Discard Count: 83
-deck count: 101
-temp hand count: 51
+Before Deck Count: 227
+Before Discard Count: 165
+deck count: 227
+temp hand count: 135
 Fail hand count
 handCountAfter: 4
 drawnTreasereAfter: 2
@@ -2324,51 +2270,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 129)  Players: 2
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 254
-Before Discard Count: 155
-deck count: 254
-temp hand count: 71
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 130)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 61
-Before Discard Count: 45
-deck count: 61
-temp hand count: 18
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 131)  Players: 3
+Test: 126)  Players: 3
 
 Random Player: 1
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 164
-Before Discard Count: 49
-deck count: 164
-temp hand count: 55
+Before Deck Count: 121
+Before Discard Count: 24
+deck count: 121
+temp hand count: 48
 Fail hand count
 handCountAfter: 3
 drawnTreasereAfter: 2
@@ -2378,14 +2288,14 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 132)  Players: 3
+Test: 127)  Players: 3
 
 Random Player: 1
 drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 122
-Before Discard Count: 75
-deck count: 122
+Before Deck Count: 129
+Before Discard Count: 104
+deck count: 129
 temp hand count: 121
 Fail hand count
 handCountAfter: 4
@@ -2396,15 +2306,51 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 133)  Players: 2
+Test: 128)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 135
+Before Discard Count: 131
+deck count: 135
+temp hand count: 72
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 129)  Players: 4
+
+Random Player: 2
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 114
+Before Discard Count: 19
+deck count: 114
+temp hand count: 66
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 130)  Players: 3
 
 Random Player: 1
 drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 181
-Before Discard Count: 71
-deck count: 181
-temp hand count: 170
+Before Deck Count: 112
+Before Discard Count: 50
+deck count: 112
+temp hand count: 50
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -2414,15 +2360,69 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 134)  Players: 3
+Test: 131)  Players: 4
+
+Random Player: 2
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 67
+Before Discard Count: 42
+deck count: 67
+temp hand count: 63
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 132)  Players: 4
+
+Random Player: 2
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 79
+Before Discard Count: 36
+deck count: 79
+temp hand count: 63
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 133)  Players: 3
 
 Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 50
-Before Discard Count: 17
-deck count: 50
-temp hand count: 36
+Before Deck Count: 15
+Before Discard Count: 1
+deck count: 15
+temp hand count: 10
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 134)  Players: 4
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 43
+Before Discard Count: 16
+deck count: 43
+temp hand count: 5
 Fail hand count
 handCountAfter: 2
 drawnTreasereAfter: 2
@@ -2435,84 +2435,12 @@ drawnTreasereAfter: 2
 Test: 135)  Players: 2
 
 Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 39
-Before Discard Count: 9
-deck count: 39
-temp hand count: 20
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 136)  Players: 3
-
-Random Player: 1
 drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 56
-Before Discard Count: 34
-deck count: 56
-temp hand count: 51
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 137)  Players: 3
-
-Random Player: 1
-drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 113
-Before Discard Count: 50
-deck count: 113
-temp hand count: 10
-Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 138)  Players: 2
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 53
-Before Discard Count: 32
-deck count: 53
-temp hand count: 50
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 139)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 228
-Before Discard Count: 75
-deck count: 228
-temp hand count: 69
+Before Deck Count: 253
+Before Discard Count: 228
+deck count: 253
+temp hand count: 222
 Fail hand count
 handCountAfter: 3
 drawnTreasereAfter: 2
@@ -2522,70 +2450,16 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 140)  Players: 4
+Test: 136)  Players: 4
 
 Random Player: 1
 drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 110
-Before Discard Count: 73
-deck count: 110
-temp hand count: 12
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 141)  Players: 4
-
-Random Player: 3
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 131
-Before Discard Count: 15
-deck count: 131
-temp hand count: 59
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 142)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 212
-Before Discard Count: 110
-deck count: 212
-temp hand count: 93
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 143)  Players: 4
-
-Random Player: 3
-drawnTreasereBefore: 0
-Before Hand Count: 3
 Before Deck Count: 52
-Before Discard Count: 28
+Before Discard Count: 32
 deck count: 52
-temp hand count: 20
-PASS
+temp hand count: 27
+Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
 
@@ -2594,15 +2468,159 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 144)  Players: 3
+Test: 137)  Players: 4
+
+Random Player: 3
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 114
+Before Discard Count: 7
+deck count: 114
+temp hand count: 109
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 138)  Players: 4
+
+Random Player: 3
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 92
+Before Discard Count: 85
+deck count: 92
+temp hand count: 28
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 139)  Players: 4
+
+Random Player: 3
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 28
+Before Discard Count: 21
+deck count: 28
+temp hand count: 15
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 140)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 85
+Before Discard Count: 0
+deck count: 85
+temp hand count: 80
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 141)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 15
+Before Discard Count: 3
+deck count: 15
+temp hand count: 6
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 142)  Players: 4
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 113
+Before Discard Count: 44
+deck count: 113
+temp hand count: 26
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 143)  Players: 3
+
+Random Player: 2
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 78
+Before Discard Count: 71
+deck count: 78
+temp hand count: 40
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 144)  Players: 4
 
 Random Player: 1
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 132
-Before Discard Count: 13
-deck count: 132
-temp hand count: 98
+Before Deck Count: 48
+Before Discard Count: 35
+deck count: 48
+temp hand count: 22
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 145)  Players: 4
+
+Random Player: 3
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 57
+Before Discard Count: 22
+deck count: 57
+temp hand count: 27
 Fail hand count
 handCountAfter: 3
 drawnTreasereAfter: 2
@@ -2612,35 +2630,17 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 145)  Players: 2
+Test: 146)  Players: 4
 
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 49
-Before Discard Count: 28
-deck count: 49
-temp hand count: 47
-Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 146)  Players: 3
-
-Random Player: 0
+Random Player: 3
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 97
-Before Discard Count: 87
-deck count: 97
-temp hand count: 42
-PASS
-handCountAfter: 5
+Before Deck Count: 10
+Before Discard Count: 2
+deck count: 10
+temp hand count: 4
+Fail hand count
+handCountAfter: 2
 drawnTreasereAfter: 2
 
 ------------
@@ -2650,13 +2650,31 @@ drawnTreasereAfter: 2
 ------------
 Test: 147)  Players: 2
 
-Random Player: 0
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 255
+Before Discard Count: 5
+deck count: 255
+temp hand count: 89
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 148)  Players: 2
+
+Random Player: 1
 drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 49
-Before Discard Count: 14
-deck count: 49
-temp hand count: 26
+Before Deck Count: 167
+Before Discard Count: 120
+deck count: 167
+temp hand count: 141
 Fail hand count
 handCountAfter: 4
 drawnTreasereAfter: 2
@@ -2666,35 +2684,35 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 148)  Players: 3
+Test: 149)  Players: 2
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 19
+Before Discard Count: 14
+deck count: 19
+temp hand count: 18
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 150)  Players: 2
 
 Random Player: 0
 drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 129
-Before Discard Count: 42
-deck count: 129
-temp hand count: 40
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 149)  Players: 3
-
-Random Player: 1
-drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 118
-Before Discard Count: 110
-deck count: 118
-temp hand count: 39
-Fail hand count
-handCountAfter: 2
+Before Deck Count: 107
+Before Discard Count: 36
+deck count: 107
+temp hand count: 68
+PASS
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -2702,35 +2720,17 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 150)  Players: 3
+Test: 151)  Players: 4
 
 Random Player: 2
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 92
-Before Discard Count: 50
-deck count: 92
-temp hand count: 32
+Before Deck Count: 112
+Before Discard Count: 27
+deck count: 112
+temp hand count: 97
 Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 151)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 122
-Before Discard Count: 107
-deck count: 122
-temp hand count: 104
-Fail hand count
-handCountAfter: 1
+handCountAfter: 3
 drawnTreasereAfter: 2
 
 ------------
@@ -2741,14 +2741,14 @@ drawnTreasereAfter: 2
 Test: 152)  Players: 2
 
 Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 171
-Before Discard Count: 25
-deck count: 171
-temp hand count: 107
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 107
+Before Discard Count: 30
+deck count: 107
+temp hand count: 82
 Fail hand count
-handCountAfter: 2
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -2756,17 +2756,17 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 153)  Players: 4
+Test: 153)  Players: 2
 
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 46
-Before Discard Count: 14
-deck count: 46
-temp hand count: 30
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 119
+Before Discard Count: 84
+deck count: 119
+temp hand count: 40
 Fail hand count
-handCountAfter: 3
+handCountAfter: 4
 drawnTreasereAfter: 2
 
 ------------
@@ -2776,13 +2776,13 @@ drawnTreasereAfter: 2
 ------------
 Test: 154)  Players: 4
 
-Random Player: 3
+Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 22
-Before Discard Count: 1
-deck count: 22
-temp hand count: 9
+Before Deck Count: 54
+Before Discard Count: 39
+deck count: 54
+temp hand count: 26
 PASS
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -2792,17 +2792,17 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 155)  Players: 2
+Test: 155)  Players: 3
 
-Random Player: 0
+Random Player: 2
 drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 187
-Before Discard Count: 143
-deck count: 187
-temp hand count: 24
+Before Deck Count: 150
+Before Discard Count: 103
+deck count: 150
+temp hand count: 80
 Fail hand count
-handCountAfter: 2
+handCountAfter: 1
 drawnTreasereAfter: 2
 
 ------------
@@ -2810,15 +2810,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 156)  Players: 3
+Test: 156)  Players: 4
 
-Random Player: 2
+Random Player: 3
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 133
-Before Discard Count: 62
-deck count: 133
-temp hand count: 58
+Before Deck Count: 54
+Before Discard Count: 26
+deck count: 54
+temp hand count: 27
 PASS
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -2830,49 +2830,31 @@ drawnTreasereAfter: 2
 ------------
 Test: 157)  Players: 2
 
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 10
-Before Discard Count: 6
-deck count: 10
-temp hand count: 9
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 158)  Players: 4
-
-Random Player: 2
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 19
-Before Discard Count: 0
-deck count: 19
-temp hand count: 12
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 159)  Players: 2
-
 Random Player: 1
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 178
-Before Discard Count: 13
-deck count: 178
-temp hand count: 68
+Before Deck Count: 59
+Before Discard Count: 29
+deck count: 59
+temp hand count: 54
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 158)  Players: 3
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 70
+Before Discard Count: 4
+deck count: 70
+temp hand count: 50
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -2882,15 +2864,33 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 160)  Players: 3
+Test: 159)  Players: 4
 
 Random Player: 2
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 88
+Before Discard Count: 68
+deck count: 88
+temp hand count: 45
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 160)  Players: 4
+
+Random Player: 3
 drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 138
-Before Discard Count: 27
-deck count: 138
-temp hand count: 113
+Before Deck Count: 107
+Before Discard Count: 41
+deck count: 107
+temp hand count: 87
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -2902,15 +2902,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 161)  Players: 3
 
-Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 97
-Before Discard Count: 23
-deck count: 97
-temp hand count: 19
+Random Player: 2
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 68
+Before Discard Count: 20
+deck count: 68
+temp hand count: 45
 Fail hand count
-handCountAfter: 1
+handCountAfter: 4
 drawnTreasereAfter: 2
 
 ------------
@@ -2921,13 +2921,13 @@ drawnTreasereAfter: 2
 Test: 162)  Players: 4
 
 Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 22
-Before Discard Count: 5
-deck count: 22
-temp hand count: 19
-Fail hand count
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 81
+Before Discard Count: 41
+deck count: 81
+temp hand count: 31
+PASS
 handCountAfter: 5
 drawnTreasereAfter: 2
 
@@ -2936,16 +2936,16 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 163)  Players: 3
+Test: 163)  Players: 4
 
-Random Player: 2
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 41
-Before Discard Count: 2
-deck count: 41
-temp hand count: 23
-PASS
+Random Player: 3
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 57
+Before Discard Count: 0
+deck count: 57
+temp hand count: 36
+Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
 
@@ -2956,31 +2956,13 @@ drawnTreasereAfter: 2
 ------------
 Test: 164)  Players: 4
 
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 87
-Before Discard Count: 52
-deck count: 87
-temp hand count: 85
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 165)  Players: 3
-
 Random Player: 2
 drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 80
-Before Discard Count: 73
-deck count: 80
-temp hand count: 36
+Before Deck Count: 28
+Before Discard Count: 22
+deck count: 28
+temp hand count: 1
 Fail hand count
 handCountAfter: 4
 drawnTreasereAfter: 2
@@ -2990,53 +2972,71 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 166)  Players: 2
+Test: 165)  Players: 4
+
+Random Player: 2
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 112
+Before Discard Count: 67
+deck count: 112
+temp hand count: 16
+Fail hand count
+handCountAfter: 1
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 166)  Players: 4
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 94
+Before Discard Count: 87
+deck count: 94
+temp hand count: 59
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 167)  Players: 3
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 114
+Before Discard Count: 55
+deck count: 114
+temp hand count: 81
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 168)  Players: 4
 
 Random Player: 1
 drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 28
-Before Discard Count: 11
-deck count: 28
-temp hand count: 10
-PASS
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 167)  Players: 4
-
-Random Player: 0
-drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 110
-Before Discard Count: 54
-deck count: 110
-temp hand count: 97
+Before Deck Count: 21
+Before Discard Count: 10
+deck count: 21
+temp hand count: 7
 Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 168)  Players: 2
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 196
-Before Discard Count: 138
-deck count: 196
-temp hand count: 160
-Fail hand count
-handCountAfter: 5
+handCountAfter: 3
 drawnTreasereAfter: 2
 
 ------------
@@ -3047,48 +3047,12 @@ drawnTreasereAfter: 2
 Test: 169)  Players: 4
 
 Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 63
-Before Discard Count: 37
-deck count: 63
-temp hand count: 5
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 170)  Players: 4
-
-Random Player: 3
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 38
-Before Discard Count: 32
-deck count: 38
-temp hand count: 13
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 171)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 58
-Before Discard Count: 33
-deck count: 58
-temp hand count: 49
+Before Deck Count: 60
+Before Discard Count: 45
+deck count: 60
+temp hand count: 18
 Fail hand count
 handCountAfter: 1
 drawnTreasereAfter: 2
@@ -3098,15 +3062,33 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 172)  Players: 2
+Test: 170)  Players: 4
 
-Random Player: 1
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 3
+Before Deck Count: 17
+Before Discard Count: 13
+deck count: 17
+temp hand count: 13
+PASS
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 171)  Players: 3
+
+Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 155
-Before Discard Count: 54
-deck count: 155
-temp hand count: 67
+Before Deck Count: 148
+Before Discard Count: 142
+deck count: 148
+temp hand count: 96
 Fail hand count
 handCountAfter: 3
 drawnTreasereAfter: 2
@@ -3116,15 +3098,51 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 173)  Players: 2
+Test: 172)  Players: 3
 
 Random Player: 0
 drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 142
+Before Discard Count: 122
+deck count: 142
+temp hand count: 135
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 173)  Players: 3
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 60
+Before Discard Count: 51
+deck count: 60
+temp hand count: 11
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 174)  Players: 4
+
+Random Player: 1
+drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 20
-Before Discard Count: 9
-deck count: 20
-temp hand count: 19
+Before Deck Count: 18
+Before Discard Count: 4
+deck count: 18
+temp hand count: 10
 Fail hand count
 handCountAfter: 4
 drawnTreasereAfter: 2
@@ -3134,33 +3152,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 174)  Players: 2
+Test: 175)  Players: 3
 
 Random Player: 1
 drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 235
-Before Discard Count: 145
-deck count: 235
-temp hand count: 155
-Fail hand count
-handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 175)  Players: 3
-
-Random Player: 2
-drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 120
-Before Discard Count: 46
-deck count: 120
-temp hand count: 69
+Before Deck Count: 43
+Before Discard Count: 8
+deck count: 43
+temp hand count: 31
 PASS
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -3173,14 +3173,14 @@ drawnTreasereAfter: 2
 Test: 176)  Players: 2
 
 Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 10
-Before Discard Count: 4
-deck count: 10
-temp hand count: 5
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 75
+Before Discard Count: 64
+deck count: 75
+temp hand count: 11
 Fail hand count
-handCountAfter: 4
+handCountAfter: 3
 drawnTreasereAfter: 2
 
 ------------
@@ -3190,13 +3190,31 @@ drawnTreasereAfter: 2
 ------------
 Test: 177)  Players: 3
 
-Random Player: 2
+Random Player: 0
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 52
+Before Discard Count: 3
+deck count: 52
+temp hand count: 41
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 178)  Players: 3
+
+Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 133
-Before Discard Count: 100
-deck count: 133
-temp hand count: 74
+Before Deck Count: 35
+Before Discard Count: 2
+deck count: 35
+temp hand count: 2
 PASS
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -3206,15 +3224,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 178)  Players: 4
+Test: 179)  Players: 3
 
-Random Player: 3
+Random Player: 0
 drawnTreasereBefore: 1
 Before Hand Count: 3
-Before Deck Count: 125
-Before Discard Count: 70
-deck count: 125
-temp hand count: 48
+Before Deck Count: 113
+Before Discard Count: 37
+deck count: 113
+temp hand count: 100
 Fail hand count
 handCountAfter: 4
 drawnTreasereAfter: 2
@@ -3224,34 +3242,16 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 179)  Players: 4
+Test: 180)  Players: 2
 
-Random Player: 2
+Random Player: 1
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 124
-Before Discard Count: 114
-deck count: 124
-temp hand count: 51
+Before Deck Count: 165
+Before Discard Count: 115
+deck count: 165
+temp hand count: 116
 Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 180)  Players: 4
-
-Random Player: 2
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 89
-Before Discard Count: 41
-deck count: 89
-temp hand count: 85
-PASS
 handCountAfter: 5
 drawnTreasereAfter: 2
 
@@ -3262,49 +3262,49 @@ drawnTreasereAfter: 2
 ------------
 Test: 181)  Players: 4
 
-Random Player: 2
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 120
-Before Discard Count: 105
-deck count: 120
-temp hand count: 89
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 182)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 125
-Before Discard Count: 118
-deck count: 125
-temp hand count: 0
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 183)  Players: 2
-
-Random Player: 0
+Random Player: 1
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 200
-Before Discard Count: 32
-deck count: 200
-temp hand count: 16
+Before Deck Count: 133
+Before Discard Count: 44
+deck count: 133
+temp hand count: 56
+Fail hand count
+handCountAfter: 2
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 182)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 4
+Before Deck Count: 191
+Before Discard Count: 35
+deck count: 191
+temp hand count: 171
+Fail hand count
+handCountAfter: 5
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 183)  Players: 4
+
+Random Player: 2
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 113
+Before Discard Count: 17
+deck count: 113
+temp hand count: 36
 Fail hand count
 handCountAfter: 3
 drawnTreasereAfter: 2
@@ -3314,15 +3314,15 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 184)  Players: 3
+Test: 184)  Players: 4
 
 Random Player: 2
 drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 132
-Before Discard Count: 86
-deck count: 132
-temp hand count: 94
+Before Deck Count: 12
+Before Discard Count: 4
+deck count: 12
+temp hand count: 7
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -3334,13 +3334,13 @@ drawnTreasereAfter: 2
 ------------
 Test: 185)  Players: 4
 
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 65
-Before Discard Count: 24
-deck count: 65
-temp hand count: 9
+Random Player: 2
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 95
+Before Discard Count: 79
+deck count: 95
+temp hand count: 60
 Fail hand count
 handCountAfter: 3
 drawnTreasereAfter: 2
@@ -3350,89 +3350,89 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 186)  Players: 4
+Test: 186)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 104
+Before Discard Count: 62
+deck count: 104
+temp hand count: 86
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 187)  Players: 3
+
+Random Player: 0
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 112
+Before Discard Count: 70
+deck count: 112
+temp hand count: 52
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 188)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 0
+Before Hand Count: 4
+Before Deck Count: 250
+Before Discard Count: 132
+deck count: 250
+temp hand count: 83
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 189)  Players: 4
 
 Random Player: 3
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 16
+Before Discard Count: 4
+deck count: 16
+temp hand count: 8
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 190)  Players: 2
+
+Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 30
-Before Discard Count: 12
-deck count: 30
-temp hand count: 2
+Before Deck Count: 244
+Before Discard Count: 177
+deck count: 244
+temp hand count: 154
 Fail hand count
 handCountAfter: 3
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 187)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 237
-Before Discard Count: 57
-deck count: 237
-temp hand count: 108
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 188)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 4
-Before Deck Count: 74
-Before Discard Count: 26
-deck count: 74
-temp hand count: 1
-Fail hand count
-handCountAfter: 5
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 189)  Players: 3
-
-Random Player: 0
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 35
-Before Discard Count: 17
-deck count: 35
-temp hand count: 1
-Fail hand count
-handCountAfter: 4
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 190)  Players: 3
-
-Random Player: 1
-drawnTreasereBefore: 1
-Before Hand Count: 3
-Before Deck Count: 151
-Before Discard Count: 113
-deck count: 151
-temp hand count: 38
-Fail hand count
-handCountAfter: 4
 drawnTreasereAfter: 2
 
 ------------
@@ -3443,30 +3443,12 @@ drawnTreasereAfter: 2
 Test: 191)  Players: 2
 
 Random Player: 0
-drawnTreasereBefore: 0
-Before Hand Count: 4
-Before Deck Count: 87
-Before Discard Count: 25
-deck count: 87
-temp hand count: 54
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 192)  Players: 3
-
-Random Player: 1
 drawnTreasereBefore: 1
 Before Hand Count: 4
 Before Deck Count: 37
-Before Discard Count: 10
+Before Discard Count: 21
 deck count: 37
-temp hand count: 25
+temp hand count: 11
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -3476,15 +3458,33 @@ drawnTreasereAfter: 2
 
 
 ------------
+Test: 192)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 122
+Before Discard Count: 53
+deck count: 122
+temp hand count: 28
+Fail hand count
+handCountAfter: 4
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
 Test: 193)  Players: 4
 
-Random Player: 0
-drawnTreasereBefore: 0
+Random Player: 1
+drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 128
-Before Discard Count: 30
-deck count: 128
-temp hand count: 84
+Before Deck Count: 32
+Before Discard Count: 11
+deck count: 32
+temp hand count: 2
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -3496,15 +3496,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 194)  Players: 2
 
-Random Player: 0
-drawnTreasereBefore: 1
+Random Player: 1
+drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 94
-Before Discard Count: 67
-deck count: 94
-temp hand count: 53
+Before Deck Count: 31
+Before Discard Count: 25
+deck count: 31
+temp hand count: 3
 Fail hand count
-handCountAfter: 5
+handCountAfter: 3
 drawnTreasereAfter: 2
 
 ------------
@@ -3514,15 +3514,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 195)  Players: 4
 
-Random Player: 3
+Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 98
-Before Discard Count: 87
-deck count: 98
-temp hand count: 47
+Before Deck Count: 75
+Before Discard Count: 49
+deck count: 75
+temp hand count: 65
 Fail hand count
-handCountAfter: 4
+handCountAfter: 0
 drawnTreasereAfter: 2
 
 ------------
@@ -3530,33 +3530,33 @@ drawnTreasereAfter: 2
 
 
 ------------
-Test: 196)  Players: 2
-
-Random Player: 1
-drawnTreasereBefore: 0
-Before Hand Count: 3
-Before Deck Count: 182
-Before Discard Count: 128
-deck count: 182
-temp hand count: 3
-Fail hand count
-handCountAfter: 2
-drawnTreasereAfter: 2
-
-------------
-
-
-
-------------
-Test: 197)  Players: 3
+Test: 196)  Players: 3
 
 Random Player: 0
 drawnTreasereBefore: 1
+Before Hand Count: 3
+Before Deck Count: 64
+Before Discard Count: 37
+deck count: 64
+temp hand count: 18
+Fail hand count
+handCountAfter: 3
+drawnTreasereAfter: 2
+
+------------
+
+
+
+------------
+Test: 197)  Players: 2
+
+Random Player: 1
+drawnTreasereBefore: 1
 Before Hand Count: 4
-Before Deck Count: 57
-Before Discard Count: 24
-deck count: 57
-temp hand count: 42
+Before Deck Count: 39
+Before Discard Count: 20
+deck count: 39
+temp hand count: 31
 Fail hand count
 handCountAfter: 5
 drawnTreasereAfter: 2
@@ -3568,15 +3568,15 @@ drawnTreasereAfter: 2
 ------------
 Test: 198)  Players: 4
 
-Random Player: 2
+Random Player: 3
 drawnTreasereBefore: 0
 Before Hand Count: 3
-Before Deck Count: 47
-Before Discard Count: 3
-deck count: 47
-temp hand count: 39
-Fail hand count
-handCountAfter: 2
+Before Deck Count: 121
+Before Discard Count: 10
+deck count: 121
+temp hand count: 85
+PASS
+handCountAfter: 5
 drawnTreasereAfter: 2
 
 ------------
@@ -3586,20 +3586,20 @@ drawnTreasereAfter: 2
 ------------
 Test: 199)  Players: 4
 
-Random Player: 3
+Random Player: 0
 drawnTreasereBefore: 0
 Before Hand Count: 4
-Before Deck Count: 133
-Before Discard Count: 70
-deck count: 133
-temp hand count: 68
+Before Deck Count: 68
+Before Discard Count: 41
+deck count: 68
+temp hand count: 58
 Fail hand count
-handCountAfter: 5
+handCountAfter: 2
 drawnTreasereAfter: 2
 
 ------------
 
-29 out of 200 tests passed
+31 out of 200 tests passed
 
 
 Function 'salvagerEffect'
@@ -3612,7 +3612,7 @@ Function 'villageEffect'
 Lines executed:0.00% of 4
 
 Function 'smithyEffect'
-Lines executed:100.00% of 8
+Lines executed:0.00% of 8
 
 Function 'adventurerEffect'
 Lines executed:100.00% of 15
@@ -3624,10 +3624,10 @@ Function 'gainCard'
 Lines executed:0.00% of 13
 
 Function 'discardCard'
-Lines executed:84.62% of 13
+Lines executed:0.00% of 13
 
 Function 'cardEffect'
-Lines executed:5.74% of 209
+Lines executed:4.78% of 209
 
 Function 'getCost'
 Lines executed:0.00% of 30
@@ -3684,6 +3684,6 @@ Function 'compare'
 Lines executed:100.00% of 6
 
 File 'dominion.c'
-Lines executed:31.91% of 561
+Lines executed:28.16% of 561
 Creating 'dominion.c.gcov'
 
